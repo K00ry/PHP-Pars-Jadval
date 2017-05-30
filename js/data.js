@@ -53,7 +53,7 @@ var data = {
                 "info": " "
             }
         },
-    "fantezi": {
+    "فانتزی": {
         "koozeyi": {
             "type": "کوزیی",
             "img": "images/mozayik/koozeyi",
@@ -62,7 +62,7 @@ var data = {
         },
         "saat sheni": {
             "type": "ساعت شنی",
-            "img": "images/mozayik/saat sheni",
+            "img": "images/mozayik/saatsheni",
             "size": "40x40",
             "info": " "
         },
@@ -91,32 +91,32 @@ var data = {
             "info": " "
         },
         "lozi mari": {
-            "type": "لوزی(پوست ماری)",
-            "img": "images/mozayik/lozi poost mari",
+            "type": "(لوزی(پوست مار",
+            "img": "images/mozayik/lozipoostmari",
             "size": "40x40",
             "info": " "
         },
         "i": {
-            "type": "ای",
+            "type": "(I)ای",
             "img": "images/mozayik/i",
             "size": "40x40",
             "info": " "
         },
         "5zeli": {
             "type": "پنج ضلعی",
-            "img": "images/mozayik/5 zeli",
+            "img": "images/mozayik/5zeli",
             "size": "40x40",
             "info": " "
         },
         "lozi sade": {
             "type": "لوزی ساده",
-            "img": "images/mozayik/lozi sade",
+            "img": "images/mozayik/lozisade",
             "size": "40x40",
             "info": " "
         },
         "puzele sombe": {
             "type": "پازلی سمبه",
-            "img": "images/mozayik/puzzele sombe",
+            "img": "images/mozayik/puzzelesombe",
             "size": "40x40",
             "info": " "
         }

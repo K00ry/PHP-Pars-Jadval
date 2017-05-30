@@ -54,17 +54,17 @@
     <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn">&times;</a>
             <ul class="sideNav-title">
-                <li>
-                    <a class="nav-link-asli nav-link-style" href="#">
+               <li>
+                    <a class="nav-link-asli nav-link-style" href="./index.php">
                         <div class="jakesh">
-                            <svg class="arrow-left-icon-asli arrow-style">
+                            <!-- <svg class="arrow-left-icon-asli arrow-style">
                                 <use xlink:href="#arrow-right" />
-                            </svg>
+                            </svg> -->
                         </div>
                         <div>صفحه اصلی</div>
-                         <div class="nav asli">
-                            <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
-                            <a class="sub-link" href="catalog.php?cata=mozayik">کفپوش بتنی</a>
+                        <div class="nav asli">
+                            <a class="sub-link" href="#">جدول بتنی</a>
+                            <a class="sub-link" href="#">کفپوش بتنی</a>
                             <a class="sub-link" href="#">موزاییک</a>
                             <a class="sub-link" href="#">سنگدال بتنی</a>
                         </div>
@@ -79,9 +79,9 @@
                         </div>
                         <div>محصولات</div>
                         <div class="nav mahsool">
-                                <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
-                            <a class="sub-link" href="catalog.php?cata=mozayik">کفپوش بتنی</a>
-                            <a class="sub-link" href="#">موزاییک</a>
+                              <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
+                            <a class="sub-link" href="catalog.php?cata=mozayik">موزاییک</a>
+                            <a class="sub-link" href="#">کفپوش بتنی</a>
                             <a class="sub-link" href="#">سنگدال بتنی</a>
                         </div>
                     </a>
