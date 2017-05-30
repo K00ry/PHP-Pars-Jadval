@@ -1039,6 +1039,38 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/sakhtemoon.png": {
+		"ft": 32768,
+		"iS": 90282,
+		"oA": 0,
+		"oAP": "\/img\/sakhtemoon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sakhtemoon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/sakhtemoon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/shade.png": {
+		"ft": 32768,
+		"iS": 3612,
+		"oA": 0,
+		"oAP": "\/img\/shade.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/Source-arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,

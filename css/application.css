@@ -1,5 +1,8 @@
 body {
-  padding-top: 75px; }
+  padding-top: 75px;
+  background: url(../img/sakhtemoon.png) no-repeat 100%;
+  background-size: 37%;
+  background-position: bottom left; }
 
 a:hover,
 a:focus {
@@ -12,7 +15,10 @@ a:focus {
 .main {
   padding: 0;
   width: 100%;
-  margin: auto; }
+  margin: auto;
+  background: url(../img/shade.png) no-repeat 100%;
+  background-size: 100%;
+  background-position: top right; }
 
 .is-visible {
   opacity: 1;
@@ -29,11 +35,16 @@ a:focus {
   background-color: #fff; }
   .navbar #main h1 {
     display: inline-block;
-    font-size: 2.2em;
+    font-size: 2.5em;
     font-family: asli;
     font-weight: bold;
-    color: rgba(34, 34, 34, 0.9);
+    color: #FFCC00;
     margin: auto 40px; }
+    .navbar #main h1 b {
+      font-size: 1em;
+      font-family: asli;
+      font-weight: bold;
+      color: rgba(34, 34, 34, 0.9); }
   .navbar .navbar-toggler {
     font-size: 1.9em;
     outline: none; }
@@ -116,15 +127,17 @@ a:focus {
   width: 100%;
   align-items: center; }
   .genres .active a {
-    color: rgba(34, 34, 34, 0.9); }
+    color: #FFCC00; }
   .genres li a:focus, .genres li a:hover {
-    color: rgba(34, 34, 34, 0.9); }
+    color: #FFCC00;
+    transition-duration: .3s; }
   .genres li a {
     font-size: 1.5em;
     padding: 10px;
     font-size: 1.5em;
     font-family: sevom;
-    font-weight: bold; }
+    font-weight: bold;
+    color: rgba(34, 34, 34, 0.9); }
 
 .group {
   display: flex;
@@ -188,12 +201,12 @@ a:focus {
   flex-direction: column;
   justify-content: space-between;
   width: 90%;
-  align-items: center;
-  text-align: center; }
+  align-items: center; }
   .contact .top-nav {
     width: 100%;
     padding: 20px 0;
-    border-bottom: 2px solid #BFBFBF; }
+    border-bottom: 2px solid #BFBFBF;
+    text-align: center; }
     .contact .top-nav a {
       font-size: 1em;
       font-family: asli;
@@ -202,16 +215,18 @@ a:focus {
   .contact .contact-info {
     font-family: asli;
     padding: 30px 0;
-    border-bottom: 2px solid #BFBFBF; }
+    border-bottom: 2px solid #BFBFBF;
+    text-align: right; }
     .contact .contact-info h4 a {
       font-size: 0.9em;
       font-family: -apple-;
-      font-weight: bold; }
+      font-weight: bold;
+      color: rgba(34, 34, 34, 0.9); }
     .contact .contact-info span {
       font-size: 1em;
       font-family: asli;
       font-weight: bold;
-      color: rgba(34, 34, 34, 0.9); }
+      color: #FFCC00; }
 
 .jabeja {
   background-image: url("../img/35.jpg");
@@ -230,7 +245,8 @@ footer h1 {
   font-size: 1em;
   font-family: asli;
   font-weight: bold;
-  color: rgba(34, 34, 34, 0.9); }
+  color: rgba(34, 34, 34, 0.9);
+  text-align: right; }
 
 .sidenav {
   height: 100%;
@@ -321,12 +337,6 @@ footer h1 {
   font-family: charom;
   src: url(../fonts/vazir-WOL.ttf); }
 
-@font-face {
-  font-family: Vazir;
-  src: url("Vazir.eot");
-  src: url("Vazir.eot?#iefix") format("embedded-opentype"), url("Vazir.woff") format("woff"), url("Vazir.ttf") format("truetype");
-  font-weight: normal; }
-
 a {
   text-decoration: none;
   color: rgba(34, 34, 34, 0.4); }
@@ -334,7 +344,7 @@ a {
 .image-head {
   font-family: asli;
   font-size: 3em;
-  color: #fff;
+  color: #FFCC00;
   text-decoration: none;
   margin: auto;
   z-index: 2; }

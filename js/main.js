@@ -28,7 +28,7 @@ $(document).ready(function() {
         });
         genre_identify += "</ul>"
         genre.html(genre_identify);
-        $(".genres li:first").addClass('active');
+        $(".genres li:nth-child(2)").addClass('active');
     }
 
     function galleryBuilt(object) {
@@ -41,7 +41,7 @@ $(document).ready(function() {
             group_mozayik += '<span class="item-name">' + value.type + '</span></div>';
             group_mozayik += '</div>';
         })
-        // setTimeout(function(){mozayik_class.html(group_mozayik).fadeIn("slow");},0);
+        
         mozayik_class.html(group_mozayik).fadeIn("slow");
     }
 
@@ -50,7 +50,6 @@ $(document).ready(function() {
              mozayik_class.fadeOut("slow");
             var rightObject = key[$(this).html()];
             setTimeout(function(){galleryBuilt(rightObject)},500);
-            // galleryBuilt(rightObject);
             $(this).parent().siblings().removeClass('active');
             $(this).addClass('active');
         });
@@ -59,7 +58,7 @@ $(document).ready(function() {
 
     if (genre.hasClass('mozayik')) {
         genreBiult(data.mozayik);
-        galleryBuilt(data.mozayik["20x20"]);
+        galleryBuilt(data.mozayik["40x40"]);
         genreSwitch(data.mozayik);
     } else if (genre.hasClass('jadval')) {
         galleryBuilt(data.jadval);

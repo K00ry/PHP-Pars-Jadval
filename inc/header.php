@@ -46,7 +46,7 @@
      
         <div id="main">
             <span id="btn" style="font-size:30px;cursor:pointer">&#9776;</span>
-            <a href="./index.php"><h1>پارس جدول</h1></a>
+           <a href="./index.php"><h1>پارس <b>جدول</b></h1></a>
         </div>
    
     </nav>
