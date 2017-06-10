@@ -9,26 +9,10 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/catalog.php": {
+	"\/.bootstraprc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/catalog.php",
-		"oF": 0
-		},
-	"\/css\/application.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/application-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/application.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/css\/application.css.map",
+		"oAP": "\/.bootstraprc",
 		"oF": 0
 		},
 	"\/dist\/bundle.js": {
@@ -40,1106 +24,35 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/dist\/data.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/dist\/data-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
+	"\/dist\/catalog.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/catalog.php",
+		"oF": 0
+		},
+	"\/dist\/inc\/footer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/inc\/footer.php",
+		"oF": 0
+		},
+	"\/dist\/inc\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/inc\/header.php",
+		"oF": 0
+		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
 		},
 	"\/dist\/min\/bundle-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/dist\/min\/min\/bundle-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/fonts\/AAmine.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/AAmine.ttf",
-		"oF": 0
-		},
-	"\/fonts\/Vazir-FD.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/Vazir-FD.ttf",
-		"oF": 0
-		},
-	"\/fonts\/Vazir-WOL.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/Vazir-WOL.ttf",
-		"oF": 0
-		},
-	"\/fonts\/zarghan.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/zarghan.ttf",
-		"oF": 0
-		},
-	"\/images\/blook\/31.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/31.tif",
-		"oF": 0
-		},
-	"\/images\/blook\/32.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/32.tif",
-		"oF": 0
-		},
-	"\/images\/blook\/33.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/33.tif",
-		"oF": 0
-		},
-	"\/images\/blook\/34.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/34.tif",
-		"oF": 0
-		},
-	"\/images\/blook\/35.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/35.tif",
-		"oF": 0
-		},
-	"\/images\/blook\/37.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/blook\/37.tif",
-		"oF": 0
-		},
-	"\/images\/dal\/39.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/dal\/39.tif",
-		"oF": 0
-		},
-	"\/images\/dal\/41.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/dal\/41.tif",
-		"oF": 0
-		},
-	"\/images\/dal\/44.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/dal\/44.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/50x30x10 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/50x30x10 copy.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/50x35x15 .tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/50x35x15 .tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/50x40x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/50x40x15 copy.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/50x50x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/50x50x15 copy.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/50x60x15  copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/50x60x15  copy.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/d1.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/d1.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/medadi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/medadi jadval.tif",
-		"oF": 0
-		},
-	"\/images\/jadval\/mehrabi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/jadval\/mehrabi jadval.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/36.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/36.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/38.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/38.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/40.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/40.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/42.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/42.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/43.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/43.tif",
-		"oF": 0
-		},
-	"\/images\/kaval\/45.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/kaval\/45.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/20x202x.png": {
-		"ft": 32768,
-		"iS": 313482,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/20x202x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/20x203x.jpg": {
-		"ft": 16384,
-		"iS": 142061,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/20x203x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/302x.png": {
-		"ft": 32768,
-		"iS": 1038934,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/302x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/40x402x.png": {
-		"ft": 32768,
-		"iS": 704274,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/40x402x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/40x403x.jpg": {
-		"ft": 16384,
-		"iS": 261234,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/40x403x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/5zeli2x.png": {
-		"ft": 32768,
-		"iS": 245271,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/5zeli2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/5zeli3x.jpg": {
-		"ft": 16384,
-		"iS": 178880,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/5zeli3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/ajori2x.png": {
-		"ft": 32768,
-		"iS": 506377,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/ajori2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/ajori3x.jpg": {
-		"ft": 16384,
-		"iS": 167379,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/ajori3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/congere2x.png": {
-		"ft": 32768,
-		"iS": 301342,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/congere2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/congere3x.jpg": {
-		"ft": 16384,
-		"iS": 254421,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/congere3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/goonagoon3x.jpg": {
-		"ft": 16384,
-		"iS": 1225069,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/goonagoon3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/I2x.png": {
-		"ft": 32768,
-		"iS": 235982,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/I2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/I3x.jpg": {
-		"ft": 16384,
-		"iS": 183114,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/I3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/kandooyi2x.png": {
-		"ft": 32768,
-		"iS": 423631,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/kandooyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/kandooyi3x.jpg": {
-		"ft": 16384,
-		"iS": 227548,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/kandooyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/koozeyi2x.png": {
-		"ft": 32768,
-		"iS": 365975,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/koozeyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/koozeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 204597,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/koozeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/lozipoostmari2x.png": {
-		"ft": 32768,
-		"iS": 269884,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/lozipoostmari2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/lozipoostmari3x.jpg": {
-		"ft": 16384,
-		"iS": 245598,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/lozipoostmari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/lozisade2x.png": {
-		"ft": 32768,
-		"iS": 234330,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/lozisade2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/lozisade3x.jpg": {
-		"ft": 16384,
-		"iS": 112194,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/lozisade3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/puzzelesombe2x.png": {
-		"ft": 32768,
-		"iS": 331958,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/puzzelesombe2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/puzzelesombe3x.jpg": {
-		"ft": 16384,
-		"iS": 270401,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/puzzelesombe3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/puzzle2x.png": {
-		"ft": 32768,
-		"iS": 330538,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/puzzle2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/puzzle3x.jpg": {
-		"ft": 16384,
-		"iS": 270372,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/puzzle3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/saatsheni2x.png": {
-		"ft": 32768,
-		"iS": 396633,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/saatsheni2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/saatsheni3x.jpg": {
-		"ft": 16384,
-		"iS": 194083,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/saatsheni3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/sangi2x.png": {
-		"ft": 32768,
-		"iS": 660083,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/sangi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/sangi3x.jpg": {
-		"ft": 16384,
-		"iS": 377454,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/sangi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/sekeyi2x.png": {
-		"ft": 32768,
-		"iS": 1545609,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/sekeyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/sekeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 455645,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/sekeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/setareyi2x.png": {
-		"ft": 32768,
-		"iS": 1524983,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/setareyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/setareyi3x.jpg": {
-		"ft": 16384,
-		"iS": 420063,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/setareyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/shokolati2x.png": {
-		"ft": 32768,
-		"iS": 1253577,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/shokolati2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/shokolati3x.jpg": {
-		"ft": 16384,
-		"iS": 306137,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/shokolati3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/tabbari2x.png": {
-		"ft": 32768,
-		"iS": 490790,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/tabbari2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/tabbari3x.jpg": {
-		"ft": 16384,
-		"iS": 174205,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/tabbari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/unoptimized\/20x20.jpg": {
-		"ft": 16384,
-		"iS": 588104,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/unoptimized\/20x20.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/mozayik\/unoptimized\/30.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/30.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/40x40.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/40x40.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/5 zeli.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/5 zeli.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/ajori.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/ajori.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/congere.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/congere.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/I.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/I.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/kandooyi.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/kandooyi.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/koozeyi.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/koozeyi.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/lozi sade.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/lozi sade.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/puzzle.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/puzzle.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/saat sheni.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/saat sheni.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/sangi.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/sangi.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/sekeyi.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/sekeyi.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/setareyi.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/setareyi.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/shokolati.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/shokolati.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/tabbari.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/tabbari.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/unoptimized\/yasaman.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/yasaman.tif",
-		"oF": 0
-		},
-	"\/images\/mozayik\/yasaman2x.png": {
-		"ft": 32768,
-		"iS": 1726346,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/yasaman2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/mozayik\/yasaman3x.jpg": {
-		"ft": 16384,
-		"iS": 534372,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/yasaman3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/newjersey.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/newjersey.tif",
-		"oF": 0
-		},
-	"\/images\/nimkat\/46.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/nimkat\/46.tif",
-		"oF": 0
-		},
-	"\/images\/nimkat\/47.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/nimkat\/47.tif",
-		"oF": 0
-		},
-	"\/images\/nimkat\/48.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/nimkat\/48.tif",
-		"oF": 0
-		},
-	"\/images\/pavers wet press\/DSC06894 copy 2.jpg": {
-		"ft": 16384,
-		"iS": 2957657,
-		"oA": 0,
-		"oAP": "\/images\/pavers wet press\/DSC06894 copy 2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/pavers wet press\/DSC06894 copy 3.jpg": {
-		"ft": 16384,
-		"iS": 3309496,
-		"oA": 0,
-		"oAP": "\/images\/pavers wet press\/DSC06894 copy 3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/pavers wet press\/DSC06894 copy copy.jpg": {
-		"ft": 16384,
-		"iS": 3885219,
-		"oA": 0,
-		"oAP": "\/images\/pavers wet press\/DSC06894 copy copy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/pavers wet press\/DSC06894.jpg": {
-		"ft": 16384,
-		"iS": 3917594,
-		"oA": 0,
-		"oAP": "\/images\/pavers wet press\/DSC06894.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/sangcheragh\/26.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangcheragh\/26.tif",
-		"oF": 0
-		},
-	"\/images\/sangcheragh\/27.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangcheragh\/27.tif",
-		"oF": 0
-		},
-	"\/images\/sangcheragh\/28.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangcheragh\/28.tif",
-		"oF": 0
-		},
-	"\/images\/sangcheragh\/29.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangcheragh\/29.tif",
-		"oF": 0
-		},
-	"\/images\/sangdal\/20.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangdal\/20.tif",
-		"oF": 0
-		},
-	"\/images\/sangdal\/21.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangdal\/21.tif",
-		"oF": 0
-		},
-	"\/images\/sangdal\/22.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/images\/sangdal\/22.tif",
-		"oF": 0
-		},
-	"\/img\/1.jpg": {
-		"ft": 16384,
-		"iS": 540555,
-		"oA": 0,
-		"oAP": "\/img\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/img\/2.jpg": {
-		"ft": 16384,
-		"iS": 497309,
-		"oA": 0,
-		"oAP": "\/img\/2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/img\/3.jpg": {
-		"ft": 16384,
-		"iS": 664554,
-		"oA": 0,
-		"oAP": "\/img\/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/img\/35.jpg": {
-		"ft": 16384,
-		"iS": 51846,
-		"oA": 0,
-		"oAP": "\/img\/35.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/4.jpg": {
-		"ft": 16384,
-		"iS": 604213,
-		"oA": 0,
-		"oAP": "\/img\/4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/5.jpg": {
-		"ft": 16384,
-		"iS": 68653,
-		"oA": 0,
-		"oAP": "\/img\/5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/6.jpg": {
-		"ft": 16384,
-		"iS": 6498,
-		"oA": 0,
-		"oAP": "\/img\/6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/7.jpg": {
-		"ft": 16384,
-		"iS": 605832,
-		"oA": 0,
-		"oAP": "\/img\/7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/arrow-up.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/arrow-up.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/left-mod-white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/left-mod-white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/left-trans.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/left-trans.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/left-white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/left-white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/mozayik-1.jpg": {
-		"ft": 16384,
-		"iS": 10121,
-		"oA": 0,
-		"oAP": "\/img\/mozayik-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/mozayik-2.jpg": {
-		"ft": 16384,
-		"iS": 14705,
-		"oA": 0,
-		"oAP": "\/img\/mozayik-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/new-jersey-1.jpg": {
-		"ft": 16384,
-		"iS": 4778,
-		"oA": 0,
-		"oAP": "\/img\/new-jersey-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/pars-jadval-slogan.jpg": {
-		"ft": 16384,
-		"iS": 265687,
-		"oA": 0,
-		"oAP": "\/img\/pars-jadval-slogan.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/img\/pars-jadval.jpg": {
-		"ft": 16384,
-		"iS": 81345,
-		"oA": 0,
-		"oAP": "\/img\/pars-jadval.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/sakhtemoon.png": {
-		"ft": 32768,
-		"iS": 90282,
-		"oA": 0,
-		"oAP": "\/img\/sakhtemoon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/sakhtemoon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/sakhtemoon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/img\/shade.png": {
-		"ft": 32768,
-		"iS": 3612,
-		"oA": 0,
-		"oAP": "\/img\/shade.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/Source-arrow.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/Source-arrow.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/inc\/footer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/inc\/footer.php",
-		"oF": 0
-		},
-	"\/inc\/header.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/inc\/header.php",
-		"oF": 0
-		},
-	"\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.php",
-		"oF": 1
-		},
-	"\/js\/data.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/min\/data-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/js\/main.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/js\/min\/main-min.js",
-		"oF": 1,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/min\/data-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/min\/data-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/min\/main-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/min\/main-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/min\/webpack.config-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/min\/min\/webpack.config-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1158,721 +71,1797 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc": {
+	"\/src\/css\/application.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/src\/css\/application-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/css\/application.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc",
+		"oAP": "\/src\/css\/application.css.map",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc",
-		"oF": 0
-		},
-	"\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc": {
+	"\/src\/fonts\/AAmine.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc",
+		"oAP": "\/src\/fonts\/AAmine.ttf",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc": {
+	"\/src\/fonts\/Vazir-FD.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/fonts\/Vazir-FD.ttf",
+		"oF": 0
+		},
+	"\/src\/fonts\/Vazir-WOL.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/fonts\/Vazir-WOL.ttf",
+		"oF": 0
+		},
+	"\/src\/fonts\/zarghan.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/fonts\/zarghan.ttf",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/31.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/31.tif",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/32.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/32.tif",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/33.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/33.tif",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/34.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/34.tif",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/35.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/35.tif",
+		"oF": 0
+		},
+	"\/src\/images\/blook\/37.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/blook\/37.tif",
+		"oF": 0
+		},
+	"\/src\/images\/dal\/39.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/dal\/39.tif",
+		"oF": 0
+		},
+	"\/src\/images\/dal\/41.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/dal\/41.tif",
+		"oF": 0
+		},
+	"\/src\/images\/dal\/44.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/dal\/44.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/50x30x10 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/50x30x10 copy.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/50x35x15 .tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/50x35x15 .tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/50x40x15 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/50x40x15 copy.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/50x50x15 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/50x50x15 copy.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/50x60x15  copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/50x60x15  copy.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/d1.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/d1.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/medadi jadval.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/medadi jadval.tif",
+		"oF": 0
+		},
+	"\/src\/images\/jadval\/mehrabi jadval.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/jadval\/mehrabi jadval.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/36.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/36.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/38.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/38.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/40.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/40.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/42.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/42.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/43.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/43.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kaval\/45.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kaval\/45.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/20x202x.png": {
+		"ft": 32768,
+		"iS": 313482,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/20x202x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/20x203x.jpg": {
+		"ft": 16384,
+		"iS": 142061,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/20x203x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/302x.png": {
+		"ft": 32768,
+		"iS": 1038934,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/302x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/40x402x.png": {
+		"ft": 32768,
+		"iS": 704274,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/40x402x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/40x403x.jpg": {
+		"ft": 16384,
+		"iS": 261234,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/40x403x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/5zeli2x.png": {
+		"ft": 32768,
+		"iS": 245271,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/5zeli2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/5zeli3x.jpg": {
+		"ft": 16384,
+		"iS": 178880,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/5zeli3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/ajori2x.png": {
+		"ft": 32768,
+		"iS": 506377,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/ajori2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/ajori3x.jpg": {
+		"ft": 16384,
+		"iS": 167379,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/ajori3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/congere2x.png": {
+		"ft": 32768,
+		"iS": 301342,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/congere2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/congere3x.jpg": {
+		"ft": 16384,
+		"iS": 254421,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/congere3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/goonagoon3x.jpg": {
+		"ft": 16384,
+		"iS": 1225069,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/goonagoon3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/I2x.png": {
+		"ft": 32768,
+		"iS": 235982,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/I2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/I3x.jpg": {
+		"ft": 16384,
+		"iS": 183114,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/I3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/kandooyi2x.png": {
+		"ft": 32768,
+		"iS": 423631,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/kandooyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/kandooyi3x.jpg": {
+		"ft": 16384,
+		"iS": 227548,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/kandooyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/koozeyi2x.png": {
+		"ft": 32768,
+		"iS": 365975,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/koozeyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/koozeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 204597,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/koozeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/lozipoostmari2x.png": {
+		"ft": 32768,
+		"iS": 269884,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/lozipoostmari2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/lozipoostmari3x.jpg": {
+		"ft": 16384,
+		"iS": 245598,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/lozipoostmari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/lozisade2x.png": {
+		"ft": 32768,
+		"iS": 234330,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/lozisade2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/lozisade3x.jpg": {
+		"ft": 16384,
+		"iS": 112194,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/lozisade3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/puzzelesombe2x.png": {
+		"ft": 32768,
+		"iS": 331958,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/puzzelesombe2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/puzzelesombe3x.jpg": {
+		"ft": 16384,
+		"iS": 270401,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/puzzelesombe3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/puzzle2x.png": {
+		"ft": 32768,
+		"iS": 330538,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/puzzle2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/puzzle3x.jpg": {
+		"ft": 16384,
+		"iS": 270372,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/puzzle3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/saatsheni2x.png": {
+		"ft": 32768,
+		"iS": 396633,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/saatsheni2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/saatsheni3x.jpg": {
+		"ft": 16384,
+		"iS": 194083,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/saatsheni3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/sangi2x.png": {
+		"ft": 32768,
+		"iS": 660083,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/sangi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/sangi3x.jpg": {
+		"ft": 16384,
+		"iS": 377454,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/sangi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/sekeyi2x.png": {
+		"ft": 32768,
+		"iS": 1545609,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/sekeyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/sekeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 455645,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/sekeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/setareyi2x.png": {
+		"ft": 32768,
+		"iS": 1524983,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/setareyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/setareyi3x.jpg": {
+		"ft": 16384,
+		"iS": 420063,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/setareyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/shokolati2x.png": {
+		"ft": 32768,
+		"iS": 1253577,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/shokolati2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/shokolati3x.jpg": {
+		"ft": 16384,
+		"iS": 306137,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/shokolati3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/tabbari2x.png": {
+		"ft": 32768,
+		"iS": 490790,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/tabbari2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/tabbari3x.jpg": {
+		"ft": 16384,
+		"iS": 174205,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/tabbari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/unoptimized\/20x20.jpg": {
+		"ft": 16384,
+		"iS": 588104,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/20x20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/unoptimized\/30.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/30.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/40x40.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/40x40.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/5 zeli.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/5 zeli.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/ajori.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/ajori.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/congere.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/congere.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/I.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/I.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/kandooyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/kandooyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/koozeyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/koozeyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/lozi sade.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozi sade.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/puzzle.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzle.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/saat sheni.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/saat sheni.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/sangi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/sangi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/sekeyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/sekeyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/setareyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/setareyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/shokolati.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/shokolati.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/tabbari.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/tabbari.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/unoptimized\/yasaman.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/mozayik\/unoptimized\/yasaman.tif",
+		"oF": 0
+		},
+	"\/src\/images\/mozayik\/yasaman2x.png": {
+		"ft": 32768,
+		"iS": 1726346,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/yasaman2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/mozayik\/yasaman3x.jpg": {
+		"ft": 16384,
+		"iS": 534372,
+		"oA": 0,
+		"oAP": "\/src\/images\/mozayik\/yasaman3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/newjersey.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/newjersey.tif",
+		"oF": 0
+		},
+	"\/src\/images\/nimkat\/46.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/nimkat\/46.tif",
+		"oF": 0
+		},
+	"\/src\/images\/nimkat\/47.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/nimkat\/47.tif",
+		"oF": 0
+		},
+	"\/src\/images\/nimkat\/48.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/nimkat\/48.tif",
+		"oF": 0
+		},
+	"\/src\/images\/pavers wet press\/DSC06894 copy 2.jpg": {
+		"ft": 16384,
+		"iS": 2957657,
+		"oA": 0,
+		"oAP": "\/src\/images\/pavers wet press\/DSC06894 copy 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/pavers wet press\/DSC06894 copy 3.jpg": {
+		"ft": 16384,
+		"iS": 3309496,
+		"oA": 0,
+		"oAP": "\/src\/images\/pavers wet press\/DSC06894 copy 3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/pavers wet press\/DSC06894 copy copy.jpg": {
+		"ft": 16384,
+		"iS": 3885219,
+		"oA": 0,
+		"oAP": "\/src\/images\/pavers wet press\/DSC06894 copy copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/pavers wet press\/DSC06894.jpg": {
+		"ft": 16384,
+		"iS": 3917594,
+		"oA": 0,
+		"oAP": "\/src\/images\/pavers wet press\/DSC06894.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/sangcheragh\/26.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangcheragh\/26.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangcheragh\/27.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangcheragh\/27.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangcheragh\/28.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangcheragh\/28.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangcheragh\/29.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangcheragh\/29.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangdal\/20.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangdal\/20.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangdal\/21.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangdal\/21.tif",
+		"oF": 0
+		},
+	"\/src\/images\/sangdal\/22.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/sangdal\/22.tif",
+		"oF": 0
+		},
+	"\/src\/img\/1.jpg": {
+		"ft": 16384,
+		"iS": 540555,
+		"oA": 0,
+		"oAP": "\/src\/img\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 497309,
+		"oA": 0,
+		"oAP": "\/src\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/3.jpg": {
+		"ft": 16384,
+		"iS": 664554,
+		"oA": 0,
+		"oAP": "\/src\/img\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/35.jpg": {
+		"ft": 16384,
+		"iS": 51846,
+		"oA": 0,
+		"oAP": "\/src\/img\/35.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/4.jpg": {
+		"ft": 16384,
+		"iS": 604213,
+		"oA": 0,
+		"oAP": "\/src\/img\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/5.jpg": {
+		"ft": 16384,
+		"iS": 68653,
+		"oA": 0,
+		"oAP": "\/src\/img\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/6.jpg": {
+		"ft": 16384,
+		"iS": 6498,
+		"oA": 0,
+		"oAP": "\/src\/img\/6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/7.jpg": {
+		"ft": 16384,
+		"iS": 605832,
+		"oA": 0,
+		"oAP": "\/src\/img\/7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/arrow-up.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/arrow-up.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/left-mod-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/left-mod-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/left-trans.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/left-trans.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/left-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/left-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/mozayik-1.jpg": {
+		"ft": 16384,
+		"iS": 10121,
+		"oA": 0,
+		"oAP": "\/src\/img\/mozayik-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/mozayik-2.jpg": {
+		"ft": 16384,
+		"iS": 14705,
+		"oA": 0,
+		"oAP": "\/src\/img\/mozayik-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/new-jersey-1.jpg": {
+		"ft": 16384,
+		"iS": 4778,
+		"oA": 0,
+		"oAP": "\/src\/img\/new-jersey-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/pars-jadval-slogan.jpg": {
+		"ft": 16384,
+		"iS": 265687,
+		"oA": 0,
+		"oAP": "\/src\/img\/pars-jadval-slogan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/pars-jadval.jpg": {
+		"ft": 16384,
+		"iS": 81345,
+		"oA": 0,
+		"oAP": "\/src\/img\/pars-jadval.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/img\/sakhtemoon.png": {
+		"ft": 32768,
+		"iS": 90282,
+		"oA": 0,
+		"oAP": "\/src\/img\/sakhtemoon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/sakhtemoon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/sakhtemoon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/img\/shade.png": {
+		"ft": 32768,
+		"iS": 3612,
+		"oA": 0,
+		"oAP": "\/src\/img\/shade.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/Source-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/src\/img\/Source-arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/src\/js\/data.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/src\/js\/min\/data-min.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/src\/js\/main.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/src\/js\/min\/main-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/min\/data-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/min\/min\/data-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/min\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/min\/min\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc": {
+	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc": {
+	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc": {
+	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc",
 		"oF": 0
 		},
-	"\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc",
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc",
 		"oF": 0
 		},
-	"\/scss\/application.scss": {
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc",
+		"oF": 0
+		},
+	"\/src\/scss\/application.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1880,12 +1869,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/css\/application.css",
+		"oAP": "\/src\/css\/application.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/base\/_base.scss": {
+	"\/src\/scss\/base\/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1893,12 +1882,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_base.css",
+		"oAP": "\/src\/scss\/css\/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/base\/_index.scss": {
+	"\/src\/scss\/base\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1906,12 +1895,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_index.css",
+		"oAP": "\/src\/scss\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/components\/_buttons.scss": {
+	"\/src\/scss\/components\/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1919,12 +1908,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_buttons.css",
+		"oAP": "\/src\/scss\/css\/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/components\/_index.scss": {
+	"\/src\/scss\/components\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1932,12 +1921,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_index.css",
+		"oAP": "\/src\/scss\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/components\/_typograph.scss": {
+	"\/src\/scss\/components\/_typograph.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1945,12 +1934,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_typograph.css",
+		"oAP": "\/src\/scss\/css\/_typograph.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/features\/_extends.scss": {
+	"\/src\/scss\/features\/_extends.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1958,12 +1947,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_extends.css",
+		"oAP": "\/src\/scss\/css\/_extends.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/features\/_index.scss": {
+	"\/src\/scss\/features\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1971,12 +1960,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_index.css",
+		"oAP": "\/src\/scss\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/features\/_mixins.scss": {
+	"\/src\/scss\/features\/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1984,12 +1973,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_mixins.css",
+		"oAP": "\/src\/scss\/css\/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/features\/_variables.scss": {
+	"\/src\/scss\/features\/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1997,12 +1986,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_variables.css",
+		"oAP": "\/src\/scss\/css\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/layout\/_columns.scss": {
+	"\/src\/scss\/layout\/_columns.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2010,12 +1999,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_columns.css",
+		"oAP": "\/src\/scss\/css\/_columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/layout\/_containers.scss": {
+	"\/src\/scss\/layout\/_containers.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2023,12 +2012,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_containers.css",
+		"oAP": "\/src\/scss\/css\/_containers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/layout\/_footer.scss": {
+	"\/src\/scss\/layout\/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2036,12 +2025,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_footer.css",
+		"oAP": "\/src\/scss\/css\/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/layout\/_header.scss": {
+	"\/src\/scss\/layout\/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2049,12 +2038,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_header.css",
+		"oAP": "\/src\/scss\/css\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/layout\/_index.scss": {
+	"\/src\/scss\/layout\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2062,10 +2051,19 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/_index.css",
+		"oAP": "\/src\/scss\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/webpack.bootstrap.config.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/min\/webpack.bootstrap.config-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/webpack.config.js": {
 		"ft": 64,
@@ -2089,7 +2087,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2866,8 +2864,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -2886,7 +2884,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -3094,7 +3092,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -3122,7 +3120,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -3178,12 +3176,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -3191,18 +3189,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -3323,7 +3321,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', 'avoid-escape'"
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
 			},
 		"radix": {
 			"active": 0,
@@ -3335,10 +3333,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -3443,7 +3441,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost\/PHP%20pars",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3808,7 +3806,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -3816,7 +3814,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"outputStyle": 3,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -3877,8 +3875,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -3889,7 +3887,7 @@
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -4147,7 +4145,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
