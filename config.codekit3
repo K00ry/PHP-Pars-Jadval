@@ -17,11 +17,11 @@
 		},
 	"\/dist\/bundle.js": {
 		"ft": 64,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/dist\/min\/bundle-min.js",
-		"oF": 1,
-		"sC": 0,
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/dist\/catalog.php": {
@@ -29,6 +29,900 @@
 		"oA": 2,
 		"oAP": "\/dist\/catalog.php",
 		"oF": 0
+		},
+	"\/dist\/fonts\/AAmine.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/AAmine.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/vazir-FD.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/vazir-FD.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/vazir-WOL.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/vazir-WOL.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/zarghan.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/zarghan.ttf",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/31.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/31.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/32.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/32.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/33.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/33.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/34.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/34.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/35.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/35.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/blook\/37.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/blook\/37.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/dal\/39.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/dal\/39.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/dal\/41.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/dal\/41.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/dal\/44.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/dal\/44.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/50x30x10 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/50x30x10 copy.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/50x35x15 .tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/50x35x15 .tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/50x40x15 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/50x40x15 copy.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/50x50x15 copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/50x50x15 copy.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/50x60x15  copy.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/50x60x15  copy.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/d1.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/d1.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/medadi jadval.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/medadi jadval.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/jadval\/mehrabi jadval.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/jadval\/mehrabi jadval.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/36.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/36.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/38.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/38.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/40.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/40.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/42.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/42.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/43.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/43.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kaval\/45.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kaval\/45.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/20x202x.png": {
+		"ft": 32768,
+		"iS": 313482,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/20x202x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/20x203x.jpg": {
+		"ft": 16384,
+		"iS": 142061,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/20x203x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/302x.png": {
+		"ft": 32768,
+		"iS": 1038934,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/302x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/40x402x.png": {
+		"ft": 32768,
+		"iS": 704274,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/40x402x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/40x403x.jpg": {
+		"ft": 16384,
+		"iS": 261234,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/40x403x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/5zeli2x.png": {
+		"ft": 32768,
+		"iS": 245271,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/5zeli2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/5zeli3x.jpg": {
+		"ft": 16384,
+		"iS": 178880,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/5zeli3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/ajori2x.png": {
+		"ft": 32768,
+		"iS": 506377,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/ajori2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/ajori3x.jpg": {
+		"ft": 16384,
+		"iS": 167379,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/ajori3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/congere2x.png": {
+		"ft": 32768,
+		"iS": 301342,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/congere2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/congere3x.jpg": {
+		"ft": 16384,
+		"iS": 254421,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/congere3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/goonagoon3x.jpg": {
+		"ft": 16384,
+		"iS": 1225069,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/goonagoon3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/I2x.png": {
+		"ft": 32768,
+		"iS": 235982,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/I2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/I3x.jpg": {
+		"ft": 16384,
+		"iS": 183114,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/I3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/kandooyi2x.png": {
+		"ft": 32768,
+		"iS": 423631,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/kandooyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/kandooyi3x.jpg": {
+		"ft": 16384,
+		"iS": 227548,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/kandooyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/koozeyi2x.png": {
+		"ft": 32768,
+		"iS": 365975,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/koozeyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/koozeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 204597,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/koozeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/lozipoostmari2x.png": {
+		"ft": 32768,
+		"iS": 269884,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/lozipoostmari2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/lozipoostmari3x.jpg": {
+		"ft": 16384,
+		"iS": 245598,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/lozipoostmari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/lozisade2x.png": {
+		"ft": 32768,
+		"iS": 234330,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/lozisade2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/lozisade3x.jpg": {
+		"ft": 16384,
+		"iS": 112194,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/lozisade3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/puzzelesombe2x.png": {
+		"ft": 32768,
+		"iS": 331958,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/puzzelesombe2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/puzzelesombe3x.jpg": {
+		"ft": 16384,
+		"iS": 270401,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/puzzelesombe3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/puzzle2x.png": {
+		"ft": 32768,
+		"iS": 330538,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/puzzle2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/puzzle3x.jpg": {
+		"ft": 16384,
+		"iS": 270372,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/puzzle3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/saatsheni2x.png": {
+		"ft": 32768,
+		"iS": 396633,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/saatsheni2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/saatsheni3x.jpg": {
+		"ft": 16384,
+		"iS": 194083,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/saatsheni3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/sangi2x.png": {
+		"ft": 32768,
+		"iS": 660083,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/sangi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/sangi3x.jpg": {
+		"ft": 16384,
+		"iS": 377454,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/sangi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/sekeyi2x.png": {
+		"ft": 32768,
+		"iS": 1545609,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/sekeyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/sekeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 455645,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/sekeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/setareyi2x.png": {
+		"ft": 32768,
+		"iS": 1524983,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/setareyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/setareyi3x.jpg": {
+		"ft": 16384,
+		"iS": 420063,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/setareyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/shokolati2x.png": {
+		"ft": 32768,
+		"iS": 1253577,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/shokolati2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/shokolati3x.jpg": {
+		"ft": 16384,
+		"iS": 306137,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/shokolati3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/tabbari2x.png": {
+		"ft": 32768,
+		"iS": 490790,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/tabbari2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/tabbari3x.jpg": {
+		"ft": 16384,
+		"iS": 174205,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/tabbari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/20x20.jpg": {
+		"ft": 16384,
+		"iS": 588104,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/20x20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/30.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/30.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/40x40.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/40x40.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/ajori.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/ajori.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/congere.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/congere.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/I.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/I.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/puzzle.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzle.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/sangi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sangi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/setareyi.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/setareyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/shokolati.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/shokolati.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/tabbari.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/tabbari.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/unoptimized\/yasaman.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/mozayik\/unoptimized\/yasaman.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/mozayik\/yasaman2x.png": {
+		"ft": 32768,
+		"iS": 1726346,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/yasaman2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/mozayik\/yasaman3x.jpg": {
+		"ft": 16384,
+		"iS": 534372,
+		"oA": 0,
+		"oAP": "\/dist\/images\/mozayik\/yasaman3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/newjersey.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/newjersey.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/nimkat\/46.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/nimkat\/46.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/nimkat\/47.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/nimkat\/47.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/nimkat\/48.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/nimkat\/48.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/pavers wet press\/DSC06894 copy 2.jpg": {
+		"ft": 16384,
+		"iS": 2957657,
+		"oA": 0,
+		"oAP": "\/dist\/images\/pavers wet press\/DSC06894 copy 2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/pavers wet press\/DSC06894 copy 3.jpg": {
+		"ft": 16384,
+		"iS": 3309496,
+		"oA": 0,
+		"oAP": "\/dist\/images\/pavers wet press\/DSC06894 copy 3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/pavers wet press\/DSC06894 copy copy.jpg": {
+		"ft": 16384,
+		"iS": 3885219,
+		"oA": 0,
+		"oAP": "\/dist\/images\/pavers wet press\/DSC06894 copy copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/pavers wet press\/DSC06894.jpg": {
+		"ft": 16384,
+		"iS": 3917594,
+		"oA": 0,
+		"oAP": "\/dist\/images\/pavers wet press\/DSC06894.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/sangcheragh\/26.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangcheragh\/26.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangcheragh\/27.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangcheragh\/27.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangcheragh\/28.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangcheragh\/28.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangcheragh\/29.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangcheragh\/29.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangdal\/20.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangdal\/20.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangdal\/21.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangdal\/21.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/sangdal\/22.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/sangdal\/22.tif",
+		"oF": 0
+		},
+	"\/dist\/img\/1.jpg": {
+		"ft": 16384,
+		"iS": 90652,
+		"oA": 0,
+		"oAP": "\/dist\/img\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 71364,
+		"oA": 0,
+		"oAP": "\/dist\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/3.jpg": {
+		"ft": 16384,
+		"iS": 123908,
+		"oA": 0,
+		"oAP": "\/dist\/img\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/35.jpg": {
+		"ft": 16384,
+		"iS": 51846,
+		"oA": 0,
+		"oAP": "\/dist\/img\/35.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/pars-jadval-slogan.jpg": {
+		"ft": 16384,
+		"iS": 61994,
+		"oA": 0,
+		"oAP": "\/dist\/img\/pars-jadval-slogan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/pars-jadval.jpg": {
+		"ft": 16384,
+		"iS": 81345,
+		"oA": 0,
+		"oAP": "\/dist\/img\/pars-jadval.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/sakhtemoon.png": {
+		"ft": 32768,
+		"iS": 90282,
+		"oA": 0,
+		"oAP": "\/dist\/img\/sakhtemoon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/shade.png": {
+		"ft": 32768,
+		"iS": 3612,
+		"oA": 0,
+		"oAP": "\/dist\/img\/shade.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/dist\/inc\/footer.php": {
 		"ft": 8192,
@@ -48,14 +942,11 @@
 		"oAP": "\/dist\/index.php",
 		"oF": 0
 		},
-	"\/dist\/min\/bundle-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/dist\/min\/min\/bundle-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+	"\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.php",
+		"oF": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -71,12 +962,28 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/src\/css\/application.css": {
-		"aP": 0,
+	"\/src\/application.css": {
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
+		"oAP": "\/src\/application-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/src\/application.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/application.css.map",
+		"oF": 0
+		},
+	"\/src\/css\/application.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
 		"oAP": "\/src\/css\/application-min.css",
 		"oF": 0,
 		"oS": 0
@@ -2087,7 +2994,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",

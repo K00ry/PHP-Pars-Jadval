@@ -8,7 +8,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="css/application.css">
+    <!-- <link rel="stylesheet" type="text/css" href="application.css"> -->
     <title> <?php $pageTitle = "پارس جدول - صفحه اصلی"; 
     echo $pageTitle;
 
@@ -80,8 +80,9 @@
                         </div>
                         <div>محصولات</div>
                         <div class="nav mahsool">
-                              <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
+                              
                             <a class="sub-link" href="catalog.php?cata=mozayik">موزاییک</a>
+                            <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
                             <a class="sub-link" href="#">کفپوش بتنی</a>
                             <a class="sub-link" href="#">سنگدال بتنی</a>
                         </div>
@@ -142,13 +143,13 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="center-block" src="img/mozayik-1.jpg" alt="First slide">
+                    <img class="center-block" src="images/mozayik/5zeli2x.png" alt="First slide">
                 </div>
                 <div class="item">
-                    <img class="center-block" src="img/mozayik-2.jpg" alt="Second slide">
+                    <img class="center-block" src="images/mozayik/puzzelesombe2x.png" alt="Second slide">
                 </div>
                 <div class="item">
-                    <img class="center-block" src="images/mozayik/ajori3x.jpg" alt="Third slide">
+                    <img class="center-block" src="images/mozayik/ajori2x.png" alt="Third slide">
                 </div>
             </div>
             <!-- Controls -->
@@ -207,7 +208,7 @@
         <h1>&copy;پارس جدول</h1>
     </footer>
 
-    <script src="dist/bundle.js"></script>
+    <script src="./bundle.js"></script>
 </body>
 
 </html>

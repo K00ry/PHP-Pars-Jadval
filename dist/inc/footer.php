@@ -21,7 +21,7 @@
         <h1>&copy;پارس جدول</h1>
     </footer>
 
-    <script src="dist/bundle.js"></script>
+    <script src="bundle.js"></script>
 </body>
 
 </html>
