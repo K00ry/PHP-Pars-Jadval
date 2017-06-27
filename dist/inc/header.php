@@ -54,7 +54,7 @@
     <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn">&times;</a>
             <ul class="sideNav-title">
-               <li>
+                <li>
                     <a class="nav-link-asli nav-link-style" href="./index.php">
                         <div class="jakesh">
                             <!-- <svg class="arrow-left-icon-asli arrow-style">
@@ -63,10 +63,7 @@
                         </div>
                         <div>صفحه اصلی</div>
                         <div class="nav asli">
-                            <a class="sub-link" href="#">جدول بتنی</a>
-                            <a class="sub-link" href="#">کفپوش بتنی</a>
-                            <a class="sub-link" href="#">موزاییک</a>
-                            <a class="sub-link" href="#">سنگدال بتنی</a>
+                           
                         </div>
                     </a>
                 </li>
@@ -79,29 +76,52 @@
                         </div>
                         <div>محصولات</div>
                         <div class="nav mahsool">
-                              <a class="sub-link" href="catalog.php?cata=jadval">جدول بتنی</a>
-                            <a class="sub-link" href="catalog.php?cata=mozayik">موزاییک</a>
-                            <a class="sub-link" href="#">کفپوش بتنی</a>
-                            <a class="sub-link" href="#">سنگدال بتنی</a>
+                         <!-- sraat of sub -->
+                            <ul class="sideNav-sub">
+                                <li>
+                                    <a class="nav-link-mozayik nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-mozayik arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>موزاییک</div>
+                                        <div class="nav-sub-container mozayik">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">40x40</a>
+                                            <a class="sub-link" href="#">20x20</a>
+                                            <a class="sub-link" href="#">فانتزی</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link-jadval nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-jadval arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>جدول بتنی</div>
+                                        <div class="nav-sub-container jadval">
+                                            <a class="sub-link" href="catalog.php?cata=jadval">40x40</a>
+                                            <a class="sub-link" href="#">20x20</a>
+                                            <a class="sub-link" href="#">فانتزی</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                             <!--    <li></li>
+                                <li></li> -->
+
+                            </ul>
+
+                            
+                             <!-- ends here -->
+                            <!-- -----------------mMMMMMMMMMMMMOOOHEM ------------------>
+                           <!--  <a class="sub-link" href="#">کفپوش بتنی</a>
+                            <a class="sub-link" href="#">سنگدال بتنی</a> -->
                         </div>
                     </a>
                 </li>
-                <li>
-                    <a href="#" class="nav-link-chideman nav-link-style">
-                        <div class="jakesh">
-                            <svg class="arrow-left-icon-chideman arrow-style">
-                                <use xlink:href="#arrow-right" />
-                            </svg>
-                        </div>
-                        <div>چیدمان</div>
-                        <div class="nav chideman">
-                            <a class="sub-link" href="#">HOME</a>
-                            <a class="sub-link" href="#">PORTFOLIO</a>
-                            <a class="sub-link" href="#">SKILLS</a>
-                            <a class="sub-link" href="#">CONTACT</a>
-                        </div>
-                    </a>
-                </li>
+              
                 <li>
                     <a class="nav-link-about nav-link-style" href="#">
                         <div class="jakesh">

@@ -63,7 +63,8 @@ a:focus {
 
 .nav {
   display: none;
-  float: right; }
+  float: right;
+  width: 80%; }
 
 .sub-link {
   display: block;
@@ -72,7 +73,12 @@ a:focus {
   font-weight: bold;
   color: #E7F0E2;
   text-align: right;
-  margin: 10px 30px 10px 0; }
+  margin: 10px 4px 10px 0; }
+
+.nav-sub {
+  display: none;
+  float: right;
+  width: 100%; }
 
 @media (min-width: 768px) {
   .nav {
@@ -82,6 +88,10 @@ a:focus {
 .sideNav-title {
   width: 100%;
   padding: 10px; }
+
+.sideNav-sub {
+  width: 100%;
+  padding: 0; }
 
 .nav-link {
   font-size: 1.3em;
@@ -261,7 +271,6 @@ footer h1 {
   padding-top: 60px; }
 
 .sidenav .nav-link-style {
-  padding: 8px;
   text-decoration: none;
   display: flex;
   flex-direction: row;
@@ -275,10 +284,25 @@ footer h1 {
   font-weight: 200;
   color: rgba(255, 255, 255, 0.9); }
 
+.nav-link-style-sub {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  font-size: 1.4em;
+  font-family: asli;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.9); }
+
 .nav {
   display: none; }
 
-.sidenav a:hover, .offcanvas a:focus {
+.nav-sub-container {
+  display: none; }
+
+.sidenav a:hover,
+.offcanvas a:focus {
   color: #f1f1f1; }
 
 .sidenav .closebtn {
@@ -315,6 +339,11 @@ footer h1 {
 .arrow-style {
   width: 20px;
   height: 20px;
+  transition: all 0.3s; }
+
+.arrow-style-sub {
+  width: 15px;
+  height: 15px;
   transition: all 0.3s; }
 
 .expand {

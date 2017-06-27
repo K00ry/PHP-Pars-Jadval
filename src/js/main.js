@@ -37,7 +37,7 @@ $(document).ready(function() {
         var group_mozayik = " ";
         $.each(object, function(key, value) {
             group_mozayik += '<div class="itemha">';
-            group_mozayik += '<img src="' + value.img + '2x.png" alt="' + value.type + '">';
+            group_mozayik += '<img src="images/mozayik/mobile/' + value.img + '.png" alt="' + value.type + '">';
             group_mozayik += '<div class="item-detail"><span>' + value.size + '</span>';
             group_mozayik += '<span class="item-name">' + value.type + '</span></div>';
             group_mozayik += '</div>';
@@ -172,7 +172,7 @@ $(document).ready(function() {
 
 
 
-    var links = $('.sidenav a');
+    var links = $('.sidenav ul');
     var slide_nav = $('#mySidenav');
 
     function openNav() {
@@ -233,6 +233,8 @@ $(document).ready(function() {
     openSubMenu($('.nav-link-mahsool'), $('.mahsool'), $('.arrow-left-icon-mahsool'));
     openSubMenu($('.nav-link-chideman'), $('.chideman'), $('.arrow-left-icon-chideman'));
     openSubMenu($('.nav-link-about'), $('.about'), $('.arrow-left-icon-about'));
+    openSubMenu($('.nav-link-mozayik'), $('.mozayik'), $('.arrow-left-icon-mozayik'));
+    openSubMenu($('.nav-link-jadval'), $('.jadval'), $('.arrow-left-icon-jadval'));
 
     // $('.nav-link').click(function (e) {
 

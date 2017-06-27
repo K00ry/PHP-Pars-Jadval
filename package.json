@@ -31,7 +31,7 @@
     "webpack": "^2.6.1"
   },
   "scripts": {
-    "dev": "webpack -d",
+    "dev": "webpack -d webpack --watch",
     "prod": "webpack -p"
   },
   "repository": {

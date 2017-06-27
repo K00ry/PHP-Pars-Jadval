@@ -34,9 +34,9 @@ module.exports = {
 
     module: {
         rules: [
-            { test: /\.js/, use: 'imports-loader?define=>false' },
-            {test:/\.scss$/,
-                use:['style-loader','css-loader','sass-loader']
+            { test: /\.js/, use: 'imports-loader?define=>false' }, {
+                test: /\.scss$/,
+                use: ['style-loader', 'css-loader', 'sass-loader']
             }
             //  {
             //     test: /\.scss$/,
@@ -47,7 +47,7 @@ module.exports = {
             //             // ['style-loader,css-loader,sass-loader']
             //     })
             // },
-             ,{
+            , {
                 test: /\.(jpe?g|png|gif|svg)$/i,
                 use: 'file-loader?name=img/[name].[ext]'
 
@@ -55,6 +55,9 @@ module.exports = {
                 test: /\.ttf$/,
                 use: 'file-loader?name=fonts/[name].[ext]'
             }
+            // , { test: /\.(woff2?|svg)$/, use: 'url-loader?limit=10000' }, {
+            //     test: /\.(ttf|eot)$/,use: 'file-loader'
+            // }
 
         ]
     },
