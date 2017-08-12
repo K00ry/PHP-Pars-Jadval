@@ -1,7 +1,7 @@
 body {
   padding-top: 75px;
-  background: url(../img/sakhtemoon.png) no-repeat 100%;
-  background-size: 37%;
+  background: url(../img/asset-3.png) no-repeat 100%;
+  background-size: 100%;
   background-position: bottom left; }
 
 a:hover,
@@ -100,8 +100,8 @@ a:focus {
   color: rgba(34, 34, 34, 0.9); }
 
 .head-intro {
-  background: url(../img/pars-jadval-slogan.jpg) no-repeat 47% 50%;
-  background-size: 190% 124%;
+  background: url(../img/int-2.png) no-repeat;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -130,12 +130,7 @@ a:focus {
 
 .genres {
   list-style: none;
-  padding: 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  width: 100%;
-  align-items: center; }
+  padding: 0; }
   .genres .active a {
     color: #FFCC00; }
   .genres li a:focus, .genres li a:hover {
@@ -225,7 +220,6 @@ a:focus {
   .contact .contact-info {
     font-family: asli;
     padding: 30px 0;
-    border-bottom: 2px solid #BFBFBF;
     text-align: right; }
     .contact .contact-info h4 a {
       font-size: 0.9em;
@@ -256,7 +250,7 @@ footer h1 {
   font-family: asli;
   font-weight: bold;
   color: rgba(34, 34, 34, 0.9);
-  text-align: right; }
+  text-align: left; }
 
 .sidenav {
   height: 100%;
@@ -290,6 +284,13 @@ footer h1 {
   justify-content: space-between;
   width: 100%;
   align-items: center;
+  font-size: 1.4em;
+  font-family: asli;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.9); }
+
+.nav-link-no-sub {
+  text-align: right;
   font-size: 1.4em;
   font-family: asli;
   font-weight: 100;

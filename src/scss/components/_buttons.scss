@@ -26,6 +26,10 @@
     @include flex-display(flex, row, space-between, 100%, center);
     @include font-fam-size( 1.4em, asli, 100, rgba(255, 255, 255, .9));
 }
+.nav-link-no-sub{
+  text-align: right;
+   @include font-fam-size( 1.4em, asli, 100, rgba(255, 255, 255, .9));
+}
 
 .nav {
     display: none;

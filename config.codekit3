@@ -878,6 +878,60 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/dist\/img\/asset-2.png": {
+		"ft": 32768,
+		"iS": 1609,
+		"oA": 0,
+		"oAP": "\/dist\/img\/asset-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/asset-3.png": {
+		"ft": 32768,
+		"iS": 777,
+		"oA": 0,
+		"oAP": "\/dist\/img\/asset-3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/asset.png": {
+		"ft": 32768,
+		"iS": 1809,
+		"oA": 0,
+		"oAP": "\/dist\/img\/asset.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/int-2.png": {
+		"ft": 32768,
+		"iS": 38089,
+		"oA": 0,
+		"oAP": "\/dist\/img\/int-2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/int.jpg": {
+		"ft": 16384,
+		"iS": 139930,
+		"oA": 0,
+		"oAP": "\/dist\/img\/int.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/dist\/img\/pars-jadval-slogan.jpg": {
 		"ft": 16384,
 		"iS": 61994,
@@ -906,6 +960,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/shade-b.png": {
+		"ft": 32768,
+		"iS": 1402,
+		"oA": 0,
+		"oAP": "\/dist\/img\/shade-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2117,6 +2182,60 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/src\/img\/asset-2.png": {
+		"ft": 32768,
+		"iS": 1609,
+		"oA": 0,
+		"oAP": "\/src\/img\/asset-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/asset-3.png": {
+		"ft": 32768,
+		"iS": 777,
+		"oA": 0,
+		"oAP": "\/src\/img\/asset-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/Asset.png": {
+		"ft": 32768,
+		"iS": 1809,
+		"oA": 0,
+		"oAP": "\/src\/img\/Asset.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/int-2.png": {
+		"ft": 32768,
+		"iS": 38089,
+		"oA": 0,
+		"oAP": "\/src\/img\/int-2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/img\/int.jpg": {
+		"ft": 16384,
+		"iS": 139930,
+		"oA": 0,
+		"oAP": "\/src\/img\/int.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/src\/img\/left-mod-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2217,6 +2336,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/src\/img\/shade-b.png": {
+		"ft": 32768,
+		"iS": 1402,
+		"oA": 0,
+		"oAP": "\/src\/img\/shade-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/img\/shade.png": {
 		"ft": 32768,

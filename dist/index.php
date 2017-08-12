@@ -69,49 +69,102 @@
                     </a>
                 </li>
                 <li>
-                    <a class="nav-link-mahsool nav-link-style"  href="#">
+                    <a class="nav-link-1 nav-link-style"  href="#">
                         <div class="jakesh">
-                            <svg class="arrow-left-icon-mahsool arrow-style">
+                            <svg class="arrow-left-icon-1 arrow-style">
                                 <use xlink:href="#arrow-right" />
                             </svg>
                         </div>
                         <div>محصولات</div>
-                        <div class="nav mahsool">
+                        <div class="nav 1">
                          <!-- sraat of sub -->
                             <ul class="sideNav-sub">
                                 <li>
-                                    <a class="nav-link-mozayik nav-link-style-sub" href="#">
+                                    <a class="nav-link-1-1 nav-link-style-sub" href="#">
                                         <div class="jakesh">
-                                            <svg class="arrow-left-icon-mozayik arrow-style-sub">
+                                            <svg class="arrow-left-icon-1-1 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
-                                        <div>موزاییک</div>
-                                        <div class="nav-sub-container mozayik">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">40x40</a>
-                                            <a class="sub-link" href="#">20x20</a>
-                                            <a class="sub-link" href="#">فانتزی</a>
+                                        <div>جدول</div>
+                                        <div class="nav-sub-container 1-1">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول وت پرس</a>
+                                            <a class="sub-link" href="#">جدول پرس خشك</a>
+                                            <a class="sub-link" href="#">جدول دستي</a>
                                         </div> 
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="nav-link-jadval nav-link-style-sub" href="#">
+                                    <a class="nav-link-1-2 nav-link-style-sub" href="#">
                                         <div class="jakesh">
-                                            <svg class="arrow-left-icon-jadval arrow-style-sub">
+                                            <svg class="arrow-left-icon-1-2 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
-                                        <div>جدول بتنی</div>
-                                        <div class="nav-sub-container jadval">
-                                            <a class="sub-link" href="catalog.php?cata=jadval">40x40</a>
-                                            <a class="sub-link" href="#">20x20</a>
-                                            <a class="sub-link" href="#">فانتزی</a>
+                                        <div>بلوك</div>
+                                        <div class="nav-sub-container 1-2">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">سبك پوكه</a>
+                                            <a class="sub-link" href="#">بلوك سيماني</a>
+                                            
                                         </div> 
                                     </a>
                                 </li>
-                             <!--    <li></li>
-                                <li></li> -->
-
+                                 <li>
+                                    <a class="nav-link-1-3 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-3 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>كفپوش</div>
+                                        <div class="nav-sub-container 1-3">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">پرس خشك</a>
+                                            <a class="sub-link" href="#">وت پرس</a>   
+                                            <a class="sub-link" href="#">ويبره</a> 
+                                            <a class="sub-link" href="#">واش بتن</a>               
+                                        </div> 
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link-no-sub" href="#">
+                                        <div>دال بتني</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="nav-link-no-sub" href="#">
+                                        <div>موزاییک</div>
+                                    </a>
+                                </li>
+                                   <li>
+                                    <a class="nav-link-1-4 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-4 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>كول</div>
+                                        <div class="nav-sub-container 1-4">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">گرد</a>
+                                            <a class="sub-link" href="#">انباري</a>   
+                                            <a class="sub-link" href="#">كانالي</a>               
+                                        </div> 
+                                    </a>
+                                </li>
+                                        <li>
+                                    <a class="nav-link-1-5 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-5 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>مبلمان شهري</div>
+                                        <div class="nav-sub-container 1-5">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">نيمكت بتني</a>
+                                            <a class="sub-link" href="#">پايه چراغ</a>   
+                                            <a class="sub-link" href="#">استاپر</a>               
+                                        </div> 
+                                    </a>
+                                </li>
                             </ul>
 
                             
@@ -122,35 +175,17 @@
                         </div>
                     </a>
                 </li>
-              <!--   <li>
-                    <a href="#" class="nav-link-chideman nav-link-style">
-                        <div class="jakesh">
-                            <svg class="arrow-left-icon-chideman arrow-style">
-                                <use xlink:href="#arrow-right" />
-                            </svg>
-                        </div>
-                        <div>چیدمان</div>
-                        <div class="nav chideman">
-                            <a class="sub-link" href="#">HOME</a>
-                            <a class="sub-link" href="#">PORTFOLIO</a>
-                            <a class="sub-link" href="#">SKILLS</a>
-                            <a class="sub-link" href="#">CONTACT</a>
-                        </div>
-                    </a>
-                </li> -->
+              
                 <li>
-                    <a class="nav-link-about nav-link-style" href="#">
+                    <a class="nav-link-2 nav-link-style" href="#">
                         <div class="jakesh">
-                            <svg class="arrow-left-icon-about arrow-style">
+                            <svg class="arrow-left-icon-2 arrow-style">
                                 <use class="jabbar" xlink:href="#arrow-right" />
                             </svg>
                         </div>
                         <div>درباره ما</div>
-                        <div class="nav about">
+                        <div class="nav 2">
                             <a class="sub-link" href="#">HOME</a>
-                            <a class="sub-link" href="#">PORTFOLIO</a>
-                            <a class="sub-link" href="#">SKILLS</a>
-                            <a class="sub-link" href="#">CONTACT</a>
                         </div>
                     </a>
                 </li>
@@ -162,8 +197,8 @@
 
 
         <div class="container head-intro">
-            <h2 class="image-head-slog">سختکوشی ارث نامه ماست</h2>
-            <h1 class="image-head-company">پارس جدول</h1>
+         <!--    <h2 class="image-head-slog">سختکوشی ارث نامه ماست</h2>
+            <h1 class="image-head-company">پارس جدول</h1> -->
         </div>
 
 

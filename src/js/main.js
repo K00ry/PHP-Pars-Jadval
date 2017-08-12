@@ -33,7 +33,7 @@ $(document).ready(function() {
     }
 
     function galleryBuilt(object) {
-       
+
         var group_mozayik = " ";
         $.each(object, function(key, value) {
             group_mozayik += '<div class="itemha">';
@@ -42,15 +42,15 @@ $(document).ready(function() {
             group_mozayik += '<span class="item-name">' + value.type + '</span></div>';
             group_mozayik += '</div>';
         })
-        
+
         mozayik_class.html(group_mozayik).fadeIn("slow");
     }
 
     function genreSwitch(key) {
         $('.genres').on('click', 'li a', function() {
-             mozayik_class.fadeOut("slow");
+            mozayik_class.fadeOut("slow");
             var rightObject = key[$(this).html()];
-            setTimeout(function(){galleryBuilt(rightObject)},500);
+            setTimeout(function() { galleryBuilt(rightObject) }, 500);
             $(this).parent().siblings().removeClass('active');
             $(this).addClass('active');
         });
@@ -86,7 +86,7 @@ $(document).ready(function() {
     new ScrollMagic.Scene({ triggerElement: "#parallax1" })
         .setTween("#parallax1 > div", { y: "80%", ease: Linear.easeNone })
 
-    .addTo(controller);
+        .addTo(controller);
 
     /** ===========================================
         Hide / show the master navigation menu
@@ -229,12 +229,14 @@ $(document).ready(function() {
         });
     }
 
-    // openSubMenu($('.nav-link-asli'), $('.asli'), $('.arrow-left-icon-asli'));
-    openSubMenu($('.nav-link-mahsool'), $('.mahsool'), $('.arrow-left-icon-mahsool'));
-    openSubMenu($('.nav-link-chideman'), $('.chideman'), $('.arrow-left-icon-chideman'));
-    openSubMenu($('.nav-link-about'), $('.about'), $('.arrow-left-icon-about'));
-    openSubMenu($('.nav-link-mozayik'), $('.mozayik'), $('.arrow-left-icon-mozayik'));
-    openSubMenu($('.nav-link-jadval'), $('.jadval'), $('.arrow-left-icon-jadval'));
+ 
+    openSubMenu($('.nav-link-1'), $('.1'), $('.arrow-left-icon-1'));
+    openSubMenu($('.nav-link-1-1'), $('.1-1'), $('.arrow-left-icon-1-1'));
+    openSubMenu($('.nav-link-1-2'), $('.1-2'), $('.arrow-left-icon-1-2'));
+    openSubMenu($('.nav-link-1-3'), $('.1-3'), $('.arrow-left-icon-1-3'));
+    openSubMenu($('.nav-link-1-4'), $('.1-4'), $('.arrow-left-icon-1-4'));
+    openSubMenu($('.nav-link-1-5'), $('.1-5'), $('.arrow-left-icon-1-5'));
+    openSubMenu($('.nav-link-2'), $('.2'), $('.arrow-left-icon-2'));
 
     // $('.nav-link').click(function (e) {
 
