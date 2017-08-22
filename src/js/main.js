@@ -231,11 +231,16 @@ $(document).ready(function() {
 
  
     openSubMenu($('.nav-link-1'), $('.1'), $('.arrow-left-icon-1'));
+    /////////
     openSubMenu($('.nav-link-1-1'), $('.1-1'), $('.arrow-left-icon-1-1'));
     openSubMenu($('.nav-link-1-2'), $('.1-2'), $('.arrow-left-icon-1-2'));
     openSubMenu($('.nav-link-1-3'), $('.1-3'), $('.arrow-left-icon-1-3'));
     openSubMenu($('.nav-link-1-4'), $('.1-4'), $('.arrow-left-icon-1-4'));
     openSubMenu($('.nav-link-1-5'), $('.1-5'), $('.arrow-left-icon-1-5'));
+    openSubMenu($('.nav-link-1-6'), $('.1-6'), $('.arrow-left-icon-1-6'));
+    openSubMenu($('.nav-link-1-7'), $('.1-7'), $('.arrow-left-icon-1-7'));
+
+    //////
     openSubMenu($('.nav-link-2'), $('.2'), $('.arrow-left-icon-2'));
 
     // $('.nav-link').click(function (e) {

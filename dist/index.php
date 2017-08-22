@@ -126,24 +126,42 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="nav-link-no-sub" href="#">
-                                        <div>دال بتني</div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="nav-link-no-sub" href="#">
-                                        <div>موزاییک</div>
-                                    </a>
-                                </li>
-                                   <li>
                                     <a class="nav-link-1-4 nav-link-style-sub" href="#">
                                         <div class="jakesh">
                                             <svg class="arrow-left-icon-1-4 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
-                                        <div>كول</div>
+                                        <div>دال بتني</div>
                                         <div class="nav-sub-container 1-4">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">ترافيك سبك</a>
+                                            <a class="sub-link" href="#">ترافيك سنگين</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                                 <li>
+                                    <a class="nav-link-1-5 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-5 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>موزاییک</div>
+                                        <div class="nav-sub-container 1-5">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">ساده</a>
+                                            <a class="sub-link" href="#">حياطي</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                                   <li>
+                                    <a class="nav-link-1-6 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-6 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>كول</div>
+                                        <div class="nav-sub-container 1-6">
                                             <a class="sub-link" href="catalog.php?cata=mozayik">گرد</a>
                                             <a class="sub-link" href="#">انباري</a>   
                                             <a class="sub-link" href="#">كانالي</a>               
@@ -151,14 +169,14 @@
                                     </a>
                                 </li>
                                         <li>
-                                    <a class="nav-link-1-5 nav-link-style-sub" href="#">
+                                    <a class="nav-link-1-7 nav-link-style-sub" href="#">
                                         <div class="jakesh">
-                                            <svg class="arrow-left-icon-1-5 arrow-style-sub">
+                                            <svg class="arrow-left-icon-1-7 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
                                         <div>مبلمان شهري</div>
-                                        <div class="nav-sub-container 1-5">
+                                        <div class="nav-sub-container 1-7">
                                             <a class="sub-link" href="catalog.php?cata=mozayik">نيمكت بتني</a>
                                             <a class="sub-link" href="#">پايه چراغ</a>   
                                             <a class="sub-link" href="#">استاپر</a>               
@@ -183,7 +201,7 @@
                                 <use class="jabbar" xlink:href="#arrow-right" />
                             </svg>
                         </div>
-                        <div>درباره ما</div>
+                        <div>تماس</div>
                         <div class="nav 2">
                             <a class="sub-link" href="#">HOME</a>
                         </div>
@@ -197,11 +215,44 @@
 
 
         <div class="container head-intro">
-         <!--    <h2 class="image-head-slog">سختکوشی ارث نامه ماست</h2>
+           <!--  <h2 class="image-head-slog">سختکوشی ارث نامه ماست</h2>
             <h1 class="image-head-company">پارس جدول</h1> -->
+            <a href="#">
+                <span class="image-head"> جدول  </span>
+            </a>
         </div>
+       <!--  <div class="container col-feature axs4 ">
+            <a href="#">
+                <span class="image-head"> سنگفرش </span>
+            </a>
+        </div> -->
 
 
+
+        
+        <!-- end CAROUSEL -->
+        <div class="container col-feature axs1 ">
+            <a href="#">
+                <span class="image-head"> سنگفرش </span>
+            </a>
+        </div>
+   
+        <!-- parralex start -->
+        <div class="spacer s0"></div>
+        <div id="parallax1" class="parallaxParent">
+            <div class="jabeja"></div>
+        </div>
+        <!-- parralex end -->
+        <div class="container col-feature axs2 ">
+            <a href="#">
+                <span class="image-head"> موزاییک </span>
+            </a>
+        </div>
+        <div class="container col-feature axs3 ">
+            <a href="#">
+                <span class="image-head"> سنگفرش </span>
+            </a>
+        </div>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -229,29 +280,6 @@
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-            </a>
-        </div>
-        <!-- end CAROUSEL -->
-        <div class="container col-feature axs1 ">
-            <a href="#">
-                <span class="image-head"> سنگفرش </span>
-            </a>
-        </div>
-   
-        <!-- parralex start -->
-        <div class="spacer s0"></div>
-        <div id="parallax1" class="parallaxParent">
-            <div class="jabeja"></div>
-        </div>
-        <!-- parralex end -->
-        <div class="container col-feature axs2 ">
-            <a href="#">
-                <span class="image-head"> موزاییک </span>
-            </a>
-        </div>
-        <div class="container col-feature axs3 ">
-            <a href="#">
-                <span class="image-head"> سنگفرش </span>
             </a>
         </div>
     </div> <!-- ////////////////////////Closing Main Div tag \\\\\\\\\\\\\\\\\\\\\\\\-->

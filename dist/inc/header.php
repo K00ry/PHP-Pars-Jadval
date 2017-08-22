@@ -125,24 +125,42 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="nav-link-no-sub" href="#">
-                                        <div>دال بتني</div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a class="nav-link-no-sub" href="#">
-                                        <div>موزاییک</div>
-                                    </a>
-                                </li>
-                                   <li>
                                     <a class="nav-link-1-4 nav-link-style-sub" href="#">
                                         <div class="jakesh">
                                             <svg class="arrow-left-icon-1-4 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
-                                        <div>كول</div>
+                                        <div>دال بتني</div>
                                         <div class="nav-sub-container 1-4">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">ترافيك سبك</a>
+                                            <a class="sub-link" href="#">ترافيك سنگين</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                                 <li>
+                                    <a class="nav-link-1-5 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-5 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>موزاییک</div>
+                                        <div class="nav-sub-container 1-5">
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">ساده</a>
+                                            <a class="sub-link" href="#">حياطي</a>
+                                        </div> 
+                                    </a>
+                                </li>
+                                   <li>
+                                    <a class="nav-link-1-6 nav-link-style-sub" href="#">
+                                        <div class="jakesh">
+                                            <svg class="arrow-left-icon-1-6 arrow-style-sub">
+                                                <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
+                                            </svg>
+                                        </div>
+                                        <div>كول</div>
+                                        <div class="nav-sub-container 1-6">
                                             <a class="sub-link" href="catalog.php?cata=mozayik">گرد</a>
                                             <a class="sub-link" href="#">انباري</a>   
                                             <a class="sub-link" href="#">كانالي</a>               
@@ -150,14 +168,14 @@
                                     </a>
                                 </li>
                                         <li>
-                                    <a class="nav-link-1-5 nav-link-style-sub" href="#">
+                                    <a class="nav-link-1-7 nav-link-style-sub" href="#">
                                         <div class="jakesh">
-                                            <svg class="arrow-left-icon-1-5 arrow-style-sub">
+                                            <svg class="arrow-left-icon-1-7 arrow-style-sub">
                                                 <use class="jabbar" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use>
                                             </svg>
                                         </div>
                                         <div>مبلمان شهري</div>
-                                        <div class="nav-sub-container 1-5">
+                                        <div class="nav-sub-container 1-7">
                                             <a class="sub-link" href="catalog.php?cata=mozayik">نيمكت بتني</a>
                                             <a class="sub-link" href="#">پايه چراغ</a>   
                                             <a class="sub-link" href="#">استاپر</a>               
@@ -182,7 +200,7 @@
                                 <use class="jabbar" xlink:href="#arrow-right" />
                             </svg>
                         </div>
-                        <div>درباره ما</div>
+                         <div>تماس</div>
                         <div class="nav 2">
                             <a class="sub-link" href="#">HOME</a>
                         </div>
