@@ -41,9 +41,9 @@
         transition-duration: .3s;
     }
     li a {
-        font-size: 1.5em;
+
         padding: 10px;
-        @include font-fam-size( 1.5em, sevom, bold, $text-black-m);
+        @include font-fam-size( 1.2em, asli, bold, $text-black-m);
     }
 }
 
@@ -74,6 +74,32 @@
     }
 }
 
+.table_wrapper {
+    @include flex-display(flex, column, space-between, 100%, center);
+    .aks_preview {
+        max-width: 100%;
+        height: auto;
+    }
+    table,
+    td,
+    th {
+        border: 1px solid black;
+    }
+    th {
+        @include font-fam-size( 1.2em, asli, bold, $text-black-m);
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    td,
+    th {
+        text-align: center;
+    }
+}
+
+
 .axs1 {
     background: url("../img/1.jpg") no-repeat center;
 }
@@ -85,11 +111,11 @@
 .axs3 {
     background: url("../img/3.jpg") no-repeat center;
 }
+
 .axs4 {
-    background: url("../img/jadval-kh.png") no-repeat 50% ;
-
-
+    background: url("../img/jadval-kh.png") no-repeat 50%;
 }
+
 .col-feature {
     // background-size: cover;
     @include flex-display(flex,
@@ -116,8 +142,7 @@
     .top-nav {
         width: 100%;
         padding: 20px 0;
-        border-bottom: 2px solid #000;
-         // #BFBFBF
+        border-bottom: 2px solid #000; // #BFBFBF
         text-align: center;
         a {
             @include font-fam-size( 1em,

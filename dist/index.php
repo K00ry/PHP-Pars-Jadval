@@ -77,7 +77,7 @@
                         </div>
                         <div>محصولات</div>
                         <div class="nav 1">
-                         <!-- sraat of sub -->
+                         <!-- staart of sub -->
                             <ul class="sideNav-sub">
                                 <li>
                                     <a class="nav-link-1-1 nav-link-style-sub" href="#">
@@ -88,8 +88,8 @@
                                         </div>
                                         <div>جدول</div>
                                         <div class="nav-sub-container 1-1">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول وت پرس</a>
-                                            <a class="sub-link" href="#">جدول پرس خشك</a>
+                                            <a class="sub-link" href="catalog.php?cata=jadval">جدول وت پرس</a>
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول پرس خشك</a>
                                             <a class="sub-link" href="#">جدول دستي</a>
                                         </div> 
                                     </a>
@@ -220,6 +220,9 @@
             <a href="#">
                 <span class="image-head"> جدول  </span>
             </a>
+        </div>
+        <div class="head-intro-sub">
+            
         </div>
        <!--  <div class="container col-feature axs4 ">
             <a href="#">

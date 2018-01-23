@@ -4,15 +4,25 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "ED783D06-A4C0-461C-8C5D-9C0378D37007"
+		"uuidString": "B7CF9C1B-584F-4359-9912-A1C19894CAEC"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25900",
 "files": {
-	"\/.bootstraprc": {
+	"\/application.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/application-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/application.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.bootstraprc",
+		"oAP": "\/application.css.map",
 		"oF": 0
 		},
 	"\/catalog.php": {
@@ -22,38 +32,20 @@
 		"oF": 0
 		},
 	"\/css\/application.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/css\/application-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/css\/application.css.map": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/css\/application.css.map",
 		"oF": 0
-		},
-	"\/dist\/bundle.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/min\/bundle-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/min\/bundle-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/dist\/min\/min\/bundle-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/fonts\/AAmine.ttf": {
 		"ft": 8192,
@@ -448,6 +440,226 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/mozayik\/mobile\/20x20.png": {
+		"ft": 32768,
+		"iS": 41398,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/20x20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/30.png": {
+		"ft": 32768,
+		"iS": 161581,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/30.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/40x40.png": {
+		"ft": 32768,
+		"iS": 87335,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/40x40.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/5zeli.png": {
+		"ft": 32768,
+		"iS": 39150,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/5zeli.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/ajori.png": {
+		"ft": 32768,
+		"iS": 37991,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/ajori.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/congere.png": {
+		"ft": 32768,
+		"iS": 47965,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/congere.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/i.png": {
+		"ft": 32768,
+		"iS": 36931,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/i.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/kandooyi.png": {
+		"ft": 32768,
+		"iS": 60106,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/kandooyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/koozeyi.png": {
+		"ft": 32768,
+		"iS": 55951,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/koozeyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/lozipoostmari.png": {
+		"ft": 32768,
+		"iS": 41700,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/lozipoostmari.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/lozisade.png": {
+		"ft": 32768,
+		"iS": 32396,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/lozisade.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/puzzelesombe.png": {
+		"ft": 32768,
+		"iS": 55105,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/puzzelesombe.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/puzzle.png": {
+		"ft": 32768,
+		"iS": 54706,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/puzzle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/saatsheni.png": {
+		"ft": 32768,
+		"iS": 61534,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/saatsheni.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/sangi.png": {
+		"ft": 32768,
+		"iS": 94610,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/sangi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/sekeyi.png": {
+		"ft": 32768,
+		"iS": 104120,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/sekeyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/setareyi.png": {
+		"ft": 32768,
+		"iS": 103230,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/setareyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/shokolati.png": {
+		"ft": 32768,
+		"iS": 85446,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/shokolati.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/tabbari.png": {
+		"ft": 32768,
+		"iS": 38016,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/tabbari.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/mozayik\/mobile\/yasaman.png": {
+		"ft": 32768,
+		"iS": 108910,
+		"oA": 0,
+		"oAP": "\/images\/mozayik\/mobile\/yasaman.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/mozayik\/puzzelesombe2x.png": {
 		"ft": 32768,
 		"iS": 331958,
@@ -616,15 +828,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/mozayik\/unoptimized\/20x20.jpg": {
-		"ft": 16384,
-		"iS": 588104,
-		"oA": 0,
-		"oAP": "\/images\/mozayik\/unoptimized\/20x20.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+	"\/images\/mozayik\/unoptimized\/20x20.tif": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/images\/mozayik\/unoptimized\/20x20.tif",
+		"oF": 0
 		},
 	"\/images\/mozayik\/unoptimized\/30.tif": {
 		"ft": 8192,
@@ -638,10 +846,10 @@
 		"oAP": "\/images\/mozayik\/unoptimized\/40x40.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/5 zeli.tif": {
+	"\/images\/mozayik\/unoptimized\/5zeli.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/5 zeli.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/5zeli.tif",
 		"oF": 0
 		},
 	"\/images\/mozayik\/unoptimized\/ajori.tif": {
@@ -656,10 +864,10 @@
 		"oAP": "\/images\/mozayik\/unoptimized\/congere.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/I.tif": {
+	"\/images\/mozayik\/unoptimized\/i.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/I.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/i.tif",
 		"oF": 0
 		},
 	"\/images\/mozayik\/unoptimized\/kandooyi.tif": {
@@ -674,22 +882,22 @@
 		"oAP": "\/images\/mozayik\/unoptimized\/koozeyi.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
+	"\/images\/mozayik\/unoptimized\/lozipoostmari.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/lozipoostmari.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/lozi sade.tif": {
+	"\/images\/mozayik\/unoptimized\/lozisade.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/lozi sade.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/lozisade.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
+	"\/images\/mozayik\/unoptimized\/puzzelesombe.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/puzzelesombe.tif",
 		"oF": 0
 		},
 	"\/images\/mozayik\/unoptimized\/puzzle.tif": {
@@ -698,10 +906,10 @@
 		"oAP": "\/images\/mozayik\/unoptimized\/puzzle.tif",
 		"oF": 0
 		},
-	"\/images\/mozayik\/unoptimized\/saat sheni.tif": {
+	"\/images\/mozayik\/unoptimized\/saatsheni.tif": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/images\/mozayik\/unoptimized\/saat sheni.tif",
+		"oAP": "\/images\/mozayik\/unoptimized\/saatsheni.tif",
 		"oF": 0
 		},
 	"\/images\/mozayik\/unoptimized\/sangi.tif": {
@@ -869,32 +1077,32 @@
 		},
 	"\/img\/1.jpg": {
 		"ft": 16384,
-		"iS": 540555,
+		"iS": 90652,
 		"oA": 0,
 		"oAP": "\/img\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/2.jpg": {
 		"ft": 16384,
-		"iS": 497309,
+		"iS": 71364,
 		"oA": 0,
 		"oAP": "\/img\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/3.jpg": {
 		"ft": 16384,
-		"iS": 664554,
+		"iS": 123908,
 		"oA": 0,
 		"oAP": "\/img\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/35.jpg": {
@@ -956,6 +1164,82 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/asset-2.png": {
+		"ft": 32768,
+		"iS": 1609,
+		"oA": 0,
+		"oAP": "\/img\/asset-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/asset-3.png": {
+		"ft": 32768,
+		"iS": 777,
+		"oA": 0,
+		"oAP": "\/img\/asset-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/Asset.png": {
+		"ft": 32768,
+		"iS": 1809,
+		"oA": 0,
+		"oAP": "\/img\/Asset.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/header.png": {
+		"ft": 32768,
+		"iS": 52060,
+		"oA": 0,
+		"oAP": "\/img\/header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/int-2.png": {
+		"ft": 32768,
+		"iS": 17814,
+		"oA": 0,
+		"oAP": "\/img\/int-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/int.jpg": {
+		"ft": 16384,
+		"iS": 139930,
+		"oA": 0,
+		"oAP": "\/img\/int.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/jadval-kh.png": {
+		"ft": 32768,
+		"iS": 30423,
+		"oA": 0,
+		"oAP": "\/img\/jadval-kh.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/left-mod-white.svg": {
 		"ft": 2097152,
@@ -1019,12 +1303,12 @@
 		},
 	"\/img\/pars-jadval-slogan.jpg": {
 		"ft": 16384,
-		"iS": 265687,
+		"iS": 61994,
 		"oA": 0,
 		"oAP": "\/img\/pars-jadval-slogan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/pars-jadval.jpg": {
@@ -1057,6 +1341,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/shade-b.png": {
+		"ft": 32768,
+		"iS": 1402,
+		"oA": 0,
+		"oAP": "\/img\/shade-b.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/shade.png": {
 		"ft": 32768,
@@ -1095,28 +1390,31 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
-		"oF": 1
+		"oF": 0
 		},
 	"\/js\/data.js": {
 		"ft": 64,
-		"mi": 0,
-		"oA": 1,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/js\/min\/data-min.js",
-		"oF": 1,
-		"sC": 0,
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/js\/main.js": {
 		"ft": 64,
-		"mi": 0,
-		"oA": 1,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/js\/min\/main-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/js\/min\/data-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/min\/data-min-min.js",
@@ -1126,35 +1424,13 @@
 		},
 	"\/js\/min\/main-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/min\/min\/main-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
-		},
-	"\/min\/webpack.config-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/min\/min\/webpack.config-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/node_modules": {
-		"ft": 65536,
-		"oA": 2,
-		"oAP": "\/build\/node_modules",
-		"oF": 0
-		},
-	"\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc": {
 		"ft": 8192,
@@ -1876,7 +2152,7 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/application.css",
 		"oF": 0,
@@ -2064,24 +2340,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/webpack.bootstrap.config.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/min\/webpack.bootstrap.config-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/webpack.config.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/min\/webpack.config-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
 		}
 	},
 "hooks": [
@@ -2089,14 +2347,14 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 501118799,
-	"displayValue": "PHP Pars",
+	"creationDate": 525838181,
+	"displayValue": "src",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-kanye"
+	"iconImageName": "meme-greg"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2496,6 +2754,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -2503,6 +2765,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -2600,6 +2866,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -2619,6 +2889,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -2748,6 +3022,10 @@
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-caller": {
 			"active": 0,
 			"optionString": ""
@@ -2873,8 +3151,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -2893,7 +3171,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -3101,7 +3379,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -3122,14 +3400,14 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -3146,7 +3424,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -3162,7 +3440,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -3185,12 +3463,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -3198,18 +3476,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -3292,6 +3570,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -3330,7 +3612,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', 'avoid-escape'"
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
 			},
 		"radix": {
 			"active": 0,
@@ -3342,10 +3624,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -3359,6 +3641,10 @@
 		"semi-spacing": {
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
 			},
 		"sort-imports": {
 			"active": 0,
@@ -3399,6 +3685,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -3450,7 +3740,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost\/PHP%20pars",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3815,7 +4105,7 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -3823,7 +4113,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"outputStyle": 3,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -3884,8 +4174,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -3896,7 +4186,7 @@
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -4028,9 +4318,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
@@ -4154,7 +4446,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {

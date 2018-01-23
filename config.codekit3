@@ -7,12 +7,20 @@
 		"uuidString": "ED783D06-A4C0-461C-8C5D-9C0378D37007"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/.bootstraprc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.bootstraprc",
+		"oF": 0
+		},
+	"\/catalog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/catalog.php",
 		"oF": 0
 		},
 	"\/dist\/bundle.js": {
@@ -26,168 +34,180 @@
 		"tS": 0
 		},
 	"\/dist\/catalog.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/catalog.php",
 		"oF": 0
 		},
 	"\/dist\/fonts\/AAmine.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/AAmine.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/vazir-FD.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/vazir-FD.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/vazir-WOL.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/vazir-WOL.ttf",
 		"oF": 0
 		},
 	"\/dist\/fonts\/zarghan.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/fonts\/zarghan.ttf",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/31.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/31.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/32.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/32.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/33.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/33.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/34.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/34.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/35.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/35.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/blook\/37.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/blook\/37.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/dal\/39.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/dal\/39.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/dal\/41.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/dal\/41.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/dal\/44.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/dal\/44.tif",
 		"oF": 0
 		},
-	"\/dist\/images\/jadval\/50x30x10 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/50x30x10 copy.tif",
-		"oF": 0
+	"\/dist\/images\/jadval\/mobile\/40.jpg": {
+		"ft": 16384,
+		"iS": 121080,
+		"oA": 0,
+		"oAP": "\/dist\/images\/jadval\/mobile\/40.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/dist\/images\/jadval\/50x35x15 .tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/50x35x15 .tif",
-		"oF": 0
+	"\/dist\/images\/jadval\/mobile\/50.jpg": {
+		"ft": 16384,
+		"iS": 117490,
+		"oA": 0,
+		"oAP": "\/dist\/images\/jadval\/mobile\/50.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/dist\/images\/jadval\/50x40x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/50x40x15 copy.tif",
-		"oF": 0
+	"\/dist\/images\/jadval\/mobile\/60.jpg": {
+		"ft": 16384,
+		"iS": 127671,
+		"oA": 0,
+		"oAP": "\/dist\/images\/jadval\/mobile\/60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/dist\/images\/jadval\/50x50x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/50x50x15 copy.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/jadval\/50x60x15  copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/50x60x15  copy.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/jadval\/d1.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/d1.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/jadval\/medadi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/medadi jadval.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/jadval\/mehrabi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/jadval\/mehrabi jadval.tif",
-		"oF": 0
+	"\/dist\/images\/jadval\/mobile\/d1.jpg": {
+		"ft": 16384,
+		"iS": 99130,
+		"oA": 0,
+		"oAP": "\/dist\/images\/jadval\/mobile\/d1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/images\/kaval\/36.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/36.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/kaval\/38.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/38.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/kaval\/40.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/40.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/kaval\/42.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/42.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/kaval\/43.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/43.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/kaval\/45.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/45.tif",
@@ -604,120 +624,140 @@
 		"q": 100
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/20x20.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/20x20.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/30.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/30.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/40x40.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/40x40.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/ajori.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/ajori.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/congere.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/congere.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/I.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/I.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/puzzle.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzle.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/sangi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sangi.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/setareyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/setareyi.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/shokolati.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/shokolati.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/tabbari.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/tabbari.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/mozayik\/unoptimized\/yasaman.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/mozayik\/unoptimized\/yasaman.tif",
@@ -734,24 +774,28 @@
 		"q": 100
 		},
 	"\/dist\/images\/newjersey.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/newjersey.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/nimkat\/46.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/nimkat\/46.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/nimkat\/47.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/nimkat\/47.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/nimkat\/48.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/nimkat\/48.tif",
@@ -798,42 +842,49 @@
 		"q": 100
 		},
 	"\/dist\/images\/sangcheragh\/26.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangcheragh\/26.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangcheragh\/27.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangcheragh\/27.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangcheragh\/28.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangcheragh\/28.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangcheragh\/29.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangcheragh\/29.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangdal\/20.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangdal\/20.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangdal\/21.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangdal\/21.tif",
 		"oF": 0
 		},
 	"\/dist\/images\/sangdal\/22.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/images\/sangdal\/22.tif",
@@ -896,8 +947,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/asset-3.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -925,12 +976,12 @@
 		},
 	"\/dist\/img\/int-2.png": {
 		"ft": 32768,
-		"iS": 38089,
+		"iS": 17814,
 		"oA": 0,
 		"oAP": "\/dist\/img\/int-2.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -941,7 +992,7 @@
 		"oAP": "\/dist\/img\/int.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/dist\/img\/jadval-kh.png": {
@@ -950,8 +1001,8 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/jadval-kh.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -962,7 +1013,7 @@
 		"oAP": "\/dist\/img\/pars-jadval-slogan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/dist\/img\/pars-jadval.jpg": {
@@ -977,12 +1028,12 @@
 		},
 	"\/dist\/img\/sakhtemoon.png": {
 		"ft": 32768,
-		"iS": 90282,
+		"iS": 38680,
 		"oA": 0,
 		"oAP": "\/dist\/img\/sakhtemoon.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1003,24 +1054,27 @@
 		"oA": 0,
 		"oAP": "\/dist\/img\/shade.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/dist\/inc\/footer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/inc\/footer.php",
 		"oF": 0
 		},
 	"\/dist\/inc\/header.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/inc\/header.php",
 		"oF": 0
 		},
 	"\/dist\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/index.php",
@@ -1037,15 +1091,16 @@
 		"tS": 0
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
-		"oF": 0
+		"oF": 1
 		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
-		"oAP": "\/dist\/node_modules",
+		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
 	"\/package.json": {
@@ -1057,194 +1112,207 @@
 		"oS": 1
 		},
 	"\/src\/application.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/application-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/src\/application.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/application.css.map",
 		"oF": 0
 		},
 	"\/src\/css\/application.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/src\/css\/application-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/src\/css\/application.css.map": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/src\/css\/application.css.map",
 		"oF": 0
 		},
 	"\/src\/fonts\/AAmine.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/fonts\/AAmine.ttf",
 		"oF": 0
 		},
 	"\/src\/fonts\/Vazir-FD.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/fonts\/Vazir-FD.ttf",
 		"oF": 0
 		},
 	"\/src\/fonts\/Vazir-WOL.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/fonts\/Vazir-WOL.ttf",
 		"oF": 0
 		},
 	"\/src\/fonts\/zarghan.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/fonts\/zarghan.ttf",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/31.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/31.tif",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/32.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/32.tif",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/33.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/33.tif",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/34.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/34.tif",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/35.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/35.tif",
 		"oF": 0
 		},
 	"\/src\/images\/blook\/37.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/blook\/37.tif",
 		"oF": 0
 		},
 	"\/src\/images\/dal\/39.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/dal\/39.tif",
 		"oF": 0
 		},
 	"\/src\/images\/dal\/41.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/dal\/41.tif",
 		"oF": 0
 		},
 	"\/src\/images\/dal\/44.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/dal\/44.tif",
 		"oF": 0
 		},
-	"\/src\/images\/jadval\/50x30x10 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/50x30x10 copy.tif",
-		"oF": 0
+	"\/src\/images\/jadval\/mobile\/40.jpg": {
+		"ft": 16384,
+		"iS": 121080,
+		"oA": 0,
+		"oAP": "\/src\/images\/jadval\/mobile\/40.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/src\/images\/jadval\/50x35x15 .tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/50x35x15 .tif",
-		"oF": 0
+	"\/src\/images\/jadval\/mobile\/50.jpg": {
+		"ft": 16384,
+		"iS": 117490,
+		"oA": 0,
+		"oAP": "\/src\/images\/jadval\/mobile\/50.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/src\/images\/jadval\/50x40x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/50x40x15 copy.tif",
-		"oF": 0
+	"\/src\/images\/jadval\/mobile\/60.jpg": {
+		"ft": 16384,
+		"iS": 127671,
+		"oA": 0,
+		"oAP": "\/src\/images\/jadval\/mobile\/60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"\/src\/images\/jadval\/50x50x15 copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/50x50x15 copy.tif",
-		"oF": 0
-		},
-	"\/src\/images\/jadval\/50x60x15  copy.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/50x60x15  copy.tif",
-		"oF": 0
-		},
-	"\/src\/images\/jadval\/d1.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/d1.tif",
-		"oF": 0
-		},
-	"\/src\/images\/jadval\/medadi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/medadi jadval.tif",
-		"oF": 0
-		},
-	"\/src\/images\/jadval\/mehrabi jadval.tif": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/jadval\/mehrabi jadval.tif",
-		"oF": 0
+	"\/src\/images\/jadval\/mobile\/d1.jpg": {
+		"ft": 16384,
+		"iS": 99130,
+		"oA": 0,
+		"oAP": "\/src\/images\/jadval\/mobile\/d1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/src\/images\/kaval\/36.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/36.tif",
 		"oF": 0
 		},
 	"\/src\/images\/kaval\/38.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/38.tif",
 		"oF": 0
 		},
 	"\/src\/images\/kaval\/40.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/40.tif",
 		"oF": 0
 		},
 	"\/src\/images\/kaval\/42.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/42.tif",
 		"oF": 0
 		},
 	"\/src\/images\/kaval\/43.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/43.tif",
 		"oF": 0
 		},
 	"\/src\/images\/kaval\/45.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/45.tif",
@@ -1870,120 +1938,140 @@
 		"q": 100
 		},
 	"\/src\/images\/mozayik\/unoptimized\/20x20.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/20x20.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/30.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/30.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/40x40.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/40x40.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/5zeli.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/5zeli.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/ajori.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/ajori.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/congere.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/congere.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/i.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/i.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/kandooyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/kandooyi.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/koozeyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/koozeyi.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/lozipoostmari.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozipoostmari.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/lozisade.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozisade.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/puzzelesombe.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzelesombe.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/puzzle.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzle.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/saatsheni.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/saatsheni.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/sangi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/sangi.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/sekeyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/sekeyi.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/setareyi.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/setareyi.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/shokolati.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/shokolati.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/tabbari.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/tabbari.tif",
 		"oF": 0
 		},
 	"\/src\/images\/mozayik\/unoptimized\/yasaman.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/mozayik\/unoptimized\/yasaman.tif",
@@ -2011,24 +2099,28 @@
 		"q": 100
 		},
 	"\/src\/images\/newjersey.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/newjersey.tif",
 		"oF": 0
 		},
 	"\/src\/images\/nimkat\/46.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/nimkat\/46.tif",
 		"oF": 0
 		},
 	"\/src\/images\/nimkat\/47.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/nimkat\/47.tif",
 		"oF": 0
 		},
 	"\/src\/images\/nimkat\/48.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/nimkat\/48.tif",
@@ -2075,42 +2167,49 @@
 		"q": 100
 		},
 	"\/src\/images\/sangcheragh\/26.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangcheragh\/26.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangcheragh\/27.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangcheragh\/27.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangcheragh\/28.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangcheragh\/28.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangcheragh\/29.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangcheragh\/29.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangdal\/20.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangdal\/20.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangdal\/21.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangdal\/21.tif",
 		"oF": 0
 		},
 	"\/src\/images\/sangdal\/22.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/images\/sangdal\/22.tif",
@@ -2118,32 +2217,32 @@
 		},
 	"\/src\/img\/1.jpg": {
 		"ft": 16384,
-		"iS": 540555,
+		"iS": 90652,
 		"oA": 0,
 		"oAP": "\/src\/img\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/src\/img\/2.jpg": {
 		"ft": 16384,
-		"iS": 497309,
+		"iS": 71364,
 		"oA": 0,
 		"oAP": "\/src\/img\/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/src\/img\/3.jpg": {
 		"ft": 16384,
-		"iS": 664554,
+		"iS": 123908,
 		"oA": 0,
 		"oAP": "\/src\/img\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/src\/img\/35.jpg": {
@@ -2252,12 +2351,12 @@
 		},
 	"\/src\/img\/int-2.png": {
 		"ft": 32768,
-		"iS": 38089,
+		"iS": 17814,
 		"oA": 0,
 		"oAP": "\/src\/img\/int-2.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2344,12 +2443,12 @@
 		},
 	"\/src\/img\/pars-jadval-slogan.jpg": {
 		"ft": 16384,
-		"iS": 265687,
+		"iS": 61994,
 		"oA": 0,
 		"oAP": "\/src\/img\/pars-jadval-slogan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/src\/img\/pars-jadval.jpg": {
@@ -2415,29 +2514,23 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/index.php",
-		"oF": 0
-		},
 	"\/src\/js\/data.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/src\/js\/min\/data-min.js",
-		"oF": 1,
-		"sC": 0,
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/src\/js\/main.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/src\/js\/min\/main-min.js",
-		"oF": 1,
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
@@ -2445,7 +2538,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/src\/js\/min\/min\/data-min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -2455,721 +2548,840 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/src\/js\/min\/min\/main-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_buttons.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/0498f4d1048cc90c333dc3c0074af20ddce05104\/_typograph.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 10.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 11.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 12.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 13.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 14.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 15.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 16.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 17.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 18.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 19.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 20.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 21.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 22.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 23.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 24.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 25.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 26.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 27.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 28.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 29.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 3.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 30.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 31.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 32.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 33.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 34.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 35.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 36.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 37.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 38.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 39.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 4.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 40.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 41.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 42.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 43.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 44.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 45.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 46.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 47.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 48.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 49.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 5.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 50.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 51.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 52.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 53.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 6.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 7.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 8.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base 9.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_base.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/2327097b35996e1696026609d577ff4d6e7e0010\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_columns.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 10.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 11.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 12.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 13.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 14.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 15.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 16.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 17.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 18.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 19.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 20.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 21.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 22.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 23.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 24.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 25.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 26.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 27.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 28.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 29.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 3.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 30.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 31.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 4.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 5.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 6.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 7.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 8.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers 9.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_containers.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_footer.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_header.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/265a679452e42a955b52b84cfd79fab3940fb0a4\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_extends.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_mixins.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables 3.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/5fac0f7bedb3ed19492f9befa7a52e9e556e7f85\/_variables.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/scss\/.sass-cache\/5fd84185474a4b09dd1fbbe0c86418034ccd22b1\/application.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_extends.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_mixins.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/6664673b72f0796aac44a55f2931c065aaffc3d3\/_variables.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/scss\/.sass-cache\/9ccc740af9ee37458f4385fe0caec75d9b295fc9\/application.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_base.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/c1e9c4ccf759ec7a7ccd9dd28c8764a88f8ce35f\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_columns.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_containers.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_footer.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_header.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/d63c226e2e471c28db049f497ccc4a4563dd362c\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_buttons.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_index.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph 2.scssc",
 		"oF": 0
 		},
 	"\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/src\/scss\/.sass-cache\/eafa2e2a19700223deca4335a918f94dfd362dfc\/_typograph.scssc",
@@ -3181,7 +3393,7 @@
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "\/src\/css\/application.css",
 		"oF": 0,
@@ -3655,7 +3867,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 0,
-	"buildFolderName": "dist",
+	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -3935,6 +4147,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -3999,9 +4215,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -4031,6 +4247,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -4040,14 +4260,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -4200,8 +4412,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 0,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			"active": 1,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -4220,7 +4432,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -4428,7 +4640,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -4456,7 +4668,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -4512,12 +4724,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -4525,18 +4737,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			"optionString": "{'functions': true, 'classes': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -4661,7 +4873,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			"optionString": "'double', 'avoid-escape'"
 			},
 		"radix": {
 			"active": 0,
@@ -4673,10 +4885,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
 			},
 		"require-yield": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -4789,7 +5001,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost\/PHP%20pars\/dist\/index.php",
+	"externalServerAddress": "http:\/\/localhost\/PHP%20pars",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -5151,10 +5363,11 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 2,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5162,7 +5375,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -5184,6 +5397,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -5223,9 +5437,10 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "kit",
-		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -5235,7 +5450,7 @@
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -5257,13 +5472,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -5272,7 +5487,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -5292,7 +5508,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -5320,7 +5537,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -5368,9 +5586,9 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
-	"previewPathAddition": "",
+	"previewPathAddition": "dist\/index.php",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
-	"sourceFolderName": "src",
+	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -5495,7 +5713,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -5540,7 +5758,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "dist\/index.php"
 	},
 "settingsFileVersion": "3"
 }

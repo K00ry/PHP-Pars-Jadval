@@ -1,8 +1,5 @@
 body {
-  padding-top: 75px;
-  background: url(../img/asset-3.png) no-repeat 100%;
-  background-size: 100%;
-  background-position: bottom left; }
+  padding-top: 75px; }
 
 a:hover,
 a:focus {
@@ -16,7 +13,6 @@ a:focus {
   padding: 0;
   width: 100%;
   margin: auto;
-  background: url(../img/shade.png) no-repeat 100%;
   background-size: 100%;
   background-position: top right; }
 
@@ -91,7 +87,8 @@ a:focus {
 
 .sideNav-sub {
   width: 100%;
-  padding: 0; }
+  padding: 0;
+  list-style: none; }
 
 .nav-link {
   font-size: 1.3em;
@@ -100,8 +97,9 @@ a:focus {
   color: rgba(34, 34, 34, 0.9); }
 
 .head-intro {
-  background: url(../img/int-2.png) no-repeat;
-  background-size: cover;
+  background: url(../img/jadval-kh.png) no-repeat 100%;
+  background-size: 65%;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -129,18 +127,22 @@ a:focus {
   padding: 10px 0; }
 
 .genres {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
   list-style: none;
   padding: 0; }
   .genres .active a {
     color: #FFCC00; }
-  .genres li a:focus, .genres li a:hover {
+  .genres li a:focus,
+  .genres li a:hover {
     color: #FFCC00;
     transition-duration: .3s; }
   .genres li a {
-    font-size: 1.5em;
     padding: 10px;
-    font-size: 1.5em;
-    font-family: sevom;
+    font-size: 1.2em;
+    font-family: asli;
     font-weight: bold;
     color: rgba(34, 34, 34, 0.9); }
 
@@ -181,6 +183,31 @@ a:focus {
         font-weight: bold;
         color: rgba(34, 34, 34, 0.9); }
 
+.table_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center; }
+  .table_wrapper .aks_preview {
+    max-width: 100%;
+    height: auto; }
+  .table_wrapper table,
+  .table_wrapper td,
+  .table_wrapper th {
+    border: 1px solid black; }
+  .table_wrapper th {
+    font-size: 1.2em;
+    font-family: asli;
+    font-weight: bold;
+    color: rgba(34, 34, 34, 0.9); }
+  .table_wrapper table {
+    border-collapse: collapse;
+    width: 100%; }
+  .table_wrapper td,
+  .table_wrapper th {
+    text-align: center; }
+
 .axs1 {
   background: url("../img/1.jpg") no-repeat center; }
 
@@ -190,8 +217,10 @@ a:focus {
 .axs3 {
   background: url("../img/3.jpg") no-repeat center; }
 
+.axs4 {
+  background: url("../img/jadval-kh.png") no-repeat 50%; }
+
 .col-feature {
-  background-size: cover;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -210,7 +239,7 @@ a:focus {
   .contact .top-nav {
     width: 100%;
     padding: 20px 0;
-    border-bottom: 2px solid #BFBFBF;
+    border-bottom: 2px solid #000;
     text-align: center; }
     .contact .top-nav a {
       font-size: 1em;
@@ -220,7 +249,7 @@ a:focus {
   .contact .contact-info {
     font-family: asli;
     padding: 30px 0;
-    text-align: right; }
+    text-align: center; }
     .contact .contact-info h4 a {
       font-size: 0.9em;
       font-family: -apple-;
@@ -245,12 +274,22 @@ a:focus {
       background-size: cover; } }
 
 footer h1 {
-  padding: 10px 10px;
+  margin: 0;
+  background-color: #000;
+  padding: 14px;
   font-size: 1em;
   font-family: asli;
   font-weight: bold;
-  color: rgba(34, 34, 34, 0.9);
+  color: #fff;
   text-align: left; }
+
+.head-intro-sub {
+  height: 0;
+  width: 100%;
+  position: relative;
+  z-index: 10000000;
+  background-color: #000;
+  transition: 0.5s; }
 
 .sidenav {
   height: 100%;
@@ -259,7 +298,7 @@ footer h1 {
   z-index: 1000000;
   top: 0;
   right: 0;
-  background-color: rgba(33, 33, 33, 0.91);
+  background-color: #000;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px; }
@@ -382,5 +421,3 @@ a {
 .arrow {
   width: 20px;
   height: 20px; }
-
-/*# sourceMappingURL=application.css.map */

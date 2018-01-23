@@ -1,12 +1,24 @@
+.head-intro-sub {
+    height: 0;
+    width: 100%;
+    position: relative;
+    z-index: 10000000;
+    // top: 0;
+    // right: 0; // background-color: rgba(33, 33, 33, 0.91);
+    background-color: #000;
+    // overflow: auto;
+    transition: 0.5s;
+    // padding-top: 60px;
+}
+
 .sidenav {
     height: 100%;
     width: 0;
     position: fixed;
     z-index: 1000000;
     top: 0;
-    right: 0;
-    // background-color: rgba(33, 33, 33, 0.91);
-    background-color:#000;
+    right: 0; // background-color: rgba(33, 33, 33, 0.91);
+    background-color: #000;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -27,9 +39,10 @@
     @include flex-display(flex, row, space-between, 100%, center);
     @include font-fam-size( 1.4em, asli, 100, rgba(255, 255, 255, .9));
 }
-.nav-link-no-sub{
-  text-align: right;
-   @include font-fam-size( 1.4em, asli, 100, rgba(255, 255, 255, .9));
+
+.nav-link-no-sub {
+    text-align: right;
+    @include font-fam-size( 1.4em, asli, 100, rgba(255, 255, 255, .9));
 }
 
 .nav {
@@ -38,8 +51,21 @@
 
 .nav-sub-container {
     display: none;
-    a {}
 }
+
+// .nav-sub-img {
+
+//     .sub-holder-img {
+//         @include flex-display(flex, row,center, 100%);
+//         img {
+//           max-width: 40%;
+            
+//         }
+//         div {
+           
+//         }
+//     }
+// }
 
 .sidenav a:hover,
 .offcanvas a:focus {
@@ -92,6 +118,7 @@
     height: 20px;
     transition: all 0.3s;
 }
+
 .arrow-style-sub {
     width: 15px;
     height: 15px;

@@ -87,8 +87,8 @@
                                         </div>
                                         <div>جدول</div>
                                         <div class="nav-sub-container 1-1">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول وت پرس</a>
-                                            <a class="sub-link" href="#">جدول پرس خشك</a>
+                                            <a class="sub-link" href="catalog.php?cata=jadval">جدول وت پرس</a>
+                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول پرس خشك</a>
                                             <a class="sub-link" href="#">جدول دستي</a>
                                         </div> 
                                     </a>

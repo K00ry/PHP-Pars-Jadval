@@ -18,6 +18,7 @@ const cssProd = ExtractTextPlugin.extract({
 const cssConfig = isProd ? cssProd : cssDev;
 
 // const bootstrapConfig = isProd ? bootstrapEntryPoints.prod : bootstrapEntryPoints.dev;
+
 module.exports = {
 
 
@@ -29,6 +30,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, './dist'),
         filename: 'bundle.js',
+       
     },
 
 

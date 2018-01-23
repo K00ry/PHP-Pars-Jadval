@@ -2,7 +2,8 @@ var css = require('../scss/application.scss');
 var $ = require('../../node_modules/jquery/dist/jquery.js');
 var bootstrapCarousel = require('../../node_modules/bootstrap/dist/js/npm.js');
 var bootstrap = require('../../node_modules/bootstrap/dist/js/bootstrap.js');
-var TweenMax = require('../../node_modules/gsap/src/uncompressed/TweenMax.js');
+
+
 var ScrollMagic = require('../../node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js');
 var setTween = require('../../node_modules/scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js');
 // var data = require('./data.js');
@@ -15,6 +16,7 @@ $(document).ready(function() {
 
     var catalogGroup = $('.wrapper');
     var mozayik_class = $(".mozayik-page");
+    var jadval_class = $(".Jadval-page");
     var genre = $('#genre');
     var genre_btn = document.querySelector(".genre-btn a");;
 
@@ -23,46 +25,119 @@ $(document).ready(function() {
         genre.empty();
         var genre_identify = '<ul class="genres">';
         $.each(object, function(key, value) {
-            genre_identify += '<li class="genre-btn">';
-            genre_identify += '<a href="#">' + key + '</a>';
-            genre_identify += '</li>';
+            genre_identify += '<li class="' + key + '">';
+            $.each(value, function(key, value) {
+                // genre_identify += '<li class="genre-btn">';
+                genre_identify += '<a href="#">' + key + '</a>';
+                genre_identify += '</li>';
+            });
         });
         genre_identify += "</ul>"
         genre.html(genre_identify);
         $(".genres li:nth-child(2)").addClass('active');
     }
 
+    //////////////////////////////////////
+    function genreBiult2(object) {
+        genre.empty();
+        var genre_identify = '<ul class="genres">';
+        $.each(object, function(key, value) {
+            genre_identify += '<li class="' + key + '">';
+            // genre_identify += '<li class="genre-btn">';
+            genre_identify += '<a href="#">' + value.type + '</a>';
+            genre_identify += '</li>';
+        });
+        genre_identify += "</ul>"
+        genre.html(genre_identify);
+        $(".genres li:nth-child(1)").addClass('active');
+    }
+    /////////////////////////////////////////
+
     function galleryBuilt(object) {
 
-        var group_mozayik = " ";
+        var group_product = " ";
         $.each(object, function(key, value) {
-            group_mozayik += '<div class="itemha">';
-            group_mozayik += '<img src="images/mozayik/mobile/' + value.img + '.png" alt="' + value.type + '">';
-            group_mozayik += '<div class="item-detail"><span>' + value.size + '</span>';
-            group_mozayik += '<span class="item-name">' + value.type + '</span></div>';
-            group_mozayik += '</div>';
+            group_product += '<div class="itemha">';
+            group_product += '<img src="images/mozayik/mobile/' + value.img + '.png" alt="' + value.type + '">';
+            group_product += '<div class="item-detail"><span>' + value.size + '</span>';
+            group_product += '<span class="item-name">' + value.type + '</span></div>';
+            group_product += '</div>';
         })
 
-        mozayik_class.html(group_mozayik).fadeIn("slow");
+        mozayik_class.html(group_product).fadeIn("slow");
+    }
+
+    function galleryTableBuilt(object) {
+
+        var group_product = " ";
+        var group_table = " ";
+
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/jadval/mobile/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+
+        ////////////
+
+        group_table += '<table class="tg">';
+        group_table += '<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th class="tg-031e">(cm)ابعاد</th></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td class="tg-031e">3000</td>';
+            group_table += '<td class="tg-031e">' + value + '</td>';
+            group_table += '<td class="tg-031e">' + key + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+        // <tr>
+        //   <td class="tg-031e">3000</td>
+        //   <td class="tg-031e">47000</td>
+        //   <td class="tg-031e">50*30*12.5</td>
+        // </tr>
+        // <tr>
+        //   <td class="tg-031e">3000</td>
+        //   <td class="tg-031e">52800</td>
+        //   <td class="tg-031e">50*30*15</td>
+        // </tr>
+        // <tr>
+        //   <td class="tg-031e">3000</td>
+        //   <td class="tg-031e">60000</td>
+        //   <td class="tg-031e">50*30*12.5</td>
+        // </tr>
+        jadval_class.html(group_product).fadeIn("slow");
     }
 
     function genreSwitch(key) {
-        $('.genres').on('click', 'li a', function() {
+        $('.genres').on('click', 'li', function(e) {
+            e.preventDefault();
             mozayik_class.fadeOut("slow");
-            var rightObject = key[$(this).html()];
+            var rightObject = key[$(this).attr('class')][$(this).children().html()];
             setTimeout(function() { galleryBuilt(rightObject) }, 500);
-            $(this).parent().siblings().removeClass('active');
+            $(this).siblings().removeClass('active');
             $(this).addClass('active');
         });
     }
-
+    function genreSwitch2(key) {
+        $('.genres').on('click', 'li', function(e) {
+            e.preventDefault();
+            jadval_class.fadeOut("slow");
+            var rightObject = key[$(this).attr('class')];
+            setTimeout(function() { galleryTableBuilt(rightObject) }, 500);
+            $(this).siblings().removeClass('active');
+            $(this).addClass('active');
+        });
+    }
+///// apply function based on the uniqe product page \\\\\
 
     if (genre.hasClass('mozayik')) {
         genreBiult(data.mozayik);
-        galleryBuilt(data.mozayik["40x40"]);
+        galleryBuilt(data.mozayik.b["40x40"]);
         genreSwitch(data.mozayik);
     } else if (genre.hasClass('jadval')) {
-        galleryBuilt(data.jadval);
+        genreBiult2(data.jadval);
+        galleryTableBuilt(data.jadval.a);
+        genreSwitch2(data.jadval);
     }
 
 
@@ -169,7 +244,7 @@ $(document).ready(function() {
 
 
 
-
+ //////////////// side nav \\\\\\\\\
 
 
     var links = $('.sidenav ul');
@@ -209,6 +284,33 @@ $(document).ready(function() {
     });
 
 
+    ///////////////// sub nav function for home goodies \\\\\\\\\\
+    var sub_down = $('.head-intro-sub');
+    function dropSub() {
+        sub_down.css('height', "50px").addClass('sub-open');
+        // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+    }
+    function closeSub() {
+        sub_down.css('height', "0");
+        document.body.style.backgroundColor = "white";
+    }
+     $('.head-intro').click(function(e) {
+        e.stopPropagation();
+        if (sub_down.hasClass('sub-open')) {
+            sub_down.removeClass('sub-open');
+            // links.fadeOut();
+            closeSub();
+
+        } else {
+            // links.fadeIn();
+            dropSub();
+        }
+
+    });
+
+
+
+/////////// side nav sub links functions \\\\\\\\\\\\\\\\
 
 
     function openSubLink(selector) {
@@ -218,18 +320,16 @@ $(document).ready(function() {
             selector.addClass('expand');
         }
     }
-
     function openSubMenu(handler, div, svg) {
         handler.click(function(e) {
-
             e.preventDefault();
             e.stopPropagation();
             div.toggle('slow');
+            // div.toggleClass('nav-sub-img');
             openSubLink(svg);
         });
     }
 
- 
     openSubMenu($('.nav-link-1'), $('.1'), $('.arrow-left-icon-1'));
     /////////
     openSubMenu($('.nav-link-1-1'), $('.1-1'), $('.arrow-left-icon-1-1'));
