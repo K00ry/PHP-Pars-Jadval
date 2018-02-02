@@ -2,18 +2,25 @@
 $pageTitle = "abbas ghaderi";
 $productClass = null;
 $productTitle = null;
+$productMode = null;
 if(isset($_GET["cata"])){
 	if($_GET["cata"] == "jadval"){
 		$pageTitle = "جدول بتنی - پارس جدول"; 
 		$productGenre = "jadval";
 		$productClass = "jadval-page";
 		$productTitle = "جدول بتنی";
+    $productMode = "jadval-wet"; 
+    
   } else if ($_GET["cata"] == "mozayik") {
   	$pageTitle = "موزاییک - پارس جدول";
   	$productGenre = "mozayik";
   	$productClass = "mozayik-page";
   	$productTitle = "موزاییک";
   } 
+
+  // if($_GET["mode"] == "wet"){
+  //     $productMode = "jadval-wet"; 
+  //   }
   // elseif ($_GET["cata"] == "40x40") {
   // 	$pageTitle = "موزاییک - پارس جدول";
   // 	$productGenre = "mozayik";
@@ -29,7 +36,7 @@ include 'inc/header.php';
 
 </div>
 
-<div class="wrapper">
+<div class="wrapper <?php  echo $productMode  ?>">
 	<div class="group <?php  echo $productClass  ?>">
 		
 

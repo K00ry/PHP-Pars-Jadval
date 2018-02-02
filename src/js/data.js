@@ -16,7 +16,6 @@ const data = {
                     "info": " "
                 }
             }
-
         },
         "b": {
             "40x40": {
@@ -59,54 +58,81 @@ const data = {
             }
         },
         "c": {
-            "فانتزی": {
+            "پرس خشك": {
                 "koozeyi": {
                     "type": "کوزیی",
                     "img": "koozeyi",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۲۲ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
-                "saat sheni": {
-                    "type": "ساعت شنی",
-                    "img": "saatsheni",
-                    "size": "40x40",
-                    "info": " "
-                },
+                // "saat sheni": {
+                //     "type": "ساعت شنی",
+                //     "img": "saatsheni",
+                //     "size": "40x40",
+                //     "info": " "
+                // },
                 "kongere": {
                     "type": "کنگره",
                     "img": "congere",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۱۶ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
                 "pazeli": {
-                    "type": "پازلی",
+                    "type": "پازل",
                     "img": "puzzle",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۱۶ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
                 "kandooyi": {
                     "type": "کندویی",
                     "img": "kandooyi",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۱۸ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
                 "tabari": {
                     "type": "طبری",
                     "img": "tabbari",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۱۶ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
-                "lozi mari": {
-                    "type": "(لوزی(پوست مار",
-                    "img": "lozipoostmari",
-                    "size": "40x40",
-                    "info": " "
+                "ajori": {
+                    "type": "آجری",
+                    "img": "ajori",
+                    "info": "۴۹ عدد",
+                    "price-grey": "165000",
+                    "price-red": "195000",
+                    "price-forign": "235000",
+                    "shipping": "5000"
                 },
+                // "lozi mari": {
+                //     "type": "(لوزی(پوست مار",
+                //     "img": "lozipoostmari",
+                //     "size": "40x40",
+                //     "info": " "
+                // },
                 "i": {
                     "type": "(I)ای",
                     "img": "i",
-                    "size": "40x40",
-                    "info": " "
+                    "info": "۲۳ عدد",
+                    "price-grey": "125000",
+                    "price-red": "145000",
+                    "price-forign": "175000",
+                    "shipping": "5000"
                 },
                 "5zeli": {
                     "type": "پنج ضلعی",
@@ -128,34 +154,209 @@ const data = {
                 }
             }
         }
-
     },
     "jadval": {
         "a": {
             "type": "جدول وت پرس",
-            "img": "40",
+            "img": "jadval/mobile/40",
             "sizes": {
-                "50*30*10": "42300",
-                "50*30*12.5": "47000",
-                "50*30*15": "52800"
+                "a": {
+                    "type": "50*30*10",
+                    "price": "42300",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*30*12.5",
+                    "price": "47000",
+                    "shipping": "3000"
+                },
+
+
+                "c": {
+                    "type": "50*30*15",
+                    "price": "52800",
+                    "shipping": "3000"
+                }
             }
         },
         "b": {
             "type": "جدول پرس خشك",
-            "img": "50",
+            "img": "jadval/mobile/50",
             "sizes": {
-                "50*30*10": "38500",
-                "50*40*15": "62000",
-                "50*50*15": "65000"
+                "a": {
+                    "type": "50*30*10",
+                    "price": "38500",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*40*15",
+                    "price": "62000",
+                    "shipping": "3000"
+                },
+                "c": {
+                    "type": "50*50*15",
+                    "price": "65000",
+                    "shipping": "3000"
+                }
             }
         },
         "c": {
             "type": "جدول دستي",
-            "img": "d1",
+            "img": "jadval/mobile/d1",
             "sizes": {
-                "50*30*6": "42300",
-                "50*30*8": "47000",
-                "50*30*10": "52800"
+                "a": {
+                    "type": "50*30*6",
+                    "price": "42300",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*30*8",
+                    "price": "47000",
+                    "shipping": "3000"
+                },
+                "c": {
+                    "type": "50*30*10",
+                    "price": "52800",
+                    "shipping": "3000"
+                }
+            }
+        }
+    },
+    "dal": {
+        "a": {
+            "type": "ترافیک سبک",
+            "img": "dal/mobile/39",
+            "sizes": {
+                "a": {
+                    "type": "80*60*10",
+                    "price": "650000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100*60*10",
+                    "price": "770000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "120*60*10",
+                    "price": "800000",
+                    "shipping": "20000"
+                }
+            }
+        },
+        "b": {
+            "type": "ترافیک سنگین",
+            "img": "dal/mobile/44",
+            "sizes": {
+                "a": {
+                    "type": "80*60*15",
+                    "price": "770000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100*60*15",
+                    "price": "930000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "120*60*15",
+                    "price": "1000000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "150*60*15",
+                    "price": "1470000",
+                    "shipping": "50000"
+                },
+                "e": {
+                    "type": "150*60*20",
+                    "price": "1830000",
+                    "shipping": "50000"
+                },
+                "f": {
+                    "type": "200*60*20",
+                    "price": "2300000",
+                    "shipping": "50000"
+                }
+            }
+        }
+    },
+    "kaval": {
+        "a": {
+            "type": "گرد",
+            "img": "kaval/mobile/gerd",
+            "sizes": {
+                "a": {
+                    "type": "70",
+                    "price": "220000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "80",
+                    "price": "250000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "90",
+                    "price": "325000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "e": {
+                    "type": "110",
+                    "price": "450000",
+                    "shipping": "20000"
+                },
+                "f": {
+                    "type": "120",
+                    "price": "500000",
+                    "shipping": "20000"
+                },
+                "g": {
+                    "type": "130",
+                    "price": "660000",
+                    "shipping": "20000"
+                },
+                "h": {
+                    "type": "دوتکه 100",
+                    "price": "425000",
+                    "shipping": "20000"
+                }
+            }
+        },
+        "b": {
+            "type": "انباری",
+            "img": "kaval/mobile/gerd2",
+            "sizes": {
+                "a": {
+                    "type": "دوتکه 100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "110",
+                    "price": "450000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "120",
+                    "price": "500000",
+                    "shipping": "20000"
+                },
+                "e": {
+                    "type": "140",
+                    "price": "605000",
+                    "shipping": "20000"
+                }
             }
         }
     }

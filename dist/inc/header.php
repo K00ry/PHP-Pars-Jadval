@@ -86,10 +86,10 @@
                                             </svg>
                                         </div>
                                         <div>جدول</div>
-                                        <div class="nav-sub-container 1-1">
-                                            <a class="sub-link" href="catalog.php?cata=jadval">جدول وت پرس</a>
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">جدول پرس خشك</a>
-                                            <a class="sub-link" href="#">جدول دستي</a>
+                                          <div class="nav-sub-container 1-1">
+                                            <a class="sub-link" href="catalog.php?cata=jadval&mode=wet">جدول وت پرس</a>
+                                            <a class="sub-link" href="catalog.php?cata=jadval&mode=kush">جدول پرس خشك</a>
+                                            <a class="sub-link" href="catalog.php?cata=jadval&mode=hand">جدول دستي</a>
                                         </div> 
                                     </a>
                                 </li>
@@ -133,8 +133,8 @@
                                         </div>
                                         <div>دال بتني</div>
                                         <div class="nav-sub-container 1-4">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">ترافيك سبك</a>
-                                            <a class="sub-link" href="#">ترافيك سنگين</a>
+                                            <a class="sub-link" href="catalog.php?cata=dal&mode=light">ترافيك سبك</a>
+                                            <a class="sub-link" href="catalog.php?cata=dal&mode=heavy">ترافيك سنگين</a>
                                         </div> 
                                     </a>
                                 </li>
@@ -161,9 +161,9 @@
                                         </div>
                                         <div>كول</div>
                                         <div class="nav-sub-container 1-6">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">گرد</a>
-                                            <a class="sub-link" href="#">انباري</a>   
-                                            <a class="sub-link" href="#">كانالي</a>               
+                                            <a class="sub-link" href="catalog.php?cata=kaval&mode=gerd">گرد</a>
+                                            <a class="sub-link" href="catalog.php?cata=kaval&mode=anbary">انباري</a>   
+                                            <a class="sub-link" href="catalog.php?cata=kaval&mode=kanaly">كانالي</a>               
                                         </div> 
                                     </a>
                                 </li>

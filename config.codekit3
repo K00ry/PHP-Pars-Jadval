@@ -7,7 +7,7 @@
 		"uuidString": "ED783D06-A4C0-461C-8C5D-9C0378D37007"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.bootstraprc": {
 		"cB": 0,
@@ -131,6 +131,26 @@
 		"oAP": "\/dist\/images\/dal\/44.tif",
 		"oF": 0
 		},
+	"\/dist\/images\/dal\/mobile\/39.jpg": {
+		"ft": 16384,
+		"iS": 134635,
+		"oA": 0,
+		"oAP": "\/dist\/images\/dal\/mobile\/39.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/dal\/mobile\/44.jpg": {
+		"ft": 16384,
+		"iS": 123313,
+		"oA": 0,
+		"oAP": "\/dist\/images\/dal\/mobile\/44.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/images\/jadval\/mobile\/40.jpg": {
 		"ft": 16384,
 		"iS": 121080,
@@ -212,6 +232,36 @@
 		"oA": 2,
 		"oAP": "\/dist\/images\/kaval\/45.tif",
 		"oF": 0
+		},
+	"\/dist\/images\/kaval\/mobile\/2gerd.jpg": {
+		"ft": 16384,
+		"iS": 135109,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kaval\/mobile\/2gerd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/kaval\/mobile\/gerd.jpg": {
+		"ft": 16384,
+		"iS": 126424,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kaval\/mobile\/gerd.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/images\/kaval\/mobile\/gerd2.jpg": {
+		"ft": 16384,
+		"iS": 116233,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kaval\/mobile\/gerd2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/images\/mozayik\/20x203x.jpg": {
 		"ft": 16384,
@@ -1235,6 +1285,26 @@
 		"oA": 2,
 		"oAP": "\/src\/images\/dal\/44.tif",
 		"oF": 0
+		},
+	"\/src\/images\/dal\/mobile\/39.jpg": {
+		"ft": 16384,
+		"iS": 134635,
+		"oA": 0,
+		"oAP": "\/src\/images\/dal\/mobile\/39.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/dal\/mobile\/44.jpg": {
+		"ft": 16384,
+		"iS": 123313,
+		"oA": 0,
+		"oAP": "\/src\/images\/dal\/mobile\/44.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/src\/images\/jadval\/mobile\/40.jpg": {
 		"ft": 16384,
@@ -4182,6 +4252,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

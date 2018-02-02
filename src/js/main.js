@@ -2,11 +2,8 @@ var css = require('../scss/application.scss');
 var $ = require('../../node_modules/jquery/dist/jquery.js');
 var bootstrapCarousel = require('../../node_modules/bootstrap/dist/js/npm.js');
 var bootstrap = require('../../node_modules/bootstrap/dist/js/bootstrap.js');
-
-
 var ScrollMagic = require('../../node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js');
 var setTween = require('../../node_modules/scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js');
-// var data = require('./data.js');
 var data = require('./data.js');
 
 $(document).ready(function() {
@@ -15,8 +12,11 @@ $(document).ready(function() {
     /////// catalog  Functions \\\\\\\\\\\\\
 
     var catalogGroup = $('.wrapper');
-    var mozayik_class = $(".mozayik-page");
-    var jadval_class = $(".Jadval-page");
+    var group = $(".group");
+    // var mozayik_class = $(".mozayik-page");
+    // var jadval_class = $(".Jadval-page");
+    // var dal_class = $(".dal-page");
+
     var genre = $('#genre');
     var genre_btn = document.querySelector(".genre-btn a");;
 
@@ -27,7 +27,6 @@ $(document).ready(function() {
         $.each(object, function(key, value) {
             genre_identify += '<li class="' + key + '">';
             $.each(value, function(key, value) {
-                // genre_identify += '<li class="genre-btn">';
                 genre_identify += '<a href="#">' + key + '</a>';
                 genre_identify += '</li>';
             });
@@ -49,7 +48,7 @@ $(document).ready(function() {
         });
         genre_identify += "</ul>"
         genre.html(genre_identify);
-        $(".genres li:nth-child(1)").addClass('active');
+        // $(".genres li:nth-child(1)").addClass('active');
     }
     /////////////////////////////////////////
 
@@ -63,9 +62,9 @@ $(document).ready(function() {
             group_product += '<span class="item-name">' + value.type + '</span></div>';
             group_product += '</div>';
         })
-
         mozayik_class.html(group_product).fadeIn("slow");
     }
+    /////////////////////////////////////////
 
     function galleryTableBuilt(object) {
 
@@ -74,40 +73,24 @@ $(document).ready(function() {
 
         group_product += '<div class="table_wrapper">';
         group_product += '<div class="aks_table">';
-        group_product += '<img class="aks_preview" src="images/jadval/mobile/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
         group_product += '</div>';
-
         ////////////
-
         group_table += '<table class="tg">';
         group_table += '<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th class="tg-031e">(cm)ابعاد</th></tr>';
         $.each(object.sizes, function(key, value) {
             group_table += '<tr>';
-            group_table += '<td class="tg-031e">3000</td>';
-            group_table += '<td class="tg-031e">' + value + '</td>';
-            group_table += '<td class="tg-031e">' + key + '</td>';
+            group_table += '<td class="tg-031e">' + value.shipping + '</td>';
+            group_table += '<td class="tg-031e">' + value.price + '</td>';
+            group_table += '<td class="tg-031e">' + value.type + '</td>';
             group_table += '</tr>';
         })
         group_table += '</table></div>';
         group_product += group_table;
-        // <tr>
-        //   <td class="tg-031e">3000</td>
-        //   <td class="tg-031e">47000</td>
-        //   <td class="tg-031e">50*30*12.5</td>
-        // </tr>
-        // <tr>
-        //   <td class="tg-031e">3000</td>
-        //   <td class="tg-031e">52800</td>
-        //   <td class="tg-031e">50*30*15</td>
-        // </tr>
-        // <tr>
-        //   <td class="tg-031e">3000</td>
-        //   <td class="tg-031e">60000</td>
-        //   <td class="tg-031e">50*30*12.5</td>
-        // </tr>
-        jadval_class.html(group_product).fadeIn("slow");
-    }
 
+        group.html(group_product).fadeIn("slow");
+    }
+    /////////////////////////////////////////
     function genreSwitch(key) {
         $('.genres').on('click', 'li', function(e) {
             e.preventDefault();
@@ -118,26 +101,83 @@ $(document).ready(function() {
             $(this).addClass('active');
         });
     }
+    /////////////////////////////////////////
     function genreSwitch2(key) {
         $('.genres').on('click', 'li', function(e) {
             e.preventDefault();
-            jadval_class.fadeOut("slow");
+            genre.removeAttr('class');
+            group.fadeOut("slow");
             var rightObject = key[$(this).attr('class')];
             setTimeout(function() { galleryTableBuilt(rightObject) }, 500);
             $(this).siblings().removeClass('active');
             $(this).addClass('active');
         });
     }
-///// apply function based on the uniqe product page \\\\\
+    /////////////////////////////////////////
+    function activeType(type) {
+
+        var a = $(".genres li:nth-child(1)");
+        var b = $(".genres li:nth-child(2)");
+        var c = $(".genres li:nth-child(3)");
+        
+        $('genres li').removeClass('active');
+        if (type === "a") {
+            a.addClass('active');
+        } else if (type === "b") {
+            b.addClass('active');
+        } else {
+            c.addClass('active');
+        }
+    }
+
+    ////////////////////////// apply function based on the uniqe product page \\\\\\\\\\\
 
     if (genre.hasClass('mozayik')) {
         genreBiult(data.mozayik);
         galleryBuilt(data.mozayik.b["40x40"]);
         genreSwitch(data.mozayik);
+        //////for catalog JADVAL
     } else if (genre.hasClass('jadval')) {
         genreBiult2(data.jadval);
         galleryTableBuilt(data.jadval.a);
+        if (genre.hasClass('wet')) {
+            activeType("a");
+            galleryTableBuilt(data.jadval.a);
+        } else if (genre.hasClass('kush')) {
+            activeType("b");
+            galleryTableBuilt(data.jadval.b);
+        } else if (genre.hasClass('hand')) {
+            activeType("c");
+            galleryTableBuilt(data.jadval.c);
+        }
         genreSwitch2(data.jadval);
+        //////for catalog DAL
+    } else if (genre.hasClass('dal')) {
+        genreBiult2(data.dal);
+        galleryTableBuilt(data.dal.a);
+        if (genre.hasClass('light')) {
+            activeType("a");
+            galleryTableBuilt(data.dal.a);
+        } else if (genre.hasClass('heavy')) {
+            activeType("b");
+            galleryTableBuilt(data.dal.b);
+        } 
+        genreSwitch2(data.dal);
+        //////for catalog KAVAL
+    } else if (genre.hasClass('kaval')) {
+        genreBiult2(data.kaval);
+        galleryTableBuilt(data.kaval.a);
+        if (genre.hasClass('gerd')) {
+            activeType("a");
+            galleryTableBuilt(data.kaval.a);
+        } else if (genre.hasClass('anbary')) {
+            activeType("b");
+            galleryTableBuilt(data.kaval.b);
+        } else if (genre.hasClass('kanaly')) {
+            activeType("b");
+            galleryTableBuilt(data.kaval.b);
+        } 
+        genreSwitch2(data.kaval);
     }
 
 
@@ -244,7 +284,7 @@ $(document).ready(function() {
 
 
 
- //////////////// side nav \\\\\\\\\
+    //////////////// side nav \\\\\\\\\
 
 
     var links = $('.sidenav ul');
@@ -286,15 +326,17 @@ $(document).ready(function() {
 
     ///////////////// sub nav function for home goodies \\\\\\\\\\
     var sub_down = $('.head-intro-sub');
+
     function dropSub() {
         sub_down.css('height', "50px").addClass('sub-open');
         // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
     }
+
     function closeSub() {
         sub_down.css('height', "0");
         document.body.style.backgroundColor = "white";
     }
-     $('.head-intro').click(function(e) {
+    $('.head-intro').click(function(e) {
         e.stopPropagation();
         if (sub_down.hasClass('sub-open')) {
             sub_down.removeClass('sub-open');
@@ -310,7 +352,7 @@ $(document).ready(function() {
 
 
 
-/////////// side nav sub links functions \\\\\\\\\\\\\\\\
+    /////////// side nav sub links functions \\\\\\\\\\\\\\\\
 
 
     function openSubLink(selector) {
@@ -320,6 +362,7 @@ $(document).ready(function() {
             selector.addClass('expand');
         }
     }
+
     function openSubMenu(handler, div, svg) {
         handler.click(function(e) {
             e.preventDefault();
