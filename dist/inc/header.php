@@ -102,8 +102,8 @@
                                         </div>
                                         <div>بلوك</div>
                                         <div class="nav-sub-container 1-2">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">سبك پوكه</a>
-                                            <a class="sub-link" href="#">بلوك سيماني</a>
+                                            <a class="sub-link" href="catalog.php?cata=blook&mode=pooke">سبك پوكه</a>
+                                            <a class="sub-link" href="catalog.php?cata=blook&mode=simani">بلوك سيماني</a>
                                             
                                         </div> 
                                     </a>
@@ -117,10 +117,10 @@
                                         </div>
                                         <div>كفپوش</div>
                                         <div class="nav-sub-container 1-3">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">پرس خشك</a>
-                                            <a class="sub-link" href="#">وت پرس</a>   
-                                            <a class="sub-link" href="#">ويبره</a> 
-                                            <a class="sub-link" href="#">واش بتن</a>               
+                                            <a class="sub-link" href="catalog.php?cata=kafpoosh&mode=khoshk">پرس خشك</a>
+                                            <a class="sub-link" href="catalog.php?cata=kafpoosh&mode=press">وت پرس</a>   
+                                            <a class="sub-link" href="catalog.php?cata=kafpoosh&mode=vibrate">ويبره</a> 
+                                            <a class="sub-link" href="catalog.php?cata=kafpoosh&mode=wash">واش بتن</a>               
                                         </div> 
                                     </a>
                                 </li>
@@ -147,8 +147,8 @@
                                         </div>
                                         <div>موزاییک</div>
                                         <div class="nav-sub-container 1-5">
-                                            <a class="sub-link" href="catalog.php?cata=mozayik">ساده</a>
-                                            <a class="sub-link" href="#">حياطي</a>
+                                            <a class="sub-link" href="catalog.php?cata=mozayik&mode=simple">ساده</a>
+                                            <a class="sub-link" href="catalog.php?cata=mozayik&mode=hayati">حياطي</a>
                                         </div> 
                                     </a>
                                 </li>

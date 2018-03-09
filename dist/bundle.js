@@ -10300,6 +10300,12 @@ return jQuery;
 /* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
+module.exports = __webpack_require__.p + "img/jadval-kh.png";
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
 /*** IMPORTS FROM imports-loader ***/
 var define = false;
 
@@ -13086,13 +13092,1084 @@ var define = false;
 
 
 /***/ }),
-/* 2 */
-/***/ (function(module, exports, __webpack_require__) {
+/* 3 */
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "img/jadval-kh.png";
+/*** IMPORTS FROM imports-loader ***/
+var define = false;
+
+const data = {
+
+    "jadval": {
+        "a": {
+            "type": "وت پرس",
+            "img": "jadval/mobile/40",
+            "sizes": {
+                "a": {
+                    "type": "50*30*10",
+                    "price": "42300",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*30*12.5",
+                    "price": "47000",
+                    "shipping": "3000"
+                },
+
+
+                "c": {
+                    "type": "50*30*15",
+                    "price": "52800",
+                    "shipping": "3000"
+                }
+            }
+        },
+        "b": {
+            "type": "پرس خشك",
+            "img": "jadval/mobile/50",
+            "sizes": {
+                "a": {
+                    "type": "50*30*10",
+                    "price": "38500",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*40*15",
+                    "price": "62000",
+                    "shipping": "3000"
+                },
+                "c": {
+                    "type": "50*50*15",
+                    "price": "65000",
+                    "shipping": "3000"
+                }
+            }
+        },
+        "c": {
+            "type": "دستي",
+            "img": "jadval/mobile/d1",
+            "sizes": {
+                "a": {
+                    "type": "50*30*6",
+                    "price": "42300",
+                    "shipping": "3000"
+                },
+                "b": {
+                    "type": "50*30*8",
+                    "price": "47000",
+                    "shipping": "3000"
+                },
+                "c": {
+                    "type": "50*30*10",
+                    "price": "52800",
+                    "shipping": "3000"
+                }
+            }
+        }
+    },
+    "blook": {
+        "a": {
+            "type": "سبك پوكه",
+            "img": "blook/mobile/pooke",
+            "sizes": {
+                "a": {
+                    "image": "#",
+                    "type": "بلوک ته پر پوکه",
+                    "size": "40*20*20",
+                    "price": "12700",
+                    "shipping": "500"
+                },
+                "b": {
+                    "image": "#",
+                    "type": "بلوک ۵۰ پوکه",
+                    "size": "50*20*15",
+                    "price": "13600",
+                    "shipping": "500"
+                },
+                "c": {
+                    "image": "#",
+                    "type": "بلوک ۱۵ پوکه",
+                    "size": "40*20*15",
+                    "price": "11200",
+                    "shipping": "500"
+                },
+                "d": {
+                    "image": "#",
+                    "type": "تیغه ۱۰ پوکه فروه",
+                    "size": "40*20*10",
+                    "price": "9350",
+                    "shipping": "500"
+                }
+            }
+        },
+        "b": {
+            "type": "بلوك سيماني",
+            "img": "blook/mobile/simani",
+            "sizes": {
+                "a": {
+                    "image": "#",
+                    "type": "دیواری ته باز سیمانی",
+                    "size": "40*20*20",
+                    "price": "9800-10800",
+                    "shipping": "500"
+                },
+                "b": {
+                    "image": "#",
+                    "type": "دیواری ته پر سیمانی",
+                    "size": "40*20*20",
+                    "price": "10800",
+                    "shipping": "500"
+                },
+                "c": {
+                    "image": "#",
+                    "type": "بلوک ۵۰ سیمانی",
+                    "size": "50*20*15",
+                    "price": "12000",
+                    "shipping": "500"
+                },
+                "d": {
+                    "image": "#",
+                    "type": "بلوک ۱۵ سیمانی",
+                    "size": "40*20*15",
+                    "price": "9400",
+                    "shipping": "500"
+                },
+                "e": {
+                    "image": "#",
+                    "type": "تیغه ۱۰ سیمانی",
+                    "size": "40*20*10",
+                    "price": "7600",
+                    "shipping": "500"
+                },
+                "f": {
+                    "image": "#",
+                    "type": "بلوک سقفی سیمانی",
+                    "size": "40*20*25",
+                    "price": "10800",
+                    "shipping": "500"
+                },
+                "g": {
+                    "image": "#",
+                    "type": "کرومیت سقفی سیمانی",
+                    "size": "68.5*20*20",
+                    "price": "15000",
+                    "shipping": "500"
+                }
+            }
+        }
+    },
+    "kafpoosh": {
+        "a": {
+            "type": "پرس خشك",
+            "img": "kafpoosh/mobile/39",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "۴۰*۴۰ پرسی",
+                    "inSquarefeet": "۶/۲۵ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                },
+                "b": {
+                    "img": "kafpoosh/mobile/20x20",
+                    "type": "۲۰*۲۰ پرسی",
+                    "inSquarefeet": "۲۵ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                },
+                "c": {
+                    "image": "#",
+                    "type": "۱۰*۲۰ پرسی",
+                    "inSquarefeet": "۴۹ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                },
+                "d": {
+                    "image": "#",
+                    "type": "۵۰*۵۰ پرسی",
+                    "inSquarefeet": "۴ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                },
+                "e": {
+                    "image": "#",
+                    "type": "۳۰*۳۰ پرسی",
+                    "inSquarefeet": "۱۱ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                },
+                "f": {
+                    "image": "#",
+                    "type": "۴۰*۴۰ نابینایان پرسی",
+                    "inSquarefeet": "۶.۲۵ عدد",
+                    "toosi": "205000",
+                    "red": "240000",
+                    "yellowmix": "280000",
+                    "shipping": "5000"
+                }
+            }
+        },
+        // "a": {
+        //     "20x20": {
+        //         "sade": {
+        //             "type": "ساده",
+        //             "img": "20x20",
+        //             "size": "20x20",
+        //             "info": " "
+
+        //         },
+        //         "ajori": {
+        //             "type": "آجری",
+        //             "img": "ajori",
+        //             "size": "10x20",
+        //             "info": " "
+        //         }
+        //     }
+        // },
+        "b": {
+            "type": "وت پرس",
+            "img": "kafpoosh/mobile",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "۵۰*۵۰*۸",
+                    "inSquarefeet": "۴ عدد",
+                    "toosi": "250000",
+                    "red": "300000",
+                    "yellowmix": "350000",
+                    "shipping": "5000"
+                }
+            }
+        },
+        // "b": {
+        //     "40x40": {
+        //         "sade": {
+        //             "type": "ساده",
+        //             "img": "40x40",
+        //             "size": "40x40",
+        //             "info": " "
+        //         },
+        //         "setareyi": {
+        //             "type": "ستاریی",
+        //             "img": "setareyi",
+        //             "size": "40x40",
+        //             "info": " "
+        //         },
+        //         "shokolati": {
+        //             "type": "شکلاتی",
+        //             "img": "shokolati",
+        //             "size": "40x40",
+        //             "info": " "
+        //         },
+        //         "yasaman": {
+        //             "type": "یاسمن",
+        //             "img": "yasaman",
+        //             "size": "40x40",
+        //             "info": " "
+        //         },
+        //         "sekeyi": {
+        //             "type": "سکه ای",
+        //             "img": "sekeyi",
+        //             "size": "40x40",
+        //             "info": " "
+        //         },
+        //         "sangi": {
+        //             "type": "سنگی",
+        //             "img": "sangi",
+        //             "size": "40x40",
+        //             "info": " "
+        //         }
+        //     }
+        // },
+        "c": {
+            "type": "ويبره",
+            "img": "kafpoosh/mobile/39",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "خشک چین I",
+                    "inSquarefeet": "۲۳ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "b": {
+                    "img": "kafpoosh/mobile/20x20",
+                    "type": "خشک چین ۶ گوش",
+                    "inSquarefeet": "۱۸ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "c": {
+                    "image": "#",
+                    "type": "خشک چین پازل",
+                    "inSquarefeet": "۱۶ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "d": {
+                    "image": "#",
+                    "type": "خشک چین طبری",
+                    "inSquarefeet": "۲۸ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "e": {
+                    "image": "#",
+                    "type": "خشک چین کنگره",
+                    "inSquarefeet": "۱۶ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "f": {
+                    "image": "#",
+                    "type": "خشک چین کندویی",
+                    "inSquarefeet": "۱۸ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "g": {
+                    "image": "#",
+                    "type": "خشک چین کوزه ای و شنی",
+                    "inSquarefeet": "۲۲ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "h": {
+                    "image": "#",
+                    "type": "خشک چین اجری",
+                    "inSquarefeet": "۴۹ عدد",
+                    "toosi": "165000",
+                    "red": "195000",
+                    "yellowmix": "235000",
+                    "shipping": "5000"
+                },
+                "i": {
+                    "image": "#",
+                    "type": "بادبر",
+                    "inSquarefeet": "۲۲ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "j": {
+                    "image": "#",
+                    "type": "۲۰*۲۰ ساده پوست ماری",
+                    "inSquarefeet": "۲۵ عدد",
+                    "toosi": "145000",
+                    "red": "165000",
+                    "yellowmix": "195000",
+                    "shipping": "5000"
+                },
+                "k": {
+                    "image": "#",
+                    "type": "۴۰*۴۰ ساده پوست ماری",
+                    "inSquarefeet": "۶/۲۵ عدد",
+                    "toosi": "145000",
+                    "red": "165000",
+                    "yellowmix": "195000",
+                    "shipping": "5000"
+                },
+                "l": {
+                    "image": "#",
+                    "type": "۵ ضلعی ساده پوست ماری",
+                    "inSquarefeet": "۲۰ عدد",
+                    "toosi": "145000",
+                    "red": "165000",
+                    "yellowmix": "195000",
+                    "shipping": "5000"
+                },
+                "m": {
+                    "image": "#",
+                    "type": "حیاطی ۴۰*۴۰ ستاره",
+                    "inSquarefeet": "۶/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "n": {
+                    "image": "#",
+                    "type": "حیاطی ۴۰*۴۰ یاسمن",
+                    "inSquarefeet": "۶/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "o": {
+                    "image": "#",
+                    "type": "حیاطی ۳۰*۳۰ سکه ای",
+                    "inSquarefeet": "۱۱ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                },
+                "p": {
+                    "image": "#",
+                    "type": "حیاطی ۳۳*۳۳ قلوه سنگی",
+                    "inSquarefeet": "۹ عدد",
+                    "toosi": "125000",
+                    "red": "145000",
+                    "yellowmix": "175000",
+                    "shipping": "5000"
+                }
+            }
+        },
+        "d": {
+            "type": "واش بتن",
+            "img": "kafpoosh/mobile",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "30x60",
+                    "inSquarefeet": "۴ عدد",
+                    "toosi": "250000",
+                    "red": "300000",
+                    "yellowmix": "350000",
+                    "shipping": "5000"
+                },
+                "b": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "40x40",
+                    "inSquarefeet": "۴ عدد",
+                    "toosi": "250000",
+                    "red": "300000",
+                    "yellowmix": "350000",
+                    "shipping": "5000"
+                }
+            }
+        }
+        // "c": {
+        //     "پرس خشك": {
+        //         "koozeyi": {
+        //             "type": "کوزیی",
+        //             "img": "koozeyi",
+        //             "info": "۲۲ عدد",
+        //             "price-grey": "125000",
+        //             "price-red": "145000",
+        //             "price-forign": "175000",
+        //             "shipping": "5000"
+        //         },
+        // "saat sheni": {
+        //     "type": "ساعت شنی",
+        //     "img": "saatsheni",
+        //     "size": "40x40",
+        //     "info": " "
+        // },
+        // "kongere": {
+        //     "type": "کنگره",
+        //     "img": "congere",
+        //     "info": "۱۶ عدد",
+        //     "price-grey": "125000",
+        //     "price-red": "145000",
+        //     "price-forign": "175000",
+        //     "shipping": "5000"
+        // },
+        // "pazeli": {
+        //     "type": "پازل",
+        //     "img": "puzzle",
+        //     "info": "۱۶ عدد",
+        //     "price-grey": "125000",
+        //     "price-red": "145000",
+        //     "price-forign": "175000",
+        //     "shipping": "5000"
+        // },
+        // "kandooyi": {
+        //     "type": "کندویی",
+        //     "img": "kandooyi",
+        //     "info": "۱۸ عدد",
+        //     "price-grey": "125000",
+        //     "price-red": "145000",
+        //     "price-forign": "175000",
+        //     "shipping": "5000"
+        // },
+        // "tabari": {
+        //     "type": "طبری",
+        //     "img": "tabbari",
+        //     "info": "۱۶ عدد",
+        //     "price-grey": "125000",
+        //     "price-red": "145000",
+        //     "price-forign": "175000",
+        //     "shipping": "5000"
+        // },
+        // "ajori": {
+        //     "type": "آجری",
+        //     "img": "ajori",
+        //     "info": "۴۹ عدد",
+        //     "price-grey": "165000",
+        //     "price-red": "195000",
+        //     "price-forign": "235000",
+        //     "shipping": "5000"
+        // },
+        // "lozi mari": {
+        //     "type": "(لوزی(پوست مار",
+        //     "img": "lozipoostmari",
+        //     "size": "40x40",
+        //     "info": " "
+        // },
+        // "i": {
+        //     "type": "(I)ای",
+        //     "img": "i",
+        //     "info": "۲۳ عدد",
+        //     "price-grey": "125000",
+        //     "price-red": "145000",
+        //     "price-forign": "175000",
+        //     "shipping": "5000"
+        // },
+        // "5zeli": {
+        //     "type": "پنج ضلعی",
+        //     "img": "5zeli",
+        //     "size": "40x40",
+        //     "info": " "
+        // },
+        // "lozi sade": {
+        //     "type": "لوزی ساده",
+        //     "img": "lozisade",
+        //     "size": "40x40",
+        //     "info": " "
+        // },
+        // "puzele sombe": {
+        //     "type": "پازلی سمبه",
+        //     "img": "puzzelesombe",
+        //     "size": "40x40",
+        //     "info": " "
+        // }
+
+    },
+    "dal": {
+        "a": {
+            "type": "ترافیک سبک",
+            "img": "dal/mobile/39",
+            "sizes": {
+                "a": {
+                    "type": "80*60*10",
+                    "price": "650000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100*60*10",
+                    "price": "770000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "120*60*10",
+                    "price": "800000",
+                    "shipping": "20000"
+                }
+            }
+        },
+        "b": {
+            "type": "ترافیک سنگین",
+            "img": "dal/mobile/44",
+            "sizes": {
+                "a": {
+                    "type": "80*60*15",
+                    "price": "770000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100*60*15",
+                    "price": "930000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "120*60*15",
+                    "price": "1000000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "150*60*15",
+                    "price": "1470000",
+                    "shipping": "50000"
+                },
+                "e": {
+                    "type": "150*60*20",
+                    "price": "1830000",
+                    "shipping": "50000"
+                },
+                "f": {
+                    "type": "200*60*20",
+                    "price": "2300000",
+                    "shipping": "50000"
+                }
+            }
+        }
+    },
+    "mozayik": {
+        "a": {
+            "type": "ساده",
+            "img": "kafpoosh/mobile",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک ساده ایرانی ۳۰*۳۰ درجه ۱، درجه ۲",
+                    "inSquarefeet": "۱۱ عدد",
+                    "toosi": "90000/70000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                },
+                "b": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک ساده ایرانی ۴۰*۴۰",
+                    "inSquarefeet": "۶​​/۲۵ عدد",
+                    "toosi": "100000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                },
+                "c": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک گرانیتی ساده ۴۰*۴۰",
+                    "inSquarefeet": "۶​​/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                },
+                "d": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک مرمری ساده ۴۰*۴۰",
+                    "inSquarefeet": "۶​​/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                }
+            }
+        },
+        "b": {
+            "type": "حياطي",
+            "img": "kafpoosh/mobile",
+            "sizes": {
+                "a": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک گرانیتی حیاطی ۴۰*۴۰",
+                    "inSquarefeet": "۶​​/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                },
+                "b": {
+                    "img": "kafpoosh/mobile/40x40",
+                    "type": "موزائیک مرمری حیاطی ۴۰*۴۰",
+                    "inSquarefeet": "۶​​/۲۵ عدد",
+                    "toosi": "125000",
+                    "red": "-",
+                    "yellowmix": "-",
+                    "shipping": "5000"
+                }
+            }
+        },
+
+    },
+    "kaval": {
+        "a": {
+            "type": "گرد",
+            "img": "kaval/mobile/gerd",
+            "sizes": {
+                "a": {
+                    "type": "70",
+                    "price": "220000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "80",
+                    "price": "250000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "90",
+                    "price": "325000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "e": {
+                    "type": "110",
+                    "price": "450000",
+                    "shipping": "20000"
+                },
+                "f": {
+                    "type": "120",
+                    "price": "500000",
+                    "shipping": "20000"
+                },
+                "g": {
+                    "type": "130",
+                    "price": "660000",
+                    "shipping": "20000"
+                },
+                "h": {
+                    "type": "دوتکه 100",
+                    "price": "425000",
+                    "shipping": "20000"
+                }
+            }
+        },
+        "b": {
+            "type": "انباری",
+            "img": "kaval/mobile/gerd2",
+            "sizes": {
+                "a": {
+                    "type": "دوتکه 100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "b": {
+                    "type": "100",
+                    "price": "425000",
+                    "shipping": "20000"
+                },
+                "c": {
+                    "type": "110",
+                    "price": "450000",
+                    "shipping": "20000"
+                },
+                "d": {
+                    "type": "120",
+                    "price": "500000",
+                    "shipping": "20000"
+                },
+                "e": {
+                    "type": "140",
+                    "price": "605000",
+                    "shipping": "20000"
+                }
+            }
+        }
+    },
+    "mobloman": {
+
+    }
+};
+module.exports = data;
+
 
 /***/ }),
-/* 3 */
+/* 4 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (immutable) */ __webpack_exports__["a"] = front;
+/*** IMPORTS FROM imports-loader ***/
+var define = false;
+
+    var css = __webpack_require__(35);
+    var $ = __webpack_require__(0);
+    var bootstrapCarousel = __webpack_require__(16);
+    var bootstrap = __webpack_require__(15);
+    var ScrollMagic = __webpack_require__(2);
+    var setTween = __webpack_require__(31);
+
+    function front() {
+       
+
+
+        //////////////////////////////////////////////////////////////////////////////////////
+
+        // init controller
+        var controller = new ScrollMagic.Controller({ globalSceneOptions: { triggerHook: "onEnter", duration: "200%" } });
+
+        // build scenes
+        new ScrollMagic.Scene({ triggerElement: "#parallax1" })
+            .setTween("#parallax1 > div", { y: "80%", ease: Linear.easeNone })
+
+            .addTo(controller);
+
+        /** ===========================================
+            Hide / show the master navigation menu
+        ============================================ */
+
+        // console.log('Window Height is: ' + $(window).height());
+        // console.log('Document Height is: ' + $(document).height());
+
+        var previousScroll = 0;
+
+        $(window).scroll(function() {
+
+            var currentScroll = $(this).scrollTop();
+
+            /*
+              If the current scroll position is greater than 0 (the top) AND the current scroll position is less than the document height minus the window height (the bottom) run the navigation if/else statement.
+            */
+            if (currentScroll > 0 && currentScroll < $(document).height() - $(window).height()) {
+                /*
+                  If the current scroll is greater than the previous scroll (i.e we're scrolling down the page), hide the nav.
+                */
+                if (currentScroll > previousScroll) {
+                    window.setTimeout(hideNav, 300);
+                    /*
+                      Else we are scrolling up (i.e the previous scroll is greater than the current scroll), so show the nav.
+                    */
+                } else {
+                    window.setTimeout(showNav, 300);
+                }
+                /* 
+                  Set the previous scroll value equal to the current scroll.
+                */
+                previousScroll = currentScroll;
+            }
+
+        });
+
+        function hideNav() {
+            $("[data-nav-status='toggle']").removeClass("is-visible").addClass("is-hidden");
+        }
+
+        function showNav() {
+            $("[data-nav-status='toggle']").removeClass("is-hidden").addClass("is-visible");
+        }
+
+
+
+
+
+        ///////   back to top function\\\\\\\\\\\\\\
+
+        var btn_top = $('#back-to-top');
+
+        if (btn_top.length) {
+            var scrollTrigger = 100, // px
+                backToTop = function() {
+                    var scrollTop = $(window).scrollTop();
+                    if (scrollTop > scrollTrigger) {
+                        btn_top.addClass('show');
+                    } else {
+                        btn_top.removeClass('show');
+                    }
+                };
+            backToTop();
+            $(window).on('scroll', function() {
+                backToTop();
+            });
+            btn_top.on('click', function(e) {
+                e.preventDefault();
+                $('html,body').animate({
+                    scrollTop: 0
+                }, 700);
+            });
+        }
+
+
+
+
+
+
+
+
+        //////////////// side nav \\\\\\\\\
+
+
+        var links = $('.sidenav ul');
+        var slide_nav = $('#mySidenav');
+
+        function openNav() {
+
+            slide_nav.css('width', "200px").addClass('nav-open');
+            // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+        }
+
+        function closeNav() {
+            slide_nav.css('width', "0");
+            document.body.style.backgroundColor = "white";
+        }
+
+        $('#btn').click(function(e) {
+            e.stopPropagation();
+            if (slide_nav.hasClass('nav-open')) {
+                slide_nav.removeClass('nav-open');
+                links.fadeOut();
+                closeNav();
+
+            } else {
+                links.fadeIn();
+                openNav();
+            }
+
+        });
+        slide_nav.click(function() {
+            links.fadeOut();
+            closeNav();
+        });
+        $('#main,.main,.contact').click(function() {
+            links.fadeOut();
+            closeNav();
+        });
+
+
+        ///////////////// sub nav function for home goodies \\\\\\\\\\
+        var sub_down = $('.head-intro-sub');
+
+        function dropSub() {
+            sub_down.css('height', "50px").addClass('sub-open');
+            // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+        }
+
+        function closeSub() {
+            sub_down.css('height', "0");
+            document.body.style.backgroundColor = "white";
+        }
+        $('.head-intro').click(function(e) {
+            e.stopPropagation();
+            if (sub_down.hasClass('sub-open')) {
+                sub_down.removeClass('sub-open');
+                // links.fadeOut();
+                closeSub();
+
+            } else {
+                // links.fadeIn();
+                dropSub();
+            }
+
+        });
+
+
+
+        /////////// side nav sub links functions \\\\\\\\\\\\\\\\
+
+
+        function openSubLink(selector) {
+            if (selector.hasClass('expand')) {
+                selector.removeClass('expand');
+            } else {
+                selector.addClass('expand');
+            }
+        }
+
+        function openSubMenu(handler, div, svg) {
+            handler.click(function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                div.toggle('slow');
+                // div.toggleClass('nav-sub-img');
+                openSubLink(svg);
+            });
+        }
+
+        openSubMenu($('.nav-link-1'), $('.1'), $('.arrow-left-icon-1'));
+        /////////
+        openSubMenu($('.nav-link-1-1'), $('.1-1'), $('.arrow-left-icon-1-1'));
+        openSubMenu($('.nav-link-1-2'), $('.1-2'), $('.arrow-left-icon-1-2'));
+        openSubMenu($('.nav-link-1-3'), $('.1-3'), $('.arrow-left-icon-1-3'));
+        openSubMenu($('.nav-link-1-4'), $('.1-4'), $('.arrow-left-icon-1-4'));
+        openSubMenu($('.nav-link-1-5'), $('.1-5'), $('.arrow-left-icon-1-5'));
+        openSubMenu($('.nav-link-1-6'), $('.1-6'), $('.arrow-left-icon-1-6'));
+        openSubMenu($('.nav-link-1-7'), $('.1-7'), $('.arrow-left-icon-1-7'));
+
+        //////
+        openSubMenu($('.nav-link-2'), $('.2'), $('.arrow-left-icon-2'));
+
+        // $('.nav-link').click(function (e) {
+
+        //     e.preventDefault();
+        //     e.stopPropagation();
+        //     $('.nav').toggle('slow');
+        //    openSubLink($('.arrow-left-icon'));
+        // });
+    }
+
+
+/***/ }),
+/* 5 */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(29)(undefined);
+// imports
+
+
+// module
+exports.push([module.i, "body {\n  padding-top: 75px; }\n\na:hover,\na:focus {\n  color: none;\n  text-decoration: none; }\n\n.container {\n  padding: 0; }\n\n.main {\n  padding: 0;\n  width: 100%;\n  margin: auto;\n  background-size: 100%;\n  background-position: top right; }\n\n.is-visible {\n  opacity: 1;\n  -webkit-transform: translate(0, 0);\n  -webkit-transition: all .3s ease-out; }\n\n.is-hidden {\n  opacity: 0;\n  -webkit-transform: translate(0, -60px);\n  -webkit-transition: all .3s ease-out; }\n\n.navbar {\n  width: 100%;\n  background-color: #fff; }\n  .navbar #main h1 {\n    display: inline-block;\n    font-size: 2.5em;\n    font-family: asli;\n    font-weight: bold;\n    color: #FFCC00;\n    margin: auto 40px; }\n    .navbar #main h1 b {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n  .navbar .navbar-toggler {\n    font-size: 1.9em;\n    outline: none; }\n\n.back-axs {\n  width: 100%; }\n\n.parallaxParent {\n  height: 50vh;\n  overflow: hidden; }\n\n.parallaxParent > * {\n  height: 200%;\n  position: relative;\n  top: -100%; }\n\n.nav {\n  display: none;\n  float: right;\n  width: 80%; }\n\n.sub-link {\n  display: block;\n  font-size: 1em;\n  font-family: asli;\n  font-weight: bold;\n  color: #E7F0E2;\n  text-align: right;\n  margin: 10px 4px 10px 0; }\n\n.nav-sub {\n  display: none;\n  float: right;\n  width: 100%; }\n\n@media (min-width: 768px) {\n  .nav {\n    display: flex;\n    flex-direction: row-reverse; } }\n\n.sideNav-title {\n  width: 100%;\n  padding: 10px; }\n\n.sideNav-sub {\n  width: 100%;\n  padding: 0;\n  list-style: none; }\n\n.nav-link {\n  font-size: 1.3em;\n  font-family: asli;\n  font-weight: bold;\n  color: rgba(34, 34, 34, 0.9); }\n\n.head-intro {\n  background: url(" + __webpack_require__(1) + ") no-repeat 100%;\n  background-size: 65%;\n  background-position: center;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  width: 100%;\n  align-items: center;\n  height: 50vh; }\n  .head-intro .image-head-slog {\n    font-family: asli;\n    font-size: 2em;\n    color: #fff;\n    text-decoration: none;\n    margin: 0; }\n  .head-intro .image-head-company {\n    font-family: asli;\n    font-size: 4em;\n    color: #fff;\n    text-decoration: none; }\n\n.sub-title {\n  text-align: center;\n  font-size: 3em;\n  font-family: asli;\n  font-weight: bold;\n  color: rgba(34, 34, 34, 0.9);\n  padding: 10px 0; }\n\n.genres {\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  width: 100%;\n  list-style: none;\n  padding: 0; }\n  .genres .active a {\n    color: #FFCC00;\n    font-size: 1.7em; }\n  .genres li a:focus,\n  .genres li a:hover {\n    color: #FFCC00;\n    transition-duration: .7s; }\n  .genres li a {\n    margin: 10px;\n    font-size: 1.2em;\n    font-family: asli;\n    font-weight: bold;\n    color: rgba(34, 34, 34, 0.9); }\n\n.group {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center; }\n  .group .itemha {\n    display: flex;\n    flex-direction: column;\n    justify-content: space-between;\n    width: 70%;\n    align-items: center;\n    padding: 10px 0;\n    border-bottom: 2px solid #BFBFBF; }\n    .group .itemha img {\n      max-width: 100%;\n      height: auto; }\n    .group .itemha:last-child {\n      border-bottom: none;\n      padding-bottom: 20px; }\n    .group .itemha .item-detail {\n      display: flex;\n      flex-direction: row;\n      justify-content: space-between;\n      width: 50%;\n      align-items: center; }\n      .group .itemha .item-detail span {\n        font-size: 1em;\n        font-family: sevom;\n        font-weight: bold;\n        color: rgba(34, 34, 34, 0.9); }\n      .group .itemha .item-detail .item-name {\n        font-size: 1em;\n        font-family: charom;\n        font-weight: bold;\n        color: rgba(34, 34, 34, 0.9); }\n\n.table_wrapper {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center;\n  padding: 2em 0; }\n  .table_wrapper .aks_preview {\n    padding: 1em 0;\n    max-width: 100%;\n    height: auto; }\n  .table_wrapper table,\n  .table_wrapper td,\n  .table_wrapper th {\n    border: 1px solid black; }\n  .table_wrapper th {\n    font-size: 1.2em;\n    font-family: asli;\n    font-weight: bold;\n    color: rgba(34, 34, 34, 0.9); }\n  .table_wrapper table {\n    border-collapse: collapse;\n    width: 100%; }\n  .table_wrapper td,\n  .table_wrapper th {\n    text-align: center; }\n\n.axs1 {\n  background: url(" + __webpack_require__(10) + ") no-repeat center; }\n\n.axs2 {\n  background: url(" + __webpack_require__(11) + ") no-repeat center; }\n\n.axs3 {\n  background: url(" + __webpack_require__(12) + ") no-repeat center; }\n\n.axs4 {\n  background: url(" + __webpack_require__(1) + ") no-repeat 50%; }\n\n.col-feature {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center;\n  height: 50vh; }\n  .col-feature a {\n    margin: auto; }\n\n.contact {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 90%;\n  align-items: center; }\n  .contact .top-nav {\n    width: 100%;\n    padding: 20px 0;\n    border-bottom: 2px solid #000;\n    text-align: center; }\n    .contact .top-nav a {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n  .contact .contact-info {\n    font-family: asli;\n    padding: 30px 0;\n    text-align: center; }\n    .contact .contact-info h4 a {\n      font-size: 0.9em;\n      font-family: -apple-;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n    .contact .contact-info span {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: #FFCC00; }\n\n.jabeja {\n  background-image: url(" + __webpack_require__(13) + ");\n  background-position: 40% 50%;\n  background-repeat: no-repeat;\n  background-size: 414px 550px; }\n  @media (min-device-width: 320px) and (max-device-width: 736px) and (orientation: landscape) {\n    .jabeja {\n      background-image: url(" + __webpack_require__(14) + ");\n      background-position: center;\n      background-repeat: no-repeat;\n      background-size: cover; } }\n\nfooter h1 {\n  margin: 0;\n  background-color: #000;\n  padding: 14px;\n  font-size: 1em;\n  font-family: asli;\n  font-weight: bold;\n  color: #fff;\n  text-align: left; }\n\n.head-intro-sub {\n  height: 0;\n  width: 100%;\n  position: relative;\n  z-index: 100000;\n  background-color: #000;\n  transition: 0.5s; }\n\n.sidenav {\n  height: 100%;\n  width: 0;\n  position: fixed;\n  z-index: 1000000;\n  top: 0;\n  right: 0;\n  background-color: #000;\n  overflow-x: hidden;\n  transition: 0.5s;\n  padding-top: 60px; }\n\n.sidenav .nav-link-style {\n  text-decoration: none;\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  transition: 0.3s; }\n\n.nav-link-style {\n  font-size: 2em;\n  font-family: asli;\n  font-weight: 200;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav-link-style-sub {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center;\n  font-size: 1.4em;\n  font-family: asli;\n  font-weight: 100;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav-link-no-sub {\n  text-align: right;\n  font-size: 1.4em;\n  font-family: asli;\n  font-weight: 100;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav {\n  display: none; }\n\n.nav-sub-container {\n  display: none; }\n\n.sidenav a:hover,\n.offcanvas a:focus {\n  color: #f1f1f1; }\n\n.sidenav .closebtn {\n  position: absolute;\n  top: -20px;\n  right: 3px;\n  font-size: 4em;\n  margin-left: 50px;\n  color: #ffffff; }\n\n#main {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  transition: margin-left .5s;\n  padding: 16px; }\n\n@media screen and (max-height: 450px) {\n  .sidenav {\n    padding-top: 15px; }\n  .sidenav a {\n    font-size: 18px; } }\n\n.slidedown-nav {\n  position: relative;\n  height: 0;\n  overflow: hidden; }\n\n.arrow-icon {\n  width: 20px;\n  height: 20px; }\n\n.arrow-style {\n  width: 20px;\n  height: 20px;\n  transition: all 0.3s; }\n\n.arrow-style-sub {\n  width: 15px;\n  height: 15px;\n  transition: all 0.3s; }\n\n.expand {\n  transform-origin: center;\n  transform: rotateZ(-90deg); }\n\n@font-face {\n  font-family: asli;\n  src: url(" + __webpack_require__(6) + "); }\n\n@font-face {\n  font-family: dovom;\n  src: url(" + __webpack_require__(9) + "); }\n\n@font-face {\n  font-family: sevom;\n  src: url(" + __webpack_require__(7) + "); }\n\n@font-face {\n  font-family: charom;\n  src: url(" + __webpack_require__(8) + "); }\n\na {\n  text-decoration: none;\n  color: rgba(34, 34, 34, 0.4); }\n\n.image-head {\n  font-family: asli;\n  font-size: 3em;\n  color: #FFCC00;\n  text-decoration: none;\n  margin: auto;\n  z-index: 2; }\n\n.arrow {\n  width: 20px;\n  height: 20px; }\n", ""]);
+
+// exports
+
+
+/***/ }),
+/* 6 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fonts/AAmine.ttf";
+
+/***/ }),
+/* 7 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fonts/vazir-FD.ttf";
+
+/***/ }),
+/* 8 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fonts/vazir-WOL.ttf";
+
+/***/ }),
+/* 9 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fonts/zarghan.ttf";
+
+/***/ }),
+/* 10 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/1.jpg";
+
+/***/ }),
+/* 11 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/2.jpg";
+
+/***/ }),
+/* 12 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/3.jpg";
+
+/***/ }),
+/* 13 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/35.jpg";
+
+/***/ }),
+/* 14 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/pars-jadval.jpg";
+
+/***/ }),
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -15480,820 +16557,29 @@ if (typeof jQuery === 'undefined') {
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 4 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*** IMPORTS FROM imports-loader ***/
 var define = false;
 
 // This file is autogenerated via the `commonjs` Grunt task. You can require() this file in a CommonJS environment.
-__webpack_require__(29)
+__webpack_require__(28)
+__webpack_require__(18)
 __webpack_require__(19)
 __webpack_require__(20)
 __webpack_require__(21)
 __webpack_require__(22)
 __webpack_require__(23)
+__webpack_require__(27)
 __webpack_require__(24)
-__webpack_require__(28)
 __webpack_require__(25)
 __webpack_require__(26)
-__webpack_require__(27)
-__webpack_require__(18)
+__webpack_require__(17)
 
-
-/***/ }),
-/* 5 */
-/***/ (function(module, exports, __webpack_require__) {
-
-/*** IMPORTS FROM imports-loader ***/
-var define = false;
-
-/*!
- * ScrollMagic v2.0.5 (2015-04-29)
- * The javascript library for magical scroll interactions.
- * (c) 2015 Jan Paepke (@janpaepke)
- * Project Website: http://scrollmagic.io
- * 
- * @version 2.0.5
- * @license Dual licensed under MIT license and GPL.
- * @author Jan Paepke - e-mail@janpaepke.de
- *
- * @file ScrollMagic GSAP Animation Plugin.
- *
- * requires: GSAP ~1.14
- * Powered by the Greensock Animation Platform (GSAP): http://www.greensock.com/js
- * Greensock License info at http://www.greensock.com/licensing/
- */
-/**
- * This plugin is meant to be used in conjunction with the Greensock Animation Plattform.  
- * It offers an easy API to trigger Tweens or synchronize them to the scrollbar movement.
- *
- * Both the `lite` and the `max` versions of the GSAP library are supported.  
- * The most basic requirement is `TweenLite`.
- * 
- * To have access to this extension, please include `plugins/animation.gsap.js`.
- * @requires {@link http://greensock.com/gsap|GSAP ~1.14.x}
- * @mixin animation.GSAP
- */
-(function (root, factory) {
-	if (typeof define === 'function' && define.amd) {
-		// AMD. Register as an anonymous module.
-		define(['ScrollMagic', 'TweenMax', 'TimelineMax'], factory);
-	} else if (true) {
-		// CommonJS
-		// Loads whole gsap package onto global scope.
-		__webpack_require__(31);
-		factory(__webpack_require__(1), TweenMax, TimelineMax);
-	} else {
-		// Browser globals
-		factory(root.ScrollMagic || (root.jQuery && root.jQuery.ScrollMagic), root.TweenMax || root.TweenLite, root.TimelineMax || root.TimelineLite);
-	}
-}(this, function (ScrollMagic, Tween, Timeline) {
-	"use strict";
-	var NAMESPACE = "animation.gsap";
-
-	var
-	console = window.console || {},
-		err = Function.prototype.bind.call(console.error || console.log ||
-		function () {}, console);
-	if (!ScrollMagic) {
-		err("(" + NAMESPACE + ") -> ERROR: The ScrollMagic main module could not be found. Please make sure it's loaded before this plugin or use an asynchronous loader like requirejs.");
-	}
-	if (!Tween) {
-		err("(" + NAMESPACE + ") -> ERROR: TweenLite or TweenMax could not be found. Please make sure GSAP is loaded before ScrollMagic or use an asynchronous loader like requirejs.");
-	}
-
-/*
-	 * ----------------------------------------------------------------
-	 * Extensions for Scene
-	 * ----------------------------------------------------------------
-	 */
-	/**
-	 * Every instance of ScrollMagic.Scene now accepts an additional option.  
-	 * See {@link ScrollMagic.Scene} for a complete list of the standard options.
-	 * @memberof! animation.GSAP#
-	 * @method new ScrollMagic.Scene(options)
-	 * @example
-	 * var scene = new ScrollMagic.Scene({tweenChanges: true});
-	 *
-	 * @param {object} [options] - Options for the Scene. The options can be updated at any time.
-	 * @param {boolean} [options.tweenChanges=false] - Tweens Animation to the progress target instead of setting it.  
-	 Does not affect animations where duration is `0`.
-	 */
-	/**
-	 * **Get** or **Set** the tweenChanges option value.  
-	 * This only affects scenes with a duration. If `tweenChanges` is `true`, the progress update when scrolling will not be immediate, but instead the animation will smoothly animate to the target state.  
-	 * For a better understanding, try enabling and disabling this option in the [Scene Manipulation Example](../examples/basic/scene_manipulation.html).
-	 * @memberof! animation.GSAP#
-	 * @method Scene.tweenChanges
-	 * 
-	 * @example
-	 * // get the current tweenChanges option
-	 * var tweenChanges = scene.tweenChanges();
-	 *
-	 * // set new tweenChanges option
-	 * scene.tweenChanges(true);
-	 *
-	 * @fires {@link Scene.change}, when used as setter
-	 * @param {boolean} [newTweenChanges] - The new tweenChanges setting of the scene.
-	 * @returns {boolean} `get` -  Current tweenChanges option value.
-	 * @returns {Scene} `set` -  Parent object for chaining.
-	 */
-	// add option (TODO: DOC (private for dev))
-	ScrollMagic.Scene.addOption("tweenChanges", // name
-	false, // default
-
-
-	function (val) { // validation callback
-		return !!val;
-	});
-	// extend scene
-	ScrollMagic.Scene.extend(function () {
-		var Scene = this,
-			_tween;
-
-		var log = function () {
-			if (Scene._log) { // not available, when main source minified
-				Array.prototype.splice.call(arguments, 1, 0, "(" + NAMESPACE + ")", "->");
-				Scene._log.apply(this, arguments);
-			}
-		};
-
-		// set listeners
-		Scene.on("progress.plugin_gsap", function () {
-			updateTweenProgress();
-		});
-		Scene.on("destroy.plugin_gsap", function (e) {
-			Scene.removeTween(e.reset);
-		});
-
-		/**
-		 * Update the tween progress to current position.
-		 * @private
-		 */
-		var updateTweenProgress = function () {
-			if (_tween) {
-				var
-				progress = Scene.progress(),
-					state = Scene.state();
-				if (_tween.repeat && _tween.repeat() === -1) {
-					// infinite loop, so not in relation to progress
-					if (state === 'DURING' && _tween.paused()) {
-						_tween.play();
-					} else if (state !== 'DURING' && !_tween.paused()) {
-						_tween.pause();
-					}
-				} else if (progress != _tween.progress()) { // do we even need to update the progress?
-					// no infinite loop - so should we just play or go to a specific point in time?
-					if (Scene.duration() === 0) {
-						// play the animation
-						if (progress > 0) { // play from 0 to 1
-							_tween.play();
-						} else { // play from 1 to 0
-							_tween.reverse();
-						}
-					} else {
-						// go to a specific point in time
-						if (Scene.tweenChanges() && _tween.tweenTo) {
-							// go smooth
-							_tween.tweenTo(progress * _tween.duration());
-						} else {
-							// just hard set it
-							_tween.progress(progress).pause();
-						}
-					}
-				}
-			}
-		};
-
-		/**
-		 * Add a tween to the scene.  
-		 * If you want to add multiple tweens, add them into a GSAP Timeline object and supply it instead (see example below).  
-		 * 
-		 * If the scene has a duration, the tween's duration will be projected to the scroll distance of the scene, meaning its progress will be synced to scrollbar movement.  
-		 * For a scene with a duration of `0`, the tween will be triggered when scrolling forward past the scene's trigger position and reversed, when scrolling back.  
-		 * To gain better understanding, check out the [Simple Tweening example](../examples/basic/simple_tweening.html).
-		 *
-		 * Instead of supplying a tween this method can also be used as a shorthand for `TweenMax.to()` (see example below).
-		 * @memberof! animation.GSAP#
-		 *
-		 * @example
-		 * // add a single tween directly
-		 * scene.setTween(TweenMax.to("obj"), 1, {x: 100});
-		 *
-		 * // add a single tween via variable
-		 * var tween = TweenMax.to("obj"), 1, {x: 100};
-		 * scene.setTween(tween);
-		 *
-		 * // add multiple tweens, wrapped in a timeline.
-		 * var timeline = new TimelineMax();
-		 * var tween1 = TweenMax.from("obj1", 1, {x: 100});
-		 * var tween2 = TweenMax.to("obj2", 1, {y: 100});
-		 * timeline
-		 *		.add(tween1)
-		 *		.add(tween2);
-		 * scene.addTween(timeline);
-		 *
-		 * // short hand to add a TweenMax.to() tween
-		 * scene.setTween("obj3", 0.5, {y: 100});
-		 *
-		 * // short hand to add a TweenMax.to() tween for 1 second
-		 * // this is useful, when the scene has a duration and the tween duration isn't important anyway
-		 * scene.setTween("obj3", {y: 100});
-		 *
-		 * @param {(object|string)} TweenObject - A TweenMax, TweenLite, TimelineMax or TimelineLite object that should be animated in the scene. Can also be a Dom Element or Selector, when using direct tween definition (see examples).
-		 * @param {(number|object)} duration - A duration for the tween, or tween parameters. If an object containing parameters are supplied, a default duration of 1 will be used.
-		 * @param {object} params - The parameters for the tween
-		 * @returns {Scene} Parent object for chaining.
-		 */
-		Scene.setTween = function (TweenObject, duration, params) {
-			var newTween;
-			if (arguments.length > 1) {
-				if (arguments.length < 3) {
-					params = duration;
-					duration = 1;
-				}
-				TweenObject = Tween.to(TweenObject, duration, params);
-			}
-			try {
-				// wrap Tween into a Timeline Object if available to include delay and repeats in the duration and standardize methods.
-				if (Timeline) {
-					newTween = new Timeline({
-						smoothChildTiming: true
-					}).add(TweenObject);
-				} else {
-					newTween = TweenObject;
-				}
-				newTween.pause();
-			} catch (e) {
-				log(1, "ERROR calling method 'setTween()': Supplied argument is not a valid TweenObject");
-				return Scene;
-			}
-			if (_tween) { // kill old tween?
-				Scene.removeTween();
-			}
-			_tween = newTween;
-
-			// some properties need to be transferred it to the wrapper, otherwise they would get lost.
-			if (TweenObject.repeat && TweenObject.repeat() === -1) { // TweenMax or TimelineMax Object?
-				_tween.repeat(-1);
-				_tween.yoyo(TweenObject.yoyo());
-			}
-			// Some tween validations and debugging helpers
-			if (Scene.tweenChanges() && !_tween.tweenTo) {
-				log(2, "WARNING: tweenChanges will only work if the TimelineMax object is available for ScrollMagic.");
-			}
-
-			// check if there are position tweens defined for the trigger and warn about it :)
-			if (_tween && Scene.controller() && Scene.triggerElement() && Scene.loglevel() >= 2) { // controller is needed to know scroll direction.
-				var
-				triggerTweens = Tween.getTweensOf(Scene.triggerElement()),
-					vertical = Scene.controller().info("vertical");
-				triggerTweens.forEach(function (value, index) {
-					var
-					tweenvars = value.vars.css || value.vars,
-						condition = vertical ? (tweenvars.top !== undefined || tweenvars.bottom !== undefined) : (tweenvars.left !== undefined || tweenvars.right !== undefined);
-					if (condition) {
-						log(2, "WARNING: Tweening the position of the trigger element affects the scene timing and should be avoided!");
-						return false;
-					}
-				});
-			}
-
-			// warn about tween overwrites, when an element is tweened multiple times
-			if (parseFloat(TweenLite.version) >= 1.14) { // onOverwrite only present since GSAP v1.14.0
-				var
-				list = _tween.getChildren ? _tween.getChildren(true, true, false) : [_tween],
-					// get all nested tween objects
-					newCallback = function () {
-						log(2, "WARNING: tween was overwritten by another. To learn how to avoid this issue see here: https://github.com/janpaepke/ScrollMagic/wiki/WARNING:-tween-was-overwritten-by-another");
-					};
-				for (var i = 0, thisTween, oldCallback; i < list.length; i++) { /*jshint loopfunc: true */
-					thisTween = list[i];
-					if (oldCallback !== newCallback) { // if tweens is added more than once
-						oldCallback = thisTween.vars.onOverwrite;
-						thisTween.vars.onOverwrite = function () {
-							if (oldCallback) {
-								oldCallback.apply(this, arguments);
-							}
-							newCallback.apply(this, arguments);
-						};
-					}
-				}
-			}
-			log(3, "added tween");
-
-			updateTweenProgress();
-			return Scene;
-		};
-
-		/**
-		 * Remove the tween from the scene.  
-		 * This will terminate the control of the Scene over the tween.
-		 *
-		 * Using the reset option you can decide if the tween should remain in the current state or be rewound to set the target elements back to the state they were in before the tween was added to the scene.
-		 * @memberof! animation.GSAP#
-		 *
-		 * @example
-		 * // remove the tween from the scene without resetting it
-		 * scene.removeTween();
-		 *
-		 * // remove the tween from the scene and reset it to initial position
-		 * scene.removeTween(true);
-		 *
-		 * @param {boolean} [reset=false] - If `true` the tween will be reset to its initial values.
-		 * @returns {Scene} Parent object for chaining.
-		 */
-		Scene.removeTween = function (reset) {
-			if (_tween) {
-				if (reset) {
-					_tween.progress(0).pause();
-				}
-				_tween.kill();
-				_tween = undefined;
-				log(3, "removed tween (reset: " + (reset ? "true" : "false") + ")");
-			}
-			return Scene;
-		};
-
-	});
-}));
-
-
-/***/ }),
-/* 6 */
-/***/ (function(module, exports) {
-
-/*** IMPORTS FROM imports-loader ***/
-var define = false;
-
-const data = {
-    "mozayik": {
-        "a": {
-            "20x20": {
-                "sade": {
-                    "type": "ساده",
-                    "img": "20x20",
-                    "size": "20x20",
-                    "info": " "
-
-                },
-                "ajori": {
-                    "type": "آجری",
-                    "img": "ajori",
-                    "size": "10x20",
-                    "info": " "
-                }
-            }
-        },
-        "b": {
-            "40x40": {
-                "sade": {
-                    "type": "ساده",
-                    "img": "40x40",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "setareyi": {
-                    "type": "ستاریی",
-                    "img": "setareyi",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "shokolati": {
-                    "type": "شکلاتی",
-                    "img": "shokolati",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "yasaman": {
-                    "type": "یاسمن",
-                    "img": "yasaman",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "sekeyi": {
-                    "type": "سکه ای",
-                    "img": "sekeyi",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "sangi": {
-                    "type": "سنگی",
-                    "img": "sangi",
-                    "size": "40x40",
-                    "info": " "
-                }
-            }
-        },
-        "c": {
-            "پرس خشك": {
-                "koozeyi": {
-                    "type": "کوزیی",
-                    "img": "koozeyi",
-                    "info": "۲۲ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                // "saat sheni": {
-                //     "type": "ساعت شنی",
-                //     "img": "saatsheni",
-                //     "size": "40x40",
-                //     "info": " "
-                // },
-                "kongere": {
-                    "type": "کنگره",
-                    "img": "congere",
-                    "info": "۱۶ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                "pazeli": {
-                    "type": "پازل",
-                    "img": "puzzle",
-                    "info": "۱۶ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                "kandooyi": {
-                    "type": "کندویی",
-                    "img": "kandooyi",
-                    "info": "۱۸ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                "tabari": {
-                    "type": "طبری",
-                    "img": "tabbari",
-                    "info": "۱۶ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                "ajori": {
-                    "type": "آجری",
-                    "img": "ajori",
-                    "info": "۴۹ عدد",
-                    "price-grey": "165000",
-                    "price-red": "195000",
-                    "price-forign": "235000",
-                    "shipping": "5000"
-                },
-                // "lozi mari": {
-                //     "type": "(لوزی(پوست مار",
-                //     "img": "lozipoostmari",
-                //     "size": "40x40",
-                //     "info": " "
-                // },
-                "i": {
-                    "type": "(I)ای",
-                    "img": "i",
-                    "info": "۲۳ عدد",
-                    "price-grey": "125000",
-                    "price-red": "145000",
-                    "price-forign": "175000",
-                    "shipping": "5000"
-                },
-                "5zeli": {
-                    "type": "پنج ضلعی",
-                    "img": "5zeli",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "lozi sade": {
-                    "type": "لوزی ساده",
-                    "img": "lozisade",
-                    "size": "40x40",
-                    "info": " "
-                },
-                "puzele sombe": {
-                    "type": "پازلی سمبه",
-                    "img": "puzzelesombe",
-                    "size": "40x40",
-                    "info": " "
-                }
-            }
-        }
-    },
-    "jadval": {
-        "a": {
-            "type": "جدول وت پرس",
-            "img": "jadval/mobile/40",
-            "sizes": {
-                "a": {
-                    "type": "50*30*10",
-                    "price": "42300",
-                    "shipping": "3000"
-                },
-                "b": {
-                    "type": "50*30*12.5",
-                    "price": "47000",
-                    "shipping": "3000"
-                },
-
-
-                "c": {
-                    "type": "50*30*15",
-                    "price": "52800",
-                    "shipping": "3000"
-                }
-            }
-        },
-        "b": {
-            "type": "جدول پرس خشك",
-            "img": "jadval/mobile/50",
-            "sizes": {
-                "a": {
-                    "type": "50*30*10",
-                    "price": "38500",
-                    "shipping": "3000"
-                },
-                "b": {
-                    "type": "50*40*15",
-                    "price": "62000",
-                    "shipping": "3000"
-                },
-                "c": {
-                    "type": "50*50*15",
-                    "price": "65000",
-                    "shipping": "3000"
-                }
-            }
-        },
-        "c": {
-            "type": "جدول دستي",
-            "img": "jadval/mobile/d1",
-            "sizes": {
-                "a": {
-                    "type": "50*30*6",
-                    "price": "42300",
-                    "shipping": "3000"
-                },
-                "b": {
-                    "type": "50*30*8",
-                    "price": "47000",
-                    "shipping": "3000"
-                },
-                "c": {
-                    "type": "50*30*10",
-                    "price": "52800",
-                    "shipping": "3000"
-                }
-            }
-        }
-    },
-    "dal": {
-        "a": {
-            "type": "ترافیک سبک",
-            "img": "dal/mobile/39",
-            "sizes": {
-                "a": {
-                    "type": "80*60*10",
-                    "price": "650000",
-                    "shipping": "20000"
-                },
-                "b": {
-                    "type": "100*60*10",
-                    "price": "770000",
-                    "shipping": "20000"
-                },
-                "c": {
-                    "type": "120*60*10",
-                    "price": "800000",
-                    "shipping": "20000"
-                }
-            }
-        },
-        "b": {
-            "type": "ترافیک سنگین",
-            "img": "dal/mobile/44",
-            "sizes": {
-                "a": {
-                    "type": "80*60*15",
-                    "price": "770000",
-                    "shipping": "20000"
-                },
-                "b": {
-                    "type": "100*60*15",
-                    "price": "930000",
-                    "shipping": "20000"
-                },
-                "c": {
-                    "type": "120*60*15",
-                    "price": "1000000",
-                    "shipping": "20000"
-                },
-                "d": {
-                    "type": "150*60*15",
-                    "price": "1470000",
-                    "shipping": "50000"
-                },
-                "e": {
-                    "type": "150*60*20",
-                    "price": "1830000",
-                    "shipping": "50000"
-                },
-                "f": {
-                    "type": "200*60*20",
-                    "price": "2300000",
-                    "shipping": "50000"
-                }
-            }
-        }
-    },
-    "kaval": {
-        "a": {
-            "type": "گرد",
-            "img": "kaval/mobile/gerd",
-            "sizes": {
-                "a": {
-                    "type": "70",
-                    "price": "220000",
-                    "shipping": "20000"
-                },
-                "b": {
-                    "type": "80",
-                    "price": "250000",
-                    "shipping": "20000"
-                },
-                "c": {
-                    "type": "90",
-                    "price": "325000",
-                    "shipping": "20000"
-                },
-                "d": {
-                    "type": "100",
-                    "price": "425000",
-                    "shipping": "20000"
-                },
-                "e": {
-                    "type": "110",
-                    "price": "450000",
-                    "shipping": "20000"
-                },
-                "f": {
-                    "type": "120",
-                    "price": "500000",
-                    "shipping": "20000"
-                },
-                "g": {
-                    "type": "130",
-                    "price": "660000",
-                    "shipping": "20000"
-                },
-                "h": {
-                    "type": "دوتکه 100",
-                    "price": "425000",
-                    "shipping": "20000"
-                }
-            }
-        },
-        "b": {
-            "type": "انباری",
-            "img": "kaval/mobile/gerd2",
-            "sizes": {
-                "a": {
-                    "type": "دوتکه 100",
-                    "price": "425000",
-                    "shipping": "20000"
-                },
-                "b": {
-                    "type": "100",
-                    "price": "425000",
-                    "shipping": "20000"
-                },
-                "c": {
-                    "type": "110",
-                    "price": "450000",
-                    "shipping": "20000"
-                },
-                "d": {
-                    "type": "120",
-                    "price": "500000",
-                    "shipping": "20000"
-                },
-                "e": {
-                    "type": "140",
-                    "price": "605000",
-                    "shipping": "20000"
-                }
-            }
-        }
-    }
-};
-module.exports = data;
-
-
-/***/ }),
-/* 7 */
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__(8);
-if(typeof content === 'string') content = [[module.i, content, '']];
-// Prepare cssTransformation
-var transform;
-
-var options = {}
-options.transform = transform
-// add the styles to the DOM
-var update = __webpack_require__(35)(content, options);
-if(content.locals) module.exports = content.locals;
-// Hot Module Replacement
-if(false) {
-	// When the styles change, update the <style> tags
-	if(!content.locals) {
-		module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/sass-loader/lib/loader.js!./application.scss", function() {
-			var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/sass-loader/lib/loader.js!./application.scss");
-			if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
-			update(newContent);
-		});
-	}
-	// When the module is disposed, remove the <style> tags
-	module.hot.dispose(function() { update(); });
-}
-
-/***/ }),
-/* 8 */
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(30)(undefined);
-// imports
-
-
-// module
-exports.push([module.i, "body {\n  padding-top: 75px; }\n\na:hover,\na:focus {\n  color: none;\n  text-decoration: none; }\n\n.container {\n  padding: 0; }\n\n.main {\n  padding: 0;\n  width: 100%;\n  margin: auto;\n  background-size: 100%;\n  background-position: top right; }\n\n.is-visible {\n  opacity: 1;\n  -webkit-transform: translate(0, 0);\n  -webkit-transition: all .3s ease-out; }\n\n.is-hidden {\n  opacity: 0;\n  -webkit-transform: translate(0, -60px);\n  -webkit-transition: all .3s ease-out; }\n\n.navbar {\n  width: 100%;\n  background-color: #fff; }\n  .navbar #main h1 {\n    display: inline-block;\n    font-size: 2.5em;\n    font-family: asli;\n    font-weight: bold;\n    color: #FFCC00;\n    margin: auto 40px; }\n    .navbar #main h1 b {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n  .navbar .navbar-toggler {\n    font-size: 1.9em;\n    outline: none; }\n\n.back-axs {\n  width: 100%; }\n\n.parallaxParent {\n  height: 50vh;\n  overflow: hidden; }\n\n.parallaxParent > * {\n  height: 200%;\n  position: relative;\n  top: -100%; }\n\n.nav {\n  display: none;\n  float: right;\n  width: 80%; }\n\n.sub-link {\n  display: block;\n  font-size: 1em;\n  font-family: asli;\n  font-weight: bold;\n  color: #E7F0E2;\n  text-align: right;\n  margin: 10px 4px 10px 0; }\n\n.nav-sub {\n  display: none;\n  float: right;\n  width: 100%; }\n\n@media (min-width: 768px) {\n  .nav {\n    display: flex;\n    flex-direction: row-reverse; } }\n\n.sideNav-title {\n  width: 100%;\n  padding: 10px; }\n\n.sideNav-sub {\n  width: 100%;\n  padding: 0;\n  list-style: none; }\n\n.nav-link {\n  font-size: 1.3em;\n  font-family: asli;\n  font-weight: bold;\n  color: rgba(34, 34, 34, 0.9); }\n\n.head-intro {\n  background: url(" + __webpack_require__(2) + ") no-repeat 100%;\n  background-size: 65%;\n  background-position: center;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  width: 100%;\n  align-items: center;\n  height: 50vh; }\n  .head-intro .image-head-slog {\n    font-family: asli;\n    font-size: 2em;\n    color: #fff;\n    text-decoration: none;\n    margin: 0; }\n  .head-intro .image-head-company {\n    font-family: asli;\n    font-size: 4em;\n    color: #fff;\n    text-decoration: none; }\n\n.sub-title {\n  text-align: center;\n  font-size: 3em;\n  font-family: asli;\n  font-weight: bold;\n  color: rgba(34, 34, 34, 0.9);\n  padding: 10px 0; }\n\n.genres {\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  width: 100%;\n  list-style: none;\n  padding: 0; }\n  .genres .active a {\n    color: #FFCC00; }\n  .genres li a:focus,\n  .genres li a:hover {\n    color: #FFCC00;\n    transition-duration: .3s; }\n  .genres li a {\n    padding: 10px;\n    font-size: 1.2em;\n    font-family: asli;\n    font-weight: bold;\n    color: rgba(34, 34, 34, 0.9); }\n\n.group {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center; }\n  .group .itemha {\n    display: flex;\n    flex-direction: column;\n    justify-content: space-between;\n    width: 70%;\n    align-items: center;\n    padding: 10px 0;\n    border-bottom: 2px solid #BFBFBF; }\n    .group .itemha img {\n      max-width: 100%;\n      height: auto; }\n    .group .itemha:last-child {\n      border-bottom: none;\n      padding-bottom: 20px; }\n    .group .itemha .item-detail {\n      display: flex;\n      flex-direction: row;\n      justify-content: space-between;\n      width: 50%;\n      align-items: center; }\n      .group .itemha .item-detail span {\n        font-size: 1em;\n        font-family: sevom;\n        font-weight: bold;\n        color: rgba(34, 34, 34, 0.9); }\n      .group .itemha .item-detail .item-name {\n        font-size: 1em;\n        font-family: charom;\n        font-weight: bold;\n        color: rgba(34, 34, 34, 0.9); }\n\n.table_wrapper {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center; }\n  .table_wrapper .aks_preview {\n    max-width: 100%;\n    height: auto; }\n  .table_wrapper table,\n  .table_wrapper td,\n  .table_wrapper th {\n    border: 1px solid black; }\n  .table_wrapper th {\n    font-size: 1.2em;\n    font-family: asli;\n    font-weight: bold;\n    color: rgba(34, 34, 34, 0.9); }\n  .table_wrapper table {\n    border-collapse: collapse;\n    width: 100%; }\n  .table_wrapper td,\n  .table_wrapper th {\n    text-align: center; }\n\n.axs1 {\n  background: url(" + __webpack_require__(13) + ") no-repeat center; }\n\n.axs2 {\n  background: url(" + __webpack_require__(14) + ") no-repeat center; }\n\n.axs3 {\n  background: url(" + __webpack_require__(15) + ") no-repeat center; }\n\n.axs4 {\n  background: url(" + __webpack_require__(2) + ") no-repeat 50%; }\n\n.col-feature {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center;\n  height: 50vh; }\n  .col-feature a {\n    margin: auto; }\n\n.contact {\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  width: 90%;\n  align-items: center; }\n  .contact .top-nav {\n    width: 100%;\n    padding: 20px 0;\n    border-bottom: 2px solid #000;\n    text-align: center; }\n    .contact .top-nav a {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n  .contact .contact-info {\n    font-family: asli;\n    padding: 30px 0;\n    text-align: center; }\n    .contact .contact-info h4 a {\n      font-size: 0.9em;\n      font-family: -apple-;\n      font-weight: bold;\n      color: rgba(34, 34, 34, 0.9); }\n    .contact .contact-info span {\n      font-size: 1em;\n      font-family: asli;\n      font-weight: bold;\n      color: #FFCC00; }\n\n.jabeja {\n  background-image: url(" + __webpack_require__(16) + ");\n  background-position: 40% 50%;\n  background-repeat: no-repeat;\n  background-size: 414px 550px; }\n  @media (min-device-width: 320px) and (max-device-width: 736px) and (orientation: landscape) {\n    .jabeja {\n      background-image: url(" + __webpack_require__(17) + ");\n      background-position: center;\n      background-repeat: no-repeat;\n      background-size: cover; } }\n\nfooter h1 {\n  margin: 0;\n  background-color: #000;\n  padding: 14px;\n  font-size: 1em;\n  font-family: asli;\n  font-weight: bold;\n  color: #fff;\n  text-align: left; }\n\n.head-intro-sub {\n  height: 0;\n  width: 100%;\n  position: relative;\n  z-index: 100000;\n  background-color: #000;\n  transition: 0.5s; }\n\n.sidenav {\n  height: 100%;\n  width: 0;\n  position: fixed;\n  z-index: 1000000;\n  top: 0;\n  right: 0;\n  background-color: #000;\n  overflow-x: hidden;\n  transition: 0.5s;\n  padding-top: 60px; }\n\n.sidenav .nav-link-style {\n  text-decoration: none;\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  transition: 0.3s; }\n\n.nav-link-style {\n  font-size: 2em;\n  font-family: asli;\n  font-weight: 200;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav-link-style-sub {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  align-items: center;\n  font-size: 1.4em;\n  font-family: asli;\n  font-weight: 100;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav-link-no-sub {\n  text-align: right;\n  font-size: 1.4em;\n  font-family: asli;\n  font-weight: 100;\n  color: rgba(255, 255, 255, 0.9); }\n\n.nav {\n  display: none; }\n\n.nav-sub-container {\n  display: none; }\n\n.sidenav a:hover,\n.offcanvas a:focus {\n  color: #f1f1f1; }\n\n.sidenav .closebtn {\n  position: absolute;\n  top: -20px;\n  right: 3px;\n  font-size: 4em;\n  margin-left: 50px;\n  color: #ffffff; }\n\n#main {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  width: 100%;\n  transition: margin-left .5s;\n  padding: 16px; }\n\n@media screen and (max-height: 450px) {\n  .sidenav {\n    padding-top: 15px; }\n  .sidenav a {\n    font-size: 18px; } }\n\n.slidedown-nav {\n  position: relative;\n  height: 0;\n  overflow: hidden; }\n\n.arrow-icon {\n  width: 20px;\n  height: 20px; }\n\n.arrow-style {\n  width: 20px;\n  height: 20px;\n  transition: all 0.3s; }\n\n.arrow-style-sub {\n  width: 15px;\n  height: 15px;\n  transition: all 0.3s; }\n\n.expand {\n  transform-origin: center;\n  transform: rotateZ(-90deg); }\n\n@font-face {\n  font-family: asli;\n  src: url(" + __webpack_require__(9) + "); }\n\n@font-face {\n  font-family: dovom;\n  src: url(" + __webpack_require__(12) + "); }\n\n@font-face {\n  font-family: sevom;\n  src: url(" + __webpack_require__(10) + "); }\n\n@font-face {\n  font-family: charom;\n  src: url(" + __webpack_require__(11) + "); }\n\na {\n  text-decoration: none;\n  color: rgba(34, 34, 34, 0.4); }\n\n.image-head {\n  font-family: asli;\n  font-size: 3em;\n  color: #FFCC00;\n  text-decoration: none;\n  margin: auto;\n  z-index: 2; }\n\n.arrow {\n  width: 20px;\n  height: 20px; }\n", ""]);
-
-// exports
-
-
-/***/ }),
-/* 9 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/AAmine.ttf";
-
-/***/ }),
-/* 10 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/vazir-FD.ttf";
-
-/***/ }),
-/* 11 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/vazir-WOL.ttf";
-
-/***/ }),
-/* 12 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "fonts/zarghan.ttf";
-
-/***/ }),
-/* 13 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/1.jpg";
-
-/***/ }),
-/* 14 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/2.jpg";
-
-/***/ }),
-/* 15 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/3.jpg";
-
-/***/ }),
-/* 16 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/35.jpg";
 
 /***/ }),
 /* 17 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "img/pars-jadval.jpg";
-
-/***/ }),
-/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -16466,7 +16752,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 19 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -16571,7 +16857,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 20 */
+/* 19 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -16707,7 +16993,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 21 */
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -16955,7 +17241,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 22 */
+/* 21 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -17178,7 +17464,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 23 */
+/* 22 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -17354,7 +17640,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 24 */
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -17704,7 +17990,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 25 */
+/* 24 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -17823,7 +18109,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 26 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -18006,7 +18292,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 27 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -18172,7 +18458,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 28 */
+/* 27 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -18703,7 +18989,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 29 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(jQuery) {/*** IMPORTS FROM imports-loader ***/
@@ -18773,7 +19059,7 @@ var define = false;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
-/* 30 */
+/* 29 */
 /***/ (function(module, exports) {
 
 /*** IMPORTS FROM imports-loader ***/
@@ -18859,7 +19145,7 @@ function toComment(sourceMap) {
 
 
 /***/ }),
-/* 31 */
+/* 30 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(global) {/*** IMPORTS FROM imports-loader ***/
@@ -26669,6 +26955,325 @@ if (_gsScope._gsDefine) { _gsScope._gsQueue.pop()(); } //necessary in case Tween
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(33)))
 
 /***/ }),
+/* 31 */
+/***/ (function(module, exports, __webpack_require__) {
+
+/*** IMPORTS FROM imports-loader ***/
+var define = false;
+
+/*!
+ * ScrollMagic v2.0.5 (2015-04-29)
+ * The javascript library for magical scroll interactions.
+ * (c) 2015 Jan Paepke (@janpaepke)
+ * Project Website: http://scrollmagic.io
+ * 
+ * @version 2.0.5
+ * @license Dual licensed under MIT license and GPL.
+ * @author Jan Paepke - e-mail@janpaepke.de
+ *
+ * @file ScrollMagic GSAP Animation Plugin.
+ *
+ * requires: GSAP ~1.14
+ * Powered by the Greensock Animation Platform (GSAP): http://www.greensock.com/js
+ * Greensock License info at http://www.greensock.com/licensing/
+ */
+/**
+ * This plugin is meant to be used in conjunction with the Greensock Animation Plattform.  
+ * It offers an easy API to trigger Tweens or synchronize them to the scrollbar movement.
+ *
+ * Both the `lite` and the `max` versions of the GSAP library are supported.  
+ * The most basic requirement is `TweenLite`.
+ * 
+ * To have access to this extension, please include `plugins/animation.gsap.js`.
+ * @requires {@link http://greensock.com/gsap|GSAP ~1.14.x}
+ * @mixin animation.GSAP
+ */
+(function (root, factory) {
+	if (typeof define === 'function' && define.amd) {
+		// AMD. Register as an anonymous module.
+		define(['ScrollMagic', 'TweenMax', 'TimelineMax'], factory);
+	} else if (true) {
+		// CommonJS
+		// Loads whole gsap package onto global scope.
+		__webpack_require__(30);
+		factory(__webpack_require__(2), TweenMax, TimelineMax);
+	} else {
+		// Browser globals
+		factory(root.ScrollMagic || (root.jQuery && root.jQuery.ScrollMagic), root.TweenMax || root.TweenLite, root.TimelineMax || root.TimelineLite);
+	}
+}(this, function (ScrollMagic, Tween, Timeline) {
+	"use strict";
+	var NAMESPACE = "animation.gsap";
+
+	var
+	console = window.console || {},
+		err = Function.prototype.bind.call(console.error || console.log ||
+		function () {}, console);
+	if (!ScrollMagic) {
+		err("(" + NAMESPACE + ") -> ERROR: The ScrollMagic main module could not be found. Please make sure it's loaded before this plugin or use an asynchronous loader like requirejs.");
+	}
+	if (!Tween) {
+		err("(" + NAMESPACE + ") -> ERROR: TweenLite or TweenMax could not be found. Please make sure GSAP is loaded before ScrollMagic or use an asynchronous loader like requirejs.");
+	}
+
+/*
+	 * ----------------------------------------------------------------
+	 * Extensions for Scene
+	 * ----------------------------------------------------------------
+	 */
+	/**
+	 * Every instance of ScrollMagic.Scene now accepts an additional option.  
+	 * See {@link ScrollMagic.Scene} for a complete list of the standard options.
+	 * @memberof! animation.GSAP#
+	 * @method new ScrollMagic.Scene(options)
+	 * @example
+	 * var scene = new ScrollMagic.Scene({tweenChanges: true});
+	 *
+	 * @param {object} [options] - Options for the Scene. The options can be updated at any time.
+	 * @param {boolean} [options.tweenChanges=false] - Tweens Animation to the progress target instead of setting it.  
+	 Does not affect animations where duration is `0`.
+	 */
+	/**
+	 * **Get** or **Set** the tweenChanges option value.  
+	 * This only affects scenes with a duration. If `tweenChanges` is `true`, the progress update when scrolling will not be immediate, but instead the animation will smoothly animate to the target state.  
+	 * For a better understanding, try enabling and disabling this option in the [Scene Manipulation Example](../examples/basic/scene_manipulation.html).
+	 * @memberof! animation.GSAP#
+	 * @method Scene.tweenChanges
+	 * 
+	 * @example
+	 * // get the current tweenChanges option
+	 * var tweenChanges = scene.tweenChanges();
+	 *
+	 * // set new tweenChanges option
+	 * scene.tweenChanges(true);
+	 *
+	 * @fires {@link Scene.change}, when used as setter
+	 * @param {boolean} [newTweenChanges] - The new tweenChanges setting of the scene.
+	 * @returns {boolean} `get` -  Current tweenChanges option value.
+	 * @returns {Scene} `set` -  Parent object for chaining.
+	 */
+	// add option (TODO: DOC (private for dev))
+	ScrollMagic.Scene.addOption("tweenChanges", // name
+	false, // default
+
+
+	function (val) { // validation callback
+		return !!val;
+	});
+	// extend scene
+	ScrollMagic.Scene.extend(function () {
+		var Scene = this,
+			_tween;
+
+		var log = function () {
+			if (Scene._log) { // not available, when main source minified
+				Array.prototype.splice.call(arguments, 1, 0, "(" + NAMESPACE + ")", "->");
+				Scene._log.apply(this, arguments);
+			}
+		};
+
+		// set listeners
+		Scene.on("progress.plugin_gsap", function () {
+			updateTweenProgress();
+		});
+		Scene.on("destroy.plugin_gsap", function (e) {
+			Scene.removeTween(e.reset);
+		});
+
+		/**
+		 * Update the tween progress to current position.
+		 * @private
+		 */
+		var updateTweenProgress = function () {
+			if (_tween) {
+				var
+				progress = Scene.progress(),
+					state = Scene.state();
+				if (_tween.repeat && _tween.repeat() === -1) {
+					// infinite loop, so not in relation to progress
+					if (state === 'DURING' && _tween.paused()) {
+						_tween.play();
+					} else if (state !== 'DURING' && !_tween.paused()) {
+						_tween.pause();
+					}
+				} else if (progress != _tween.progress()) { // do we even need to update the progress?
+					// no infinite loop - so should we just play or go to a specific point in time?
+					if (Scene.duration() === 0) {
+						// play the animation
+						if (progress > 0) { // play from 0 to 1
+							_tween.play();
+						} else { // play from 1 to 0
+							_tween.reverse();
+						}
+					} else {
+						// go to a specific point in time
+						if (Scene.tweenChanges() && _tween.tweenTo) {
+							// go smooth
+							_tween.tweenTo(progress * _tween.duration());
+						} else {
+							// just hard set it
+							_tween.progress(progress).pause();
+						}
+					}
+				}
+			}
+		};
+
+		/**
+		 * Add a tween to the scene.  
+		 * If you want to add multiple tweens, add them into a GSAP Timeline object and supply it instead (see example below).  
+		 * 
+		 * If the scene has a duration, the tween's duration will be projected to the scroll distance of the scene, meaning its progress will be synced to scrollbar movement.  
+		 * For a scene with a duration of `0`, the tween will be triggered when scrolling forward past the scene's trigger position and reversed, when scrolling back.  
+		 * To gain better understanding, check out the [Simple Tweening example](../examples/basic/simple_tweening.html).
+		 *
+		 * Instead of supplying a tween this method can also be used as a shorthand for `TweenMax.to()` (see example below).
+		 * @memberof! animation.GSAP#
+		 *
+		 * @example
+		 * // add a single tween directly
+		 * scene.setTween(TweenMax.to("obj"), 1, {x: 100});
+		 *
+		 * // add a single tween via variable
+		 * var tween = TweenMax.to("obj"), 1, {x: 100};
+		 * scene.setTween(tween);
+		 *
+		 * // add multiple tweens, wrapped in a timeline.
+		 * var timeline = new TimelineMax();
+		 * var tween1 = TweenMax.from("obj1", 1, {x: 100});
+		 * var tween2 = TweenMax.to("obj2", 1, {y: 100});
+		 * timeline
+		 *		.add(tween1)
+		 *		.add(tween2);
+		 * scene.addTween(timeline);
+		 *
+		 * // short hand to add a TweenMax.to() tween
+		 * scene.setTween("obj3", 0.5, {y: 100});
+		 *
+		 * // short hand to add a TweenMax.to() tween for 1 second
+		 * // this is useful, when the scene has a duration and the tween duration isn't important anyway
+		 * scene.setTween("obj3", {y: 100});
+		 *
+		 * @param {(object|string)} TweenObject - A TweenMax, TweenLite, TimelineMax or TimelineLite object that should be animated in the scene. Can also be a Dom Element or Selector, when using direct tween definition (see examples).
+		 * @param {(number|object)} duration - A duration for the tween, or tween parameters. If an object containing parameters are supplied, a default duration of 1 will be used.
+		 * @param {object} params - The parameters for the tween
+		 * @returns {Scene} Parent object for chaining.
+		 */
+		Scene.setTween = function (TweenObject, duration, params) {
+			var newTween;
+			if (arguments.length > 1) {
+				if (arguments.length < 3) {
+					params = duration;
+					duration = 1;
+				}
+				TweenObject = Tween.to(TweenObject, duration, params);
+			}
+			try {
+				// wrap Tween into a Timeline Object if available to include delay and repeats in the duration and standardize methods.
+				if (Timeline) {
+					newTween = new Timeline({
+						smoothChildTiming: true
+					}).add(TweenObject);
+				} else {
+					newTween = TweenObject;
+				}
+				newTween.pause();
+			} catch (e) {
+				log(1, "ERROR calling method 'setTween()': Supplied argument is not a valid TweenObject");
+				return Scene;
+			}
+			if (_tween) { // kill old tween?
+				Scene.removeTween();
+			}
+			_tween = newTween;
+
+			// some properties need to be transferred it to the wrapper, otherwise they would get lost.
+			if (TweenObject.repeat && TweenObject.repeat() === -1) { // TweenMax or TimelineMax Object?
+				_tween.repeat(-1);
+				_tween.yoyo(TweenObject.yoyo());
+			}
+			// Some tween validations and debugging helpers
+			if (Scene.tweenChanges() && !_tween.tweenTo) {
+				log(2, "WARNING: tweenChanges will only work if the TimelineMax object is available for ScrollMagic.");
+			}
+
+			// check if there are position tweens defined for the trigger and warn about it :)
+			if (_tween && Scene.controller() && Scene.triggerElement() && Scene.loglevel() >= 2) { // controller is needed to know scroll direction.
+				var
+				triggerTweens = Tween.getTweensOf(Scene.triggerElement()),
+					vertical = Scene.controller().info("vertical");
+				triggerTweens.forEach(function (value, index) {
+					var
+					tweenvars = value.vars.css || value.vars,
+						condition = vertical ? (tweenvars.top !== undefined || tweenvars.bottom !== undefined) : (tweenvars.left !== undefined || tweenvars.right !== undefined);
+					if (condition) {
+						log(2, "WARNING: Tweening the position of the trigger element affects the scene timing and should be avoided!");
+						return false;
+					}
+				});
+			}
+
+			// warn about tween overwrites, when an element is tweened multiple times
+			if (parseFloat(TweenLite.version) >= 1.14) { // onOverwrite only present since GSAP v1.14.0
+				var
+				list = _tween.getChildren ? _tween.getChildren(true, true, false) : [_tween],
+					// get all nested tween objects
+					newCallback = function () {
+						log(2, "WARNING: tween was overwritten by another. To learn how to avoid this issue see here: https://github.com/janpaepke/ScrollMagic/wiki/WARNING:-tween-was-overwritten-by-another");
+					};
+				for (var i = 0, thisTween, oldCallback; i < list.length; i++) { /*jshint loopfunc: true */
+					thisTween = list[i];
+					if (oldCallback !== newCallback) { // if tweens is added more than once
+						oldCallback = thisTween.vars.onOverwrite;
+						thisTween.vars.onOverwrite = function () {
+							if (oldCallback) {
+								oldCallback.apply(this, arguments);
+							}
+							newCallback.apply(this, arguments);
+						};
+					}
+				}
+			}
+			log(3, "added tween");
+
+			updateTweenProgress();
+			return Scene;
+		};
+
+		/**
+		 * Remove the tween from the scene.  
+		 * This will terminate the control of the Scene over the tween.
+		 *
+		 * Using the reset option you can decide if the tween should remain in the current state or be rewound to set the target elements back to the state they were in before the tween was added to the scene.
+		 * @memberof! animation.GSAP#
+		 *
+		 * @example
+		 * // remove the tween from the scene without resetting it
+		 * scene.removeTween();
+		 *
+		 * // remove the tween from the scene and reset it to initial position
+		 * scene.removeTween(true);
+		 *
+		 * @param {boolean} [reset=false] - If `true` the tween will be reset to its initial values.
+		 * @returns {Scene} Parent object for chaining.
+		 */
+		Scene.removeTween = function (reset) {
+			if (_tween) {
+				if (reset) {
+					_tween.progress(0).pause();
+				}
+				_tween.kill();
+				_tween = undefined;
+				log(3, "removed tween (reset: " + (reset ? "true" : "false") + ")");
+			}
+			return Scene;
+		};
+
+	});
+}));
+
+
+/***/ }),
 /* 32 */
 /***/ (function(module, exports) {
 
@@ -26800,51 +27405,32 @@ module.exports = g;
 
 /***/ }),
 /* 34 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* WEBPACK VAR INJECTION */(function($) {/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__front__ = __webpack_require__(4);
 /*** IMPORTS FROM imports-loader ***/
 var define = false;
 
-var css = __webpack_require__(7);
-var $ = __webpack_require__(0);
-var bootstrapCarousel = __webpack_require__(4);
-var bootstrap = __webpack_require__(3);
-var ScrollMagic = __webpack_require__(1);
-var setTween = __webpack_require__(5);
-var data = __webpack_require__(6);
+const data = __webpack_require__(3);
+
 
 $(document).ready(function() {
-
     console.log(data);
+
     /////// catalog  Functions \\\\\\\\\\\\\
 
     var catalogGroup = $('.wrapper');
     var group = $(".group");
-    // var mozayik_class = $(".mozayik-page");
-    // var jadval_class = $(".Jadval-page");
-    // var dal_class = $(".dal-page");
-
     var genre = $('#genre');
     var genre_btn = document.querySelector(".genre-btn a");;
 
 
-    function genreBiult(object) {
-        genre.empty();
-        var genre_identify = '<ul class="genres">';
-        $.each(object, function(key, value) {
-            genre_identify += '<li class="' + key + '">';
-            $.each(value, function(key, value) {
-                genre_identify += '<a href="#">' + key + '</a>';
-                genre_identify += '</li>';
-            });
-        });
-        genre_identify += "</ul>"
-        genre.html(genre_identify);
-        $(".genres li:nth-child(2)").addClass('active');
-    }
+
 
     //////////////////////////////////////
-    function genreBiult2(object) {
+    function genreBiult(object) {
         genre.empty();
         var genre_identify = '<ul class="genres">';
         $.each(object, function(key, value) {
@@ -26884,12 +27470,37 @@ $(document).ready(function() {
         group_product += '</div>';
         ////////////
         group_table += '<table class="tg">';
-        group_table += '<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th class="tg-031e">(cm)ابعاد</th></tr>';
+        group_table += '<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th>(cm)ابعاد</th></tr>';
         $.each(object.sizes, function(key, value) {
             group_table += '<tr>';
-            group_table += '<td class="tg-031e">' + value.shipping + '</td>';
-            group_table += '<td class="tg-031e">' + value.price + '</td>';
-            group_table += '<td class="tg-031e">' + value.type + '</td>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.price + '</td>';
+            group_table += '<td>' + value.type + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+
+        group.html(group_product).fadeIn("slow");
+    }
+    /////// alternate Table built 2
+
+    function galleryTableBuilt2(object) {
+        var group_product = " ";
+        var group_table = " ";
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+        ////////////
+        group_table += '<table class="tg">';
+        group_table += '<tr><th>هزینه</th><th>(فی(ریال</th><th>(cm)ابعاد</th><th>نوع</th></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.price + '</td>';
+            group_table += '<td>' + value.size + '</td>';
+            group_table += '<td>' + value.type + '</td>';
             group_table += '</tr>';
         })
         group_table += '</table></div>';
@@ -26898,35 +27509,51 @@ $(document).ready(function() {
         group.html(group_product).fadeIn("slow");
     }
     /////////////////////////////////////////
-    function genreSwitch(key) {
-        $('.genres').on('click', 'li', function(e) {
-            e.preventDefault();
-            mozayik_class.fadeOut("slow");
-            var rightObject = key[$(this).attr('class')][$(this).children().html()];
-            setTimeout(function() { galleryBuilt(rightObject) }, 500);
-            $(this).siblings().removeClass('active');
-            $(this).addClass('active');
-        });
+     function galleryTableBuilt3(object) {
+        var group_product = " ";
+        var group_table = " ";
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+        ////////////
+        group_table += '<table class="tg">';
+        group_table += '<tr><td rowspan="1"></td><th colspan="3" scope="colgroup">(فی(ریال</th></tr><tr><tr><th>هزینه بارگیری</th><th>(زرد و قرمز(خارجی</th><th>(قرمز(ایرانی</th><th>طوسی</th><th>تعداد در مترمربع</th><th>نوع</th></tr></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.yellowmix + '</td>';
+            group_table += '<td>' + value.red + '</td>';
+            group_table += '<td>' + value.toosi + '</td>';
+            group_table += '<td>' + value.inSquarefeet + '</td>';
+            group_table += '<th scope="row">' + value.type + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+
+        group.html(group_product).fadeIn("slow");
     }
-    /////////////////////////////////////////
-    function genreSwitch2(key) {
+ /// switching the type of product and calling appropriete function to load details /////
+
+
+     function genreSwitch(key,func) {
         $('.genres').on('click', 'li', function(e) {
             e.preventDefault();
             genre.removeAttr('class');
             group.fadeOut("slow");
             var rightObject = key[$(this).attr('class')];
-            setTimeout(function() { galleryTableBuilt(rightObject) }, 500);
+            setTimeout(function() { func(rightObject) }, 500);
             $(this).siblings().removeClass('active');
             $(this).addClass('active');
         });
     }
-    /////////////////////////////////////////
+ 
+    ////highlights correct category
     function activeType(type) {
-
         var a = $(".genres li:nth-child(1)");
         var b = $(".genres li:nth-child(2)");
         var c = $(".genres li:nth-child(3)");
-        
         $('genres li').removeClass('active');
         if (type === "a") {
             a.addClass('active');
@@ -26939,13 +27566,10 @@ $(document).ready(function() {
 
     ////////////////////////// apply function based on the uniqe product page \\\\\\\\\\\
 
-    if (genre.hasClass('mozayik')) {
-        genreBiult(data.mozayik);
-        galleryBuilt(data.mozayik.b["40x40"]);
-        genreSwitch(data.mozayik);
-        //////for catalog JADVAL
-    } else if (genre.hasClass('jadval')) {
-        genreBiult2(data.jadval);
+
+    //////for catalog JADVAL
+    if (genre.hasClass('jadval')) {
+        genreBiult(data.jadval);
         galleryTableBuilt(data.jadval.a);
         if (genre.hasClass('wet')) {
             activeType("a");
@@ -26957,10 +27581,22 @@ $(document).ready(function() {
             activeType("c");
             galleryTableBuilt(data.jadval.c);
         }
-        genreSwitch2(data.jadval);
+        genreSwitch(data.jadval,galleryTableBuilt);
+        //////for catalog BLOOK
+    } else if (genre.hasClass('blook')) {
+        genreBiult(data.blook);
+        galleryTableBuilt2(data.blook.a);
+        if (genre.hasClass('pooke')) {
+            activeType("a");
+            galleryTableBuilt2(data.blook.a);
+        } else if (genre.hasClass('simani')) {
+            activeType("b");
+            galleryTableBuilt2(data.blook.b);
+        }
+        genreSwitch(data.blook,galleryTableBuilt2);
         //////for catalog DAL
     } else if (genre.hasClass('dal')) {
-        genreBiult2(data.dal);
+        genreBiult(data.dal);
         galleryTableBuilt(data.dal.a);
         if (genre.hasClass('light')) {
             activeType("a");
@@ -26968,11 +27604,11 @@ $(document).ready(function() {
         } else if (genre.hasClass('heavy')) {
             activeType("b");
             galleryTableBuilt(data.dal.b);
-        } 
-        genreSwitch2(data.dal);
+        }
+        genreSwitch(data.dal,galleryTableBuilt);
         //////for catalog KAVAL
     } else if (genre.hasClass('kaval')) {
-        genreBiult2(data.kaval);
+        genreBiult(data.kaval);
         galleryTableBuilt(data.kaval.a);
         if (genre.hasClass('gerd')) {
             activeType("a");
@@ -26981,239 +27617,85 @@ $(document).ready(function() {
             activeType("b");
             galleryTableBuilt(data.kaval.b);
         } else if (genre.hasClass('kanaly')) {
+            activeType("c");
+            galleryTableBuilt(data.kaval.c);
+        }
+        genreSwitch(data.kaval,galleryTableBuilt);
+        //////for catalog KAFPOOSH
+    } else if (genre.hasClass('kafpoosh')) {
+        genreBiult(data.kafpoosh);
+        galleryTableBuilt3(data.kafpoosh.a);
+        if (genre.hasClass('khoshk')) {
+            activeType("a");
+            galleryTableBuilt3(data.kafpoosh.a);
+        } else if (genre.hasClass('press')) {
             activeType("b");
-            galleryTableBuilt(data.kaval.b);
-        } 
-        genreSwitch2(data.kaval);
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-    //////////////////////////////////////////////////////////////////////////////////////
-
-    // init controller
-    var controller = new ScrollMagic.Controller({ globalSceneOptions: { triggerHook: "onEnter", duration: "200%" } });
-
-    // build scenes
-    new ScrollMagic.Scene({ triggerElement: "#parallax1" })
-        .setTween("#parallax1 > div", { y: "80%", ease: Linear.easeNone })
-
-        .addTo(controller);
-
-    /** ===========================================
-        Hide / show the master navigation menu
-    ============================================ */
-
-    // console.log('Window Height is: ' + $(window).height());
-    // console.log('Document Height is: ' + $(document).height());
-
-    var previousScroll = 0;
-
-    $(window).scroll(function() {
-
-        var currentScroll = $(this).scrollTop();
-
-        /*
-          If the current scroll position is greater than 0 (the top) AND the current scroll position is less than the document height minus the window height (the bottom) run the navigation if/else statement.
-        */
-        if (currentScroll > 0 && currentScroll < $(document).height() - $(window).height()) {
-            /*
-              If the current scroll is greater than the previous scroll (i.e we're scrolling down the page), hide the nav.
-            */
-            if (currentScroll > previousScroll) {
-                window.setTimeout(hideNav, 300);
-                /*
-                  Else we are scrolling up (i.e the previous scroll is greater than the current scroll), so show the nav.
-                */
-            } else {
-                window.setTimeout(showNav, 300);
-            }
-            /* 
-              Set the previous scroll value equal to the current scroll.
-            */
-            previousScroll = currentScroll;
+            galleryTableBuilt3(data.kafpoosh.b);
+        } else if (genre.hasClass('vibrate')) {
+            activeType("c");
+            galleryTableBuilt3(data.kafpoosh.c);
+        } else if (genre.hasClass('wash')) {
+            activeType("d");
+            galleryTableBuilt3(data.kafpoosh.d);
         }
-
-    });
-
-    function hideNav() {
-        $("[data-nav-status='toggle']").removeClass("is-visible").addClass("is-hidden");
-    }
-
-    function showNav() {
-        $("[data-nav-status='toggle']").removeClass("is-hidden").addClass("is-visible");
-    }
-
-
-
-
-
-    ///////   back to top function\\\\\\\\\\\\\\
-
-    var btn_top = $('#back-to-top');
-
-    if (btn_top.length) {
-        var scrollTrigger = 100, // px
-            backToTop = function() {
-                var scrollTop = $(window).scrollTop();
-                if (scrollTop > scrollTrigger) {
-                    btn_top.addClass('show');
-                } else {
-                    btn_top.removeClass('show');
-                }
-            };
-        backToTop();
-        $(window).on('scroll', function() {
-            backToTop();
-        });
-        btn_top.on('click', function(e) {
-            e.preventDefault();
-            $('html,body').animate({
-                scrollTop: 0
-            }, 700);
-        });
-    }
-
-
-
-
-
-
-
-
-    //////////////// side nav \\\\\\\\\
-
-
-    var links = $('.sidenav ul');
-    var slide_nav = $('#mySidenav');
-
-    function openNav() {
-
-        slide_nav.css('width', "200px").addClass('nav-open');
-        // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
-    }
-
-    function closeNav() {
-        slide_nav.css('width', "0");
-        document.body.style.backgroundColor = "white";
-    }
-
-    $('#btn').click(function(e) {
-        e.stopPropagation();
-        if (slide_nav.hasClass('nav-open')) {
-            slide_nav.removeClass('nav-open');
-            links.fadeOut();
-            closeNav();
-
-        } else {
-            links.fadeIn();
-            openNav();
+        genreSwitch(data.kafpoosh,galleryTableBuilt3);
+        //////for catalog MOZAYIK
+    } else if (genre.hasClass('mozayik')) {
+        genreBiult(data.mozayik);
+        galleryTableBuilt3(data.mozayik.a);
+        if (genre.hasClass('simplw')) {
+            activeType("a");
+            galleryTableBuilt3(data.mozayik.a);
+        } else if (genre.hasClass('hayati')) {
+            activeType("b");
+            galleryTableBuilt3(data.mozayik.b);
         }
-
-    });
-    slide_nav.click(function() {
-        links.fadeOut();
-        closeNav();
-    });
-    $('#main,.main,.contact').click(function() {
-        links.fadeOut();
-        closeNav();
-    });
-
-
-    ///////////////// sub nav function for home goodies \\\\\\\\\\
-    var sub_down = $('.head-intro-sub');
-
-    function dropSub() {
-        sub_down.css('height', "50px").addClass('sub-open');
-        // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+        genreSwitch(data.mozayik,galleryTableBuilt3);
+        //////for catalog MOBLOMAN
     }
 
-    function closeSub() {
-        sub_down.css('height', "0");
-        document.body.style.backgroundColor = "white";
-    }
-    $('.head-intro').click(function(e) {
-        e.stopPropagation();
-        if (sub_down.hasClass('sub-open')) {
-            sub_down.removeClass('sub-open');
-            // links.fadeOut();
-            closeSub();
-
-        } else {
-            // links.fadeIn();
-            dropSub();
-        }
-
-    });
 
 
-
-    /////////// side nav sub links functions \\\\\\\\\\\\\\\\
-
-
-    function openSubLink(selector) {
-        if (selector.hasClass('expand')) {
-            selector.removeClass('expand');
-        } else {
-            selector.addClass('expand');
-        }
-    }
-
-    function openSubMenu(handler, div, svg) {
-        handler.click(function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            div.toggle('slow');
-            // div.toggleClass('nav-sub-img');
-            openSubLink(svg);
-        });
-    }
-
-    openSubMenu($('.nav-link-1'), $('.1'), $('.arrow-left-icon-1'));
-    /////////
-    openSubMenu($('.nav-link-1-1'), $('.1-1'), $('.arrow-left-icon-1-1'));
-    openSubMenu($('.nav-link-1-2'), $('.1-2'), $('.arrow-left-icon-1-2'));
-    openSubMenu($('.nav-link-1-3'), $('.1-3'), $('.arrow-left-icon-1-3'));
-    openSubMenu($('.nav-link-1-4'), $('.1-4'), $('.arrow-left-icon-1-4'));
-    openSubMenu($('.nav-link-1-5'), $('.1-5'), $('.arrow-left-icon-1-5'));
-    openSubMenu($('.nav-link-1-6'), $('.1-6'), $('.arrow-left-icon-1-6'));
-    openSubMenu($('.nav-link-1-7'), $('.1-7'), $('.arrow-left-icon-1-7'));
-
-    //////
-    openSubMenu($('.nav-link-2'), $('.2'), $('.arrow-left-icon-2'));
-
-    // $('.nav-link').click(function (e) {
-
-    //     e.preventDefault();
-    //     e.stopPropagation();
-    //     $('.nav').toggle('slow');
-    //    openSubLink($('.arrow-left-icon'));
-    // });
-
-
-
-
-
-
-
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__front__["a" /* default */])();
 
 
 });
 
+/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(0)))
 
 /***/ }),
 /* 35 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(5);
+if(typeof content === 'string') content = [[module.i, content, '']];
+// Prepare cssTransformation
+var transform;
+
+var options = {}
+options.transform = transform
+// add the styles to the DOM
+var update = __webpack_require__(36)(content, options);
+if(content.locals) module.exports = content.locals;
+// Hot Module Replacement
+if(false) {
+	// When the styles change, update the <style> tags
+	if(!content.locals) {
+		module.hot.accept("!!../../node_modules/css-loader/index.js!../../node_modules/sass-loader/lib/loader.js!./application.scss", function() {
+			var newContent = require("!!../../node_modules/css-loader/index.js!../../node_modules/sass-loader/lib/loader.js!./application.scss");
+			if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
+			update(newContent);
+		});
+	}
+	// When the module is disposed, remove the <style> tags
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+/* 36 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*

@@ -7,7 +7,7 @@
 		"uuidString": "ED783D06-A4C0-461C-8C5D-9C0378D37007"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26268",
 "files": {
 	"\/.bootstraprc": {
 		"cB": 0,
@@ -110,6 +110,26 @@
 		"oAP": "\/dist\/images\/blook\/37.tif",
 		"oF": 0
 		},
+	"\/dist\/images\/blook\/mobile\/pooke.jpg": {
+		"ft": 16384,
+		"iS": 170730,
+		"oA": 0,
+		"oAP": "\/dist\/images\/blook\/mobile\/pooke.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/blook\/mobile\/simani.jpg": {
+		"ft": 16384,
+		"iS": 105178,
+		"oA": 0,
+		"oAP": "\/dist\/images\/blook\/mobile\/simani.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/dist\/images\/dal\/39.tif": {
 		"cB": 0,
 		"ft": 8192,
@@ -191,6 +211,566 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/images\/kafpoosh\/20x203x.jpg": {
+		"ft": 16384,
+		"iS": 142061,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/20x203x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/40x403x.jpg": {
+		"ft": 16384,
+		"iS": 261234,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/40x403x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/5zeli3x.jpg": {
+		"ft": 16384,
+		"iS": 178880,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/5zeli3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/ajori3x.jpg": {
+		"ft": 16384,
+		"iS": 167379,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/ajori3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/congere3x.jpg": {
+		"ft": 16384,
+		"iS": 254421,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/congere3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/goonagoon3x.jpg": {
+		"ft": 16384,
+		"iS": 1225069,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/goonagoon3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/I3x.jpg": {
+		"ft": 16384,
+		"iS": 183114,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/I3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/kandooyi3x.jpg": {
+		"ft": 16384,
+		"iS": 227548,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/kandooyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/koozeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 204597,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/koozeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/lozipoostmari3x.jpg": {
+		"ft": 16384,
+		"iS": 245598,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/lozipoostmari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/lozisade3x.jpg": {
+		"ft": 16384,
+		"iS": 112194,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/lozisade3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/20x20.png": {
+		"ft": 32768,
+		"iS": 41398,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/20x20.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/30.png": {
+		"ft": 32768,
+		"iS": 161581,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/30.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/40x40.png": {
+		"ft": 32768,
+		"iS": 87335,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/40x40.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/5zeli.png": {
+		"ft": 32768,
+		"iS": 39150,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/5zeli.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/ajori.png": {
+		"ft": 32768,
+		"iS": 37991,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/ajori.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/congere.png": {
+		"ft": 32768,
+		"iS": 47965,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/congere.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/i.png": {
+		"ft": 32768,
+		"iS": 36931,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/i.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/kandooyi.png": {
+		"ft": 32768,
+		"iS": 60106,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/kandooyi.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/koozeyi.png": {
+		"ft": 32768,
+		"iS": 55951,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/koozeyi.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/lozipoostmari.png": {
+		"ft": 32768,
+		"iS": 41700,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/lozipoostmari.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/lozisade.png": {
+		"ft": 32768,
+		"iS": 32396,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/lozisade.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/puzzelesombe.png": {
+		"ft": 32768,
+		"iS": 55105,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/puzzelesombe.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/puzzle.png": {
+		"ft": 32768,
+		"iS": 54706,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/puzzle.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/saatsheni.png": {
+		"ft": 32768,
+		"iS": 61534,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/saatsheni.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/sangi.png": {
+		"ft": 32768,
+		"iS": 94610,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/sangi.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/sekeyi.png": {
+		"ft": 32768,
+		"iS": 104120,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/sekeyi.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/setareyi.png": {
+		"ft": 32768,
+		"iS": 103230,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/setareyi.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/shokolati.png": {
+		"ft": 32768,
+		"iS": 85446,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/shokolati.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/tabbari.png": {
+		"ft": 32768,
+		"iS": 38016,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/tabbari.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/mobile\/yasaman.png": {
+		"ft": 32768,
+		"iS": 108910,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/mobile\/yasaman.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/puzzelesombe3x.jpg": {
+		"ft": 16384,
+		"iS": 270401,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/puzzelesombe3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/puzzle3x.jpg": {
+		"ft": 16384,
+		"iS": 270372,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/puzzle3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/saatsheni3x.jpg": {
+		"ft": 16384,
+		"iS": 194083,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/saatsheni3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/sangi3x.jpg": {
+		"ft": 16384,
+		"iS": 377454,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/sangi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/sekeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 455645,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/sekeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/setareyi3x.jpg": {
+		"ft": 16384,
+		"iS": 420063,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/setareyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/shokolati3x.jpg": {
+		"ft": 16384,
+		"iS": 306137,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/shokolati3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/tabbari3x.jpg": {
+		"ft": 16384,
+		"iS": 174205,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/tabbari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/20x20.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/20x20.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/30.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/30.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/40x40.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/40x40.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/5 zeli.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/5 zeli.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/ajori.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/ajori.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/congere.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/congere.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/I.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/I.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/kandooyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/kandooyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/koozeyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/koozeyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/lozi poost mari.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/lozi poost mari.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/lozi sade.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/lozi sade.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/puzzele sombe.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/puzzele sombe.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/puzzle.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/puzzle.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/saat sheni.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/saat sheni.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/sangi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/sangi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/sekeyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/sekeyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/setareyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/setareyi.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/shokolati.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/shokolati.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/tabbari.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/tabbari.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/unoptimized\/yasaman.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/images\/kafpoosh\/unoptimized\/yasaman.tif",
+		"oF": 0
+		},
+	"\/dist\/images\/kafpoosh\/yasaman3x.jpg": {
+		"ft": 16384,
+		"iS": 534372,
+		"oA": 0,
+		"oAP": "\/dist\/images\/kafpoosh\/yasaman3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/dist\/images\/kaval\/36.tif": {
 		"cB": 0,
 		"ft": 8192,
@@ -258,566 +838,6 @@
 		"iS": 116233,
 		"oA": 0,
 		"oAP": "\/dist\/images\/kaval\/mobile\/gerd2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/20x203x.jpg": {
-		"ft": 16384,
-		"iS": 142061,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/20x203x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/40x403x.jpg": {
-		"ft": 16384,
-		"iS": 261234,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/40x403x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/5zeli3x.jpg": {
-		"ft": 16384,
-		"iS": 178880,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/5zeli3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/ajori3x.jpg": {
-		"ft": 16384,
-		"iS": 167379,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/ajori3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/congere3x.jpg": {
-		"ft": 16384,
-		"iS": 254421,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/congere3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/goonagoon3x.jpg": {
-		"ft": 16384,
-		"iS": 1225069,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/goonagoon3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/I3x.jpg": {
-		"ft": 16384,
-		"iS": 183114,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/I3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/kandooyi3x.jpg": {
-		"ft": 16384,
-		"iS": 227548,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/kandooyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/koozeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 204597,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/koozeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/lozipoostmari3x.jpg": {
-		"ft": 16384,
-		"iS": 245598,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/lozipoostmari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/lozisade3x.jpg": {
-		"ft": 16384,
-		"iS": 112194,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/lozisade3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/20x20.png": {
-		"ft": 32768,
-		"iS": 41398,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/20x20.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/30.png": {
-		"ft": 32768,
-		"iS": 161581,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/30.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/40x40.png": {
-		"ft": 32768,
-		"iS": 87335,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/40x40.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/5zeli.png": {
-		"ft": 32768,
-		"iS": 39150,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/5zeli.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/ajori.png": {
-		"ft": 32768,
-		"iS": 37991,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/ajori.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/congere.png": {
-		"ft": 32768,
-		"iS": 47965,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/congere.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/i.png": {
-		"ft": 32768,
-		"iS": 36931,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/i.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/kandooyi.png": {
-		"ft": 32768,
-		"iS": 60106,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/kandooyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/koozeyi.png": {
-		"ft": 32768,
-		"iS": 55951,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/koozeyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/lozipoostmari.png": {
-		"ft": 32768,
-		"iS": 41700,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/lozipoostmari.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/lozisade.png": {
-		"ft": 32768,
-		"iS": 32396,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/lozisade.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/puzzelesombe.png": {
-		"ft": 32768,
-		"iS": 55105,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/puzzelesombe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/puzzle.png": {
-		"ft": 32768,
-		"iS": 54706,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/puzzle.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/saatsheni.png": {
-		"ft": 32768,
-		"iS": 61534,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/saatsheni.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/sangi.png": {
-		"ft": 32768,
-		"iS": 94610,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/sangi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/sekeyi.png": {
-		"ft": 32768,
-		"iS": 104120,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/sekeyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/setareyi.png": {
-		"ft": 32768,
-		"iS": 103230,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/setareyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/shokolati.png": {
-		"ft": 32768,
-		"iS": 85446,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/shokolati.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/tabbari.png": {
-		"ft": 32768,
-		"iS": 38016,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/tabbari.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/mobile\/yasaman.png": {
-		"ft": 32768,
-		"iS": 108910,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/mobile\/yasaman.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/puzzelesombe3x.jpg": {
-		"ft": 16384,
-		"iS": 270401,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/puzzelesombe3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/puzzle3x.jpg": {
-		"ft": 16384,
-		"iS": 270372,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/puzzle3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/saatsheni3x.jpg": {
-		"ft": 16384,
-		"iS": 194083,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/saatsheni3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/sangi3x.jpg": {
-		"ft": 16384,
-		"iS": 377454,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/sangi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/sekeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 455645,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/sekeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/setareyi3x.jpg": {
-		"ft": 16384,
-		"iS": 420063,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/setareyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/shokolati3x.jpg": {
-		"ft": 16384,
-		"iS": 306137,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/shokolati3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/tabbari3x.jpg": {
-		"ft": 16384,
-		"iS": 174205,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/tabbari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/20x20.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/20x20.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/30.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/30.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/40x40.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/40x40.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/5 zeli.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/ajori.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/ajori.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/congere.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/congere.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/I.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/I.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/kandooyi.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/koozeyi.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi poost mari.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/lozi sade.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzele sombe.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/puzzle.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/puzzle.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/saat sheni.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/sangi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sangi.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/sekeyi.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/setareyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/setareyi.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/shokolati.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/shokolati.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/tabbari.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/tabbari.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/unoptimized\/yasaman.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/images\/mozayik\/unoptimized\/yasaman.tif",
-		"oF": 0
-		},
-	"\/dist\/images\/mozayik\/yasaman3x.jpg": {
-		"ft": 16384,
-		"iS": 534372,
-		"oA": 0,
-		"oAP": "\/dist\/images\/mozayik\/yasaman3x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1346,6 +1366,786 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/src\/images\/kafpoosh\/20x202x.png": {
+		"ft": 32768,
+		"iS": 313482,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/20x202x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/20x203x.jpg": {
+		"ft": 16384,
+		"iS": 142061,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/20x203x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/302x.png": {
+		"ft": 32768,
+		"iS": 1038934,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/302x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/40x402x.png": {
+		"ft": 32768,
+		"iS": 704274,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/40x402x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/40x403x.jpg": {
+		"ft": 16384,
+		"iS": 261234,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/40x403x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/5zeli2x.png": {
+		"ft": 32768,
+		"iS": 245271,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/5zeli2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/5zeli3x.jpg": {
+		"ft": 16384,
+		"iS": 178880,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/5zeli3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/ajori2x.png": {
+		"ft": 32768,
+		"iS": 506377,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/ajori2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/ajori3x.jpg": {
+		"ft": 16384,
+		"iS": 167379,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/ajori3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/congere2x.png": {
+		"ft": 32768,
+		"iS": 301342,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/congere2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/congere3x.jpg": {
+		"ft": 16384,
+		"iS": 254421,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/congere3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/goonagoon3x.jpg": {
+		"ft": 16384,
+		"iS": 1225069,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/goonagoon3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/I2x.png": {
+		"ft": 32768,
+		"iS": 235982,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/I2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/I3x.jpg": {
+		"ft": 16384,
+		"iS": 183114,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/I3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/kandooyi2x.png": {
+		"ft": 32768,
+		"iS": 423631,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/kandooyi2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/kandooyi3x.jpg": {
+		"ft": 16384,
+		"iS": 227548,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/kandooyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/koozeyi2x.png": {
+		"ft": 32768,
+		"iS": 365975,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/koozeyi2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/koozeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 204597,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/koozeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/lozipoostmari2x.png": {
+		"ft": 32768,
+		"iS": 269884,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/lozipoostmari2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/lozipoostmari3x.jpg": {
+		"ft": 16384,
+		"iS": 245598,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/lozipoostmari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/lozisade2x.png": {
+		"ft": 32768,
+		"iS": 234330,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/lozisade2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/lozisade3x.jpg": {
+		"ft": 16384,
+		"iS": 112194,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/lozisade3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/20x20.png": {
+		"ft": 32768,
+		"iS": 41398,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/20x20.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/30.png": {
+		"ft": 32768,
+		"iS": 161581,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/30.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/40x40.png": {
+		"ft": 32768,
+		"iS": 87335,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/40x40.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/5zeli.png": {
+		"ft": 32768,
+		"iS": 39150,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/5zeli.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/ajori.png": {
+		"ft": 32768,
+		"iS": 37991,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/ajori.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/congere.png": {
+		"ft": 32768,
+		"iS": 47965,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/congere.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/i.png": {
+		"ft": 32768,
+		"iS": 36931,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/i.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/kandooyi.png": {
+		"ft": 32768,
+		"iS": 60106,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/kandooyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/koozeyi.png": {
+		"ft": 32768,
+		"iS": 55951,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/koozeyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/lozipoostmari.png": {
+		"ft": 32768,
+		"iS": 41700,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/lozipoostmari.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/lozisade.png": {
+		"ft": 32768,
+		"iS": 32396,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/lozisade.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/puzzelesombe.png": {
+		"ft": 32768,
+		"iS": 55105,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/puzzelesombe.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/puzzle.png": {
+		"ft": 32768,
+		"iS": 54706,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/puzzle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/saatsheni.png": {
+		"ft": 32768,
+		"iS": 61534,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/saatsheni.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/sangi.png": {
+		"ft": 32768,
+		"iS": 94610,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/sangi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/sekeyi.png": {
+		"ft": 32768,
+		"iS": 104120,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/sekeyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/setareyi.png": {
+		"ft": 32768,
+		"iS": 103230,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/setareyi.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/shokolati.png": {
+		"ft": 32768,
+		"iS": 85446,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/shokolati.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/tabbari.png": {
+		"ft": 32768,
+		"iS": 38016,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/tabbari.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/mobile\/yasaman.png": {
+		"ft": 32768,
+		"iS": 108910,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/mobile\/yasaman.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/puzzelesombe2x.png": {
+		"ft": 32768,
+		"iS": 331958,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/puzzelesombe2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/puzzelesombe3x.jpg": {
+		"ft": 16384,
+		"iS": 270401,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/puzzelesombe3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/puzzle2x.png": {
+		"ft": 32768,
+		"iS": 330538,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/puzzle2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/puzzle3x.jpg": {
+		"ft": 16384,
+		"iS": 270372,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/puzzle3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/saatsheni2x.png": {
+		"ft": 32768,
+		"iS": 396633,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/saatsheni2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/saatsheni3x.jpg": {
+		"ft": 16384,
+		"iS": 194083,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/saatsheni3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/sangi2x.png": {
+		"ft": 32768,
+		"iS": 660083,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/sangi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/sangi3x.jpg": {
+		"ft": 16384,
+		"iS": 377454,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/sangi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/sekeyi2x.png": {
+		"ft": 32768,
+		"iS": 1545609,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/sekeyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/sekeyi3x.jpg": {
+		"ft": 16384,
+		"iS": 455645,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/sekeyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/setareyi2x.png": {
+		"ft": 32768,
+		"iS": 1524983,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/setareyi2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/setareyi3x.jpg": {
+		"ft": 16384,
+		"iS": 420063,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/setareyi3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/shokolati2x.png": {
+		"ft": 32768,
+		"iS": 1253577,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/shokolati2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/shokolati3x.jpg": {
+		"ft": 16384,
+		"iS": 306137,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/shokolati3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/tabbari2x.png": {
+		"ft": 32768,
+		"iS": 490790,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/tabbari2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/tabbari3x.jpg": {
+		"ft": 16384,
+		"iS": 174205,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/tabbari3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/20x20.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/20x20.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/30.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/30.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/40x40.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/40x40.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/5zeli.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/5zeli.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/ajori.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/ajori.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/congere.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/congere.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/i.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/i.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/kandooyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/kandooyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/koozeyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/koozeyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/lozipoostmari.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/lozipoostmari.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/lozisade.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/lozisade.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/puzzelesombe.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/puzzelesombe.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/puzzle.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/puzzle.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/saatsheni.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/saatsheni.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/sangi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/sangi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/sekeyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/sekeyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/setareyi.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/setareyi.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/shokolati.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/shokolati.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/tabbari.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/tabbari.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/unoptimized\/yasaman.tif": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/images\/kafpoosh\/unoptimized\/yasaman.tif",
+		"oF": 0
+		},
+	"\/src\/images\/kafpoosh\/yasaman2x.png": {
+		"ft": 32768,
+		"iS": 1726346,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/yasaman2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/src\/images\/kafpoosh\/yasaman3x.jpg": {
+		"ft": 16384,
+		"iS": 534372,
+		"oA": 0,
+		"oAP": "\/src\/images\/kafpoosh\/yasaman3x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/src\/images\/kaval\/36.tif": {
 		"cB": 0,
 		"ft": 8192,
@@ -1387,786 +2187,6 @@
 		"oA": 2,
 		"oAP": "\/src\/images\/kaval\/45.tif",
 		"oF": 0
-		},
-	"\/src\/images\/mozayik\/20x202x.png": {
-		"ft": 32768,
-		"iS": 313482,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/20x202x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/20x203x.jpg": {
-		"ft": 16384,
-		"iS": 142061,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/20x203x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/302x.png": {
-		"ft": 32768,
-		"iS": 1038934,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/302x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/40x402x.png": {
-		"ft": 32768,
-		"iS": 704274,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/40x402x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/40x403x.jpg": {
-		"ft": 16384,
-		"iS": 261234,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/40x403x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/5zeli2x.png": {
-		"ft": 32768,
-		"iS": 245271,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/5zeli2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/5zeli3x.jpg": {
-		"ft": 16384,
-		"iS": 178880,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/5zeli3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/ajori2x.png": {
-		"ft": 32768,
-		"iS": 506377,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/ajori2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/ajori3x.jpg": {
-		"ft": 16384,
-		"iS": 167379,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/ajori3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/congere2x.png": {
-		"ft": 32768,
-		"iS": 301342,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/congere2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/congere3x.jpg": {
-		"ft": 16384,
-		"iS": 254421,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/congere3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/goonagoon3x.jpg": {
-		"ft": 16384,
-		"iS": 1225069,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/goonagoon3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/I2x.png": {
-		"ft": 32768,
-		"iS": 235982,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/I2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/I3x.jpg": {
-		"ft": 16384,
-		"iS": 183114,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/I3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/kandooyi2x.png": {
-		"ft": 32768,
-		"iS": 423631,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/kandooyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/kandooyi3x.jpg": {
-		"ft": 16384,
-		"iS": 227548,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/kandooyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/koozeyi2x.png": {
-		"ft": 32768,
-		"iS": 365975,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/koozeyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/koozeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 204597,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/koozeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/lozipoostmari2x.png": {
-		"ft": 32768,
-		"iS": 269884,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/lozipoostmari2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/lozipoostmari3x.jpg": {
-		"ft": 16384,
-		"iS": 245598,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/lozipoostmari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/lozisade2x.png": {
-		"ft": 32768,
-		"iS": 234330,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/lozisade2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/lozisade3x.jpg": {
-		"ft": 16384,
-		"iS": 112194,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/lozisade3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/20x20.png": {
-		"ft": 32768,
-		"iS": 41398,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/20x20.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/30.png": {
-		"ft": 32768,
-		"iS": 161581,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/30.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/40x40.png": {
-		"ft": 32768,
-		"iS": 87335,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/40x40.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/5zeli.png": {
-		"ft": 32768,
-		"iS": 39150,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/5zeli.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/ajori.png": {
-		"ft": 32768,
-		"iS": 37991,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/ajori.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/congere.png": {
-		"ft": 32768,
-		"iS": 47965,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/congere.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/i.png": {
-		"ft": 32768,
-		"iS": 36931,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/i.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/kandooyi.png": {
-		"ft": 32768,
-		"iS": 60106,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/kandooyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/koozeyi.png": {
-		"ft": 32768,
-		"iS": 55951,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/koozeyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/lozipoostmari.png": {
-		"ft": 32768,
-		"iS": 41700,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/lozipoostmari.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/lozisade.png": {
-		"ft": 32768,
-		"iS": 32396,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/lozisade.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/puzzelesombe.png": {
-		"ft": 32768,
-		"iS": 55105,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/puzzelesombe.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/puzzle.png": {
-		"ft": 32768,
-		"iS": 54706,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/puzzle.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/saatsheni.png": {
-		"ft": 32768,
-		"iS": 61534,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/saatsheni.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/sangi.png": {
-		"ft": 32768,
-		"iS": 94610,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/sangi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/sekeyi.png": {
-		"ft": 32768,
-		"iS": 104120,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/sekeyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/setareyi.png": {
-		"ft": 32768,
-		"iS": 103230,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/setareyi.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/shokolati.png": {
-		"ft": 32768,
-		"iS": 85446,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/shokolati.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/tabbari.png": {
-		"ft": 32768,
-		"iS": 38016,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/tabbari.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/mobile\/yasaman.png": {
-		"ft": 32768,
-		"iS": 108910,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/mobile\/yasaman.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/puzzelesombe2x.png": {
-		"ft": 32768,
-		"iS": 331958,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/puzzelesombe2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/puzzelesombe3x.jpg": {
-		"ft": 16384,
-		"iS": 270401,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/puzzelesombe3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/puzzle2x.png": {
-		"ft": 32768,
-		"iS": 330538,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/puzzle2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/puzzle3x.jpg": {
-		"ft": 16384,
-		"iS": 270372,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/puzzle3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/saatsheni2x.png": {
-		"ft": 32768,
-		"iS": 396633,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/saatsheni2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/saatsheni3x.jpg": {
-		"ft": 16384,
-		"iS": 194083,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/saatsheni3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/sangi2x.png": {
-		"ft": 32768,
-		"iS": 660083,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/sangi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/sangi3x.jpg": {
-		"ft": 16384,
-		"iS": 377454,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/sangi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/sekeyi2x.png": {
-		"ft": 32768,
-		"iS": 1545609,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/sekeyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/sekeyi3x.jpg": {
-		"ft": 16384,
-		"iS": 455645,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/sekeyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/setareyi2x.png": {
-		"ft": 32768,
-		"iS": 1524983,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/setareyi2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/setareyi3x.jpg": {
-		"ft": 16384,
-		"iS": 420063,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/setareyi3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/shokolati2x.png": {
-		"ft": 32768,
-		"iS": 1253577,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/shokolati2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/shokolati3x.jpg": {
-		"ft": 16384,
-		"iS": 306137,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/shokolati3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/tabbari2x.png": {
-		"ft": 32768,
-		"iS": 490790,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/tabbari2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/tabbari3x.jpg": {
-		"ft": 16384,
-		"iS": 174205,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/tabbari3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/unoptimized\/20x20.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/20x20.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/30.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/30.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/40x40.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/40x40.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/5zeli.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/5zeli.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/ajori.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/ajori.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/congere.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/congere.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/i.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/i.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/kandooyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/kandooyi.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/koozeyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/koozeyi.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/lozipoostmari.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozipoostmari.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/lozisade.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/lozisade.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/puzzelesombe.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzelesombe.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/puzzle.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/puzzle.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/saatsheni.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/saatsheni.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/sangi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/sangi.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/sekeyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/sekeyi.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/setareyi.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/setareyi.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/shokolati.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/shokolati.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/tabbari.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/tabbari.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/unoptimized\/yasaman.tif": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/src\/images\/mozayik\/unoptimized\/yasaman.tif",
-		"oF": 0
-		},
-	"\/src\/images\/mozayik\/yasaman2x.png": {
-		"ft": 32768,
-		"iS": 1726346,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/yasaman2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/src\/images\/mozayik\/yasaman3x.jpg": {
-		"ft": 16384,
-		"iS": 534372,
-		"oA": 0,
-		"oAP": "\/src\/images\/mozayik\/yasaman3x.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/src\/images\/newjersey.tif": {
 		"cB": 0,
@@ -2587,9 +2607,19 @@
 	"\/src\/js\/data.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/src\/js\/min\/data-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/src\/js\/front.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/src\/js\/min\/front-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2597,11 +2627,11 @@
 	"\/src\/js\/main.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/src\/js\/min\/main-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/src\/js\/min\/data-min.js": {
@@ -3689,6 +3719,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
