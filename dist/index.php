@@ -53,13 +53,13 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="center-block" src="images/mozayik/mobile/5zeli.png" alt="First slide">
+                    <img class="center-block" src="images/kafpoosh/mobile/5zeli.png" alt="First slide">
                 </div>
                 <div class="item">
                 <div class="item">
-                    <img class="center-block" src="images/mozayik/mobile/ajori.png" alt="Third slide">
+                    <img class="center-block" src="images/kafpoosh/mobile/ajori.png" alt="Third slide">
                 </div>
-                    <img class="center-block" src="images/mozayik/mobile/puzzelesombe.png" alt="Second slide">
+                    <img class="center-block" src="images/kafpoosh/mobile/puzzelesombe.png" alt="Second slide">
                 </div>
             </div>
             <!-- Controls -->

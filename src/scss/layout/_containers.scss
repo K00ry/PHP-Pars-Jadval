@@ -34,15 +34,16 @@
 
     .active a {
         color: $text-yellow-main;
+        font-size: 1.7em;
     }
     li a:focus,
     li a:hover {
         color: $text-yellow-main;
-        transition-duration: .3s;
+        transition-duration: .7s;
     }
     li a {
 
-        padding: 10px;
+        margin: 10px;
         @include font-fam-size( 1.2em, asli, bold, $text-black-m);
     }
 }
@@ -76,7 +77,9 @@
 
 .table_wrapper {
     @include flex-display(flex, column, space-between, 100%, center);
+    padding: 2em 0;
     .aks_preview {
+        padding: 1em 0;
         max-width: 100%;
         height: auto;
     }

@@ -16,11 +16,26 @@ if(isset($_GET["cata"])){
     } else if ($_GET["mode"] == "hand") {
       $productMode = " hand";
     }  
+  } else if ($_GET["cata"] == "blook"){
+    $pageTitle = "دال بتني - پارس جدول"; 
+    $productGenre = "blook";
+    $productClass = "blook-page";
+    $productTitle = "بلوك";
+    if($_GET["mode"] == "pooke"){
+    $productMode = " pooke";
+    } else if ($_GET["mode"] == "simani") {
+      $productMode = " simani";
+    }   
   } else if ($_GET["cata"] == "mozayik") {
-  	$pageTitle = "موزاییک - پارس جدول";
+  	$pageTitle = "موزاییک";
   	$productGenre = "mozayik";
   	$productClass = "mozayik-page";
   	$productTitle = "موزاییک";
+     if($_GET["mode"] == "simple"){
+    $productMode = " simple";
+    } else if ($_GET["mode"] == "hayati") {
+      $productMode = " hayati";
+    } 
   } else if ($_GET["cata"] == "dal"){
     $pageTitle = "دال بتني - پارس جدول"; 
     $productGenre = "dal";
@@ -42,6 +57,20 @@ if(isset($_GET["cata"])){
       $productMode = " anbary";
     }  else if ($_GET["mode"] == "kanaly") {
       $productMode = " kanaly";
+    }  
+  } else if ($_GET["cata"] == "kafpoosh"){
+    $pageTitle = "دال بتني - پارس جدول"; 
+    $productGenre = "kafpoosh";
+    $productClass = "kafpoosh-page";
+    $productTitle = "كفپوش";
+    if($_GET["mode"] == "khoshk"){
+    $productMode = " khoshk";
+    } else if ($_GET["mode"] == "press") {
+      $productMode = " press";
+    }  else if ($_GET["mode"] == "vibrate") {
+      $productMode = " vibrate";
+    }  else if ($_GET["mode"] == "wash") {
+      $productMode = " wash";
     }  
   }
 }

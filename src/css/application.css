@@ -134,13 +134,14 @@ a:focus {
   list-style: none;
   padding: 0; }
   .genres .active a {
-    color: #FFCC00; }
+    color: #FFCC00;
+    font-size: 1.7em; }
   .genres li a:focus,
   .genres li a:hover {
     color: #FFCC00;
-    transition-duration: .3s; }
+    transition-duration: .7s; }
   .genres li a {
-    padding: 10px;
+    margin: 10px;
     font-size: 1.2em;
     font-family: asli;
     font-weight: bold;
@@ -188,8 +189,10 @@ a:focus {
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
-  align-items: center; }
+  align-items: center;
+  padding: 2em 0; }
   .table_wrapper .aks_preview {
+    padding: 1em 0;
     max-width: 100%;
     height: auto; }
   .table_wrapper table,

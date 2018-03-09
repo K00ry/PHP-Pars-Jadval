@@ -1,1 +1,248 @@
-var css=require("../scss/application.scss"),$=require("../../node_modules/jquery/dist/jquery.js"),bootstrapCarousel=require("../../node_modules/bootstrap/dist/js/npm.js"),bootstrap=require("../../node_modules/bootstrap/dist/js/bootstrap.js"),ScrollMagic=require("../../node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js"),setTween=require("../../node_modules/scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap.js"),data=require("./data.js");$(document).ready(function(){function a(a){f.empty();var s='<ul class="genres">';$.each(a,function(a,t){s+='<li class="'+a+'">',$.each(t,function(a,t){s+='<a href="#">'+a+"</a>",s+="</li>"})}),s+="</ul>",f.html(s),$(".genres li:nth-child(2)").addClass("active")}function s(a){f.empty();var s='<ul class="genres">';$.each(a,function(a,t){s+='<li class="'+a+'">',s+='<a href="#">'+t.type+"</a>",s+="</li>"}),s+="</ul>",f.html(s)}function t(a){var s=" ";$.each(a,function(a,t){s+='<div class="itemha">',s+='<img src="images/mozayik/mobile/'+t.img+'.png" alt="'+t.type+'">',s+='<div class="item-detail"><span>'+t.size+"</span>",s+='<span class="item-name">'+t.type+"</span></div>",s+="</div>"}),mozayik_class.html(s).fadeIn("slow")}function e(a){var s=" ",t=" ";s+='<div class="table_wrapper">',s+='<div class="aks_table">',s+='<img class="aks_preview" src="images/'+a.img+'.jpg" alt="'+a.type+'">',s+="</div>",t+='<table class="tg">',t+='<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th class="tg-031e">(cm)ابعاد</th></tr>',$.each(a.sizes,function(a,s){t+="<tr>",t+='<td class="tg-031e">'+s.shipping+"</td>",t+='<td class="tg-031e">'+s.price+"</td>",t+='<td class="tg-031e">'+s.type+"</td>",t+="</tr>"}),t+="</table></div>",s+=t,p.html(s).fadeIn("slow")}function l(a){$(".genres").on("click","li",function(s){s.preventDefault(),mozayik_class.fadeOut("slow");var e=a[$(this).attr("class")][$(this).children().html()];setTimeout(function(){t(e)},500),$(this).siblings().removeClass("active"),$(this).addClass("active")})}function n(a){$(".genres").on("click","li",function(s){s.preventDefault(),f.removeAttr("class"),p.fadeOut("slow");var t=a[$(this).attr("class")];setTimeout(function(){e(t)},500),$(this).siblings().removeClass("active"),$(this).addClass("active")})}function i(a){var s=$(".genres li:nth-child(1)"),t=$(".genres li:nth-child(2)"),e=$(".genres li:nth-child(3)");$("genres li").removeClass("active"),"a"===a?s.addClass("active"):"b"===a?t.addClass("active"):e.addClass("active")}function o(){$("[data-nav-status='toggle']").removeClass("is-visible").addClass("is-hidden")}function c(){$("[data-nav-status='toggle']").removeClass("is-hidden").addClass("is-visible")}function d(){T.css("width","200px").addClass("nav-open")}function r(){T.css("width","0"),document.body.style.backgroundColor="white"}function u(){_.css("height","50px").addClass("sub-open")}function v(){_.css("height","0"),document.body.style.backgroundColor="white"}function h(a){a.hasClass("expand")?a.removeClass("expand"):a.addClass("expand")}function g(a,s,t){a.click(function(a){a.preventDefault(),a.stopPropagation(),s.toggle("slow"),h(t)})}console.log(data);var m=$(".wrapper"),p=$(".group"),f=$("#genre"),w=document.querySelector(".genre-btn a");f.hasClass("mozayik")?(a(data.mozayik),t(data.mozayik.b["40x40"]),l(data.mozayik)):f.hasClass("jadval")?(s(data.jadval),e(data.jadval.a),f.hasClass("wet")?(i("a"),e(data.jadval.a)):f.hasClass("kush")?(i("b"),e(data.jadval.b)):f.hasClass("hand")&&(i("c"),e(data.jadval.c)),n(data.jadval)):f.hasClass("dal")?(s(data.dal),e(data.dal.a),f.hasClass("light")?(i("a"),e(data.dal.a)):f.hasClass("heavy")&&(i("b"),e(data.dal.b)),n(data.dal)):f.hasClass("kaval")&&(s(data.kaval),e(data.kaval.a),f.hasClass("gerd")?(i("a"),e(data.kaval.a)):f.hasClass("anbary")?(i("b"),e(data.kaval.b)):f.hasClass("kanaly")&&(i("b"),e(data.kaval.b)),n(data.kaval));var C=new ScrollMagic.Controller({globalSceneOptions:{triggerHook:"onEnter",duration:"200%"}});new ScrollMagic.Scene({triggerElement:"#parallax1"}).setTween("#parallax1 > div",{y:"80%",ease:Linear.easeNone}).addTo(C);var k=0;$(window).scroll(function(){var a=$(this).scrollTop();a>0&&a<$(document).height()-$(window).height()&&(a>k?window.setTimeout(o,300):window.setTimeout(c,300),k=a)});var b=$("#back-to-top");if(b.length){var y=100,j=function(){$(window).scrollTop()>100?b.addClass("show"):b.removeClass("show")};j(),$(window).on("scroll",function(){j()}),b.on("click",function(a){a.preventDefault(),$("html,body").animate({scrollTop:0},700)})}var q=$(".sidenav ul"),T=$("#mySidenav");$("#btn").click(function(a){a.stopPropagation(),T.hasClass("nav-open")?(T.removeClass("nav-open"),q.fadeOut(),r()):(q.fadeIn(),d())}),T.click(function(){q.fadeOut(),r()}),$("#main,.main,.contact").click(function(){q.fadeOut(),r()});var _=$(".head-intro-sub");$(".head-intro").click(function(a){a.stopPropagation(),_.hasClass("sub-open")?(_.removeClass("sub-open"),v()):u()}),g($(".nav-link-1"),$(".1"),$(".arrow-left-icon-1")),g($(".nav-link-1-1"),$(".1-1"),$(".arrow-left-icon-1-1")),g($(".nav-link-1-2"),$(".1-2"),$(".arrow-left-icon-1-2")),g($(".nav-link-1-3"),$(".1-3"),$(".arrow-left-icon-1-3")),g($(".nav-link-1-4"),$(".1-4"),$(".arrow-left-icon-1-4")),g($(".nav-link-1-5"),$(".1-5"),$(".arrow-left-icon-1-5")),g($(".nav-link-1-6"),$(".1-6"),$(".arrow-left-icon-1-6")),g($(".nav-link-1-7"),$(".1-7"),$(".arrow-left-icon-1-7")),g($(".nav-link-2"),$(".2"),$(".arrow-left-icon-2"))});
+const data = require('./data.js');
+import front from './front';
+
+$(document).ready(function() {
+    console.log(data);
+
+    /////// catalog  Functions \\\\\\\\\\\\\
+
+    var catalogGroup = $('.wrapper');
+    var group = $(".group");
+    var genre = $('#genre');
+    var genre_btn = document.querySelector(".genre-btn a");;
+
+
+
+
+    //////////////////////////////////////
+    function genreBiult(object) {
+        genre.empty();
+        var genre_identify = '<ul class="genres">';
+        $.each(object, function(key, value) {
+            genre_identify += '<li class="' + key + '">';
+            // genre_identify += '<li class="genre-btn">';
+            genre_identify += '<a href="#">' + value.type + '</a>';
+            genre_identify += '</li>';
+        });
+        genre_identify += "</ul>"
+        genre.html(genre_identify);
+        // $(".genres li:nth-child(1)").addClass('active');
+    }
+    /////////////////////////////////////////
+
+    function galleryBuilt(object) {
+
+        var group_product = " ";
+        $.each(object, function(key, value) {
+            group_product += '<div class="itemha">';
+            group_product += '<img src="images/mozayik/mobile/' + value.img + '.png" alt="' + value.type + '">';
+            group_product += '<div class="item-detail"><span>' + value.size + '</span>';
+            group_product += '<span class="item-name">' + value.type + '</span></div>';
+            group_product += '</div>';
+        })
+        mozayik_class.html(group_product).fadeIn("slow");
+    }
+    /////////////////////////////////////////
+
+    function galleryTableBuilt(object) {
+
+        var group_product = " ";
+        var group_table = " ";
+
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+        ////////////
+        group_table += '<table class="tg">';
+        group_table += '<tr><th class="tg-6xid">هزینه</th><th class="tg-4s02">(فی(ریال</th><th>(cm)ابعاد</th></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.price + '</td>';
+            group_table += '<td>' + value.type + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+
+        group.html(group_product).fadeIn("slow");
+    }
+    /////// alternate Table built 2
+
+    function galleryTableBuilt2(object) {
+        var group_product = " ";
+        var group_table = " ";
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+        ////////////
+        group_table += '<table class="tg">';
+        group_table += '<tr><th>هزینه</th><th>(فی(ریال</th><th>(cm)ابعاد</th><th>نوع</th></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.price + '</td>';
+            group_table += '<td>' + value.size + '</td>';
+            group_table += '<td>' + value.type + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+
+        group.html(group_product).fadeIn("slow");
+    }
+    /////////////////////////////////////////
+     function galleryTableBuilt3(object) {
+        var group_product = " ";
+        var group_table = " ";
+        group_product += '<div class="table_wrapper">';
+        group_product += '<div class="aks_table">';
+        group_product += '<img class="aks_preview" src="images/' + object.img + '.jpg" alt="' + object.type + '">';
+        group_product += '</div>';
+        ////////////
+        group_table += '<table class="tg">';
+        group_table += '<tr><td rowspan="1"></td><th colspan="3" scope="colgroup">(فی(ریال</th></tr><tr><tr><th>هزینه بارگیری</th><th>(زرد و قرمز(خارجی</th><th>(قرمز(ایرانی</th><th>طوسی</th><th>تعداد در مترمربع</th><th>نوع</th></tr></tr>';
+        $.each(object.sizes, function(key, value) {
+            group_table += '<tr>';
+            group_table += '<td>' + value.shipping + '</td>';
+            group_table += '<td>' + value.yellowmix + '</td>';
+            group_table += '<td>' + value.red + '</td>';
+            group_table += '<td>' + value.toosi + '</td>';
+            group_table += '<td>' + value.inSquarefeet + '</td>';
+            group_table += '<th scope="row">' + value.type + '</td>';
+            group_table += '</tr>';
+        })
+        group_table += '</table></div>';
+        group_product += group_table;
+
+        group.html(group_product).fadeIn("slow");
+    }
+ /// switching the type of product and calling appropriete function to load details /////
+
+
+     function genreSwitch(key,func) {
+        $('.genres').on('click', 'li', function(e) {
+            e.preventDefault();
+            genre.removeAttr('class');
+            group.fadeOut("slow");
+            var rightObject = key[$(this).attr('class')];
+            setTimeout(function() { func(rightObject) }, 500);
+            $(this).siblings().removeClass('active');
+            $(this).addClass('active');
+        });
+    }
+ 
+    ////highlights correct category
+    function activeType(type) {
+        var a = $(".genres li:nth-child(1)");
+        var b = $(".genres li:nth-child(2)");
+        var c = $(".genres li:nth-child(3)");
+        $('genres li').removeClass('active');
+        if (type === "a") {
+            a.addClass('active');
+        } else if (type === "b") {
+            b.addClass('active');
+        } else {
+            c.addClass('active');
+        }
+    }
+
+    ////////////////////////// apply function based on the uniqe product page \\\\\\\\\\\
+
+
+    //////for catalog JADVAL
+    if (genre.hasClass('jadval')) {
+        genreBiult(data.jadval);
+        galleryTableBuilt(data.jadval.a);
+        if (genre.hasClass('wet')) {
+            activeType("a");
+            galleryTableBuilt(data.jadval.a);
+        } else if (genre.hasClass('kush')) {
+            activeType("b");
+            galleryTableBuilt(data.jadval.b);
+        } else if (genre.hasClass('hand')) {
+            activeType("c");
+            galleryTableBuilt(data.jadval.c);
+        }
+        genreSwitch(data.jadval,galleryTableBuilt);
+        //////for catalog BLOOK
+    } else if (genre.hasClass('blook')) {
+        genreBiult(data.blook);
+        galleryTableBuilt2(data.blook.a);
+        if (genre.hasClass('pooke')) {
+            activeType("a");
+            galleryTableBuilt2(data.blook.a);
+        } else if (genre.hasClass('simani')) {
+            activeType("b");
+            galleryTableBuilt2(data.blook.b);
+        }
+        genreSwitch(data.blook,galleryTableBuilt2);
+        //////for catalog DAL
+    } else if (genre.hasClass('dal')) {
+        genreBiult(data.dal);
+        galleryTableBuilt(data.dal.a);
+        if (genre.hasClass('light')) {
+            activeType("a");
+            galleryTableBuilt(data.dal.a);
+        } else if (genre.hasClass('heavy')) {
+            activeType("b");
+            galleryTableBuilt(data.dal.b);
+        }
+        genreSwitch(data.dal,galleryTableBuilt);
+        //////for catalog KAVAL
+    } else if (genre.hasClass('kaval')) {
+        genreBiult(data.kaval);
+        galleryTableBuilt(data.kaval.a);
+        if (genre.hasClass('gerd')) {
+            activeType("a");
+            galleryTableBuilt(data.kaval.a);
+        } else if (genre.hasClass('anbary')) {
+            activeType("b");
+            galleryTableBuilt(data.kaval.b);
+        } else if (genre.hasClass('kanaly')) {
+            activeType("c");
+            galleryTableBuilt(data.kaval.c);
+        }
+        genreSwitch(data.kaval,galleryTableBuilt);
+        //////for catalog KAFPOOSH
+    } else if (genre.hasClass('kafpoosh')) {
+        genreBiult(data.kafpoosh);
+        galleryTableBuilt3(data.kafpoosh.a);
+        if (genre.hasClass('khoshk')) {
+            activeType("a");
+            galleryTableBuilt3(data.kafpoosh.a);
+        } else if (genre.hasClass('press')) {
+            activeType("b");
+            galleryTableBuilt3(data.kafpoosh.b);
+        } else if (genre.hasClass('vibrate')) {
+            activeType("c");
+            galleryTableBuilt3(data.kafpoosh.c);
+        } else if (genre.hasClass('wash')) {
+            activeType("d");
+            galleryTableBuilt3(data.kafpoosh.d);
+        }
+        genreSwitch(data.kafpoosh,galleryTableBuilt3);
+        //////for catalog MOZAYIK
+    } else if (genre.hasClass('mozayik')) {
+        genreBiult(data.mozayik);
+        galleryTableBuilt3(data.mozayik.a);
+        if (genre.hasClass('simplw')) {
+            activeType("a");
+            galleryTableBuilt3(data.mozayik.a);
+        } else if (genre.hasClass('hayati')) {
+            activeType("b");
+            galleryTableBuilt3(data.mozayik.b);
+        }
+        genreSwitch(data.mozayik,galleryTableBuilt3);
+        //////for catalog MOBLOMAN
+    }
+
+
+
+    front();
+
+
+});
+
